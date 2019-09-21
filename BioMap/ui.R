@@ -15,6 +15,7 @@ library(ggmap)
 library(mapdata)
 library(rsconnect)
 library(tidyr)
+library(shinydashboard)
 
 # Define UI for application that draws a histogram
 dashboardPage(

@@ -22,7 +22,7 @@ dashboardPage(
   dashboardHeader(title = "BioMap Australia"),
   dashboardSidebar(
     sidebarMenu(
-      menuItem("Route Dashboard", tabName = "dashboard", icon = icon("dashboard")),
+      menuItem("Route Dashboard", tabName = "Route", icon = icon("dashboard")),
       menuItem("Location Dashboard", tabName = "Location", icon = icon("dashboard")),
       menuItem("Data", tabName = "data", icon = icon("th"))
 
@@ -30,31 +30,26 @@ dashboardPage(
   ),
   dashboardBody(
     tabItems(
-      # first tab item
-      tabItem(tabName = "dashboard",
-        tabPanel("Tab 2" ,
-                 #map
-          leafletOutput("RouteMap",height = 1000)
-      
-        ),
-        
+      # Route tab
+      tabItem(tabName = "Route",
+              fluidRow(
+                plotOutput("AltitudePlot", height = 200),
+                leafletOutput("RouteMap",height = 1000)
+              ),
+
         conditionalPanel("false", icon("crosshair"))
       ),
-      # second tab item
+      # Location tab
+      tabItem(tabName = "Location",
+              leafletOutput("LocationMap",height = 1000),
+              conditionalPanel("false", icon("crosshair"))
+      ),
+              
+      # Data tab
       tabItem(tabName = "data",
               h2("Data that feeds Dashboard")
-      ),
-      
-      #third tab item
-      tabItem(tabName = "Location",
-              tabPanel("Tab 3" ,
-                       #map
-                       leafletOutput("LocationMap",height = 1000)
-        ),
-              
-              conditionalPanel("false", icon("crosshair"))
-                       
       )
+    )
   )
 )
-)
+#)

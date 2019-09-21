@@ -1,4 +1,4 @@
-﻿Time,Latitude (Deg),Longitude (Deg),Altitude (m),Heart Rate (bpm),Speed (km/h),Vibrations,Route Num
+﻿Time,Latitude,Longitude,Altitude,Heart Rate,Speed,Vibrations,Route Num
 2019-09-20T22:42:42Z,,,,,,,1
 2019-09-20T22:42:43Z,,,7,136,,,1
 2019-09-20T22:42:45Z,,,7,137,,,1

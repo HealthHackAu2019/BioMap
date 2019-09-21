@@ -12,8 +12,9 @@ library(leaflet)
 library(maps)
 library(ggplot2)
 library(ggmap)
-library(maps)
 library(mapdata)
+library(rsconnect)
+library(tidyr)
 
 # Define UI for application that draws a histogram
 shinyUI(fluidPage(

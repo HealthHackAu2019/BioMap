@@ -1,0 +1,3 @@
+csv files with route specific data
+Headings in the file correspond to following properties:
+(HR = "ns1:Value4", altitude = "ns1:AltitudeMeters", speed = "ns1:Speed", lat = "ns1:LatitudeDegrees", lon = "ns1:LongitudeDegrees")

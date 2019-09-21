@@ -28,7 +28,7 @@ shinyServer(function(input, output) {
   output$mymap <- renderLeaflet({
     m <- leaflet() %>%
       addTiles() %>%
-      setView(lng=-73.935242, lat=40.730610 , zoom=10)
+      setView(lng=153.0251, lat=-27.4698, zoom=10)
     m
   })
   

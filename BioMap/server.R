@@ -11,13 +11,21 @@ library(shiny)
 library(rsconnect)
 
 #DATA 
+sampleRoute = read_csv("TestData.csv")
+
+#longitude and latitude variables
+#ns1:LatitudeDegrees
+#ns1:LongitudeDegrees
+
+sampleRoute$ns1_LatitudeDegrees
+
 #line test data
 
 markers <- data.frame(Observation = c("A", "B"),
-                   InitialLat = c(-27.489124,-27.466043),
-                   InitialLong = c(153.032723, 153.027651),
-                   NewLat = c(-27.489124,-27.466043),
-                   NewLong = c(153.032723, 153.027651),
+                   InitialLat = c(sampleRoute$ns1_LatitudeDegrees[5],sampleRoute$ns1_LatitudeDegrees[433]),
+                   InitialLong = c(sampleRoute$ns1_LongitudeDegrees[5],sampleRoute$ns1_LongitudeDegrees[433]),
+                   NewLat = c(sampleRoute$ns1_LatitudeDegrees[5],sampleRoute$ns1_LatitudeDegrees[433]),
+                   NewLong = c(sampleRoute$ns1_LongitudeDegrees[5],sampleRoute$ns1_LongitudeDegrees[433]),
                    stringsAsFactors = FALSE)
 
 markers2 <- data.frame(group = c("A", "B"),
@@ -40,7 +48,7 @@ shinyServer(function(input, output) {
   })
 
   #base map
-  output$mymap <- renderLeaflet({
+  output$RouteMap <- renderLeaflet({
     m <- leaflet() %>%
       addTiles() %>%
       addRectangles(
@@ -52,7 +60,20 @@ shinyServer(function(input, output) {
 
     m
   })
-
+  
+  #base map
+  output$LocationMap <- renderLeaflet({
+    ma <- leaflet() %>%
+      addTiles() %>%
+      addRectangles(
+        lng1=152.000, lat1=-28.000,
+        lng2=154.000, lat2=-27.000,
+        fillColor = "transparent") %>%
+      addPolylines(data = markers2, lng = ~long, lat = ~lat, group = ~group) %>%
+      setView(lng=153.0251, lat=-27.4698, zoom=10) #%>%
+    
+    ma
+  })
   
 })
 

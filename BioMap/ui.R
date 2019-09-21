@@ -23,7 +23,9 @@ dashboardPage(
   dashboardSidebar(
     sidebarMenu(
       menuItem("Dashboard", tabName = "dashboard", icon = icon("dashboard")),
+      menuItem("Location Dashboard", tabName = "Location", icon = icon("dashboard")),
       menuItem("Data", tabName = "data", icon = icon("th"))
+
     )
   ),
   dashboardBody(
@@ -32,7 +34,7 @@ dashboardPage(
       tabItem(tabName = "dashboard",
         tabPanel("Tab 2" ,
                  #map
-                 leafletOutput("mymap",height = 1000)
+          leafletOutput("RouteMap",height = 1000)
       
         ),
         
@@ -41,7 +43,18 @@ dashboardPage(
       # second tab item
       tabItem(tabName = "data",
               h2("Data that feeds Dashboard")
+      ),
+      
+      #third tab item
+      tabItem(tabName = "Location",
+              tabPanel("Tab 3" ,
+                       #map
+                       leafletOutput("LocationMap",height = 1000)
+        ),
+              
+              conditionalPanel("false", icon("crosshair"))
+                       
       )
-    )
+  )
 )
 )

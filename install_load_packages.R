@@ -17,5 +17,7 @@ packages<-c("ggplot2",
             "readr", 
             "shiny",
             "mapdata",
-            "shinydashboard")
+            "shinydashboard",
+            "dplyr",
+            "jsonlite")
 check.packages(packages)

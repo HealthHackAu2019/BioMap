@@ -1,0 +1,2 @@
+csv files with route specific data
+(HR = "ns1:Value4", altitude = "ns1:AltitudeMeters", speed = "ns1:Speed", lat = "ns1:LatitudeDegrees", lon = "ns1:LongitudeDegrees")

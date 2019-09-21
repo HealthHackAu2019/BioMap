@@ -23,5 +23,15 @@ shinyServer(function(input, output) {
     hist(x, breaks = bins, col = 'darkgray', border = 'white')
     
   })
+
+  #base map
+  output$mymap <- renderLeaflet({
+    m <- leaflet() %>%
+      addTiles() %>%
+      setView(lng=-73.935242, lat=40.730610 , zoom=10)
+    m
+  })
+  
+  
   
 })

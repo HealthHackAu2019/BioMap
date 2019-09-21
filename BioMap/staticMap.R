@@ -39,6 +39,7 @@ library(RColorBrewer)
 
 #DATA 
 TestData <- read_csv("Data/Routes/ALLRoutes.csv")
+shapes <- shapefile("SA3_2016_AUST.shp")
 
 # converting JSON to dataframe so that it can be used in the leaflet map
 data2 <- fromJSON("BioMap/data.json")
@@ -49,6 +50,25 @@ data2 <- data2 %>%
          long = `Low longitude (deg)`,
          group = `Date`)
 
+
+# From https://www.census.gov/geo/maps-data/data/cbf/cbf_state.html
+# states <- readOGR("SA3_2016_AUST.shp",
+#                   layer = "cb_2013_us_state_20m", GDAL1_integer64_policy = TRUE)
+
+mytext <- paste(
+  "Location: ", shapes$STE_NAME16,"<br/>", 
+  "Area: ", shapes$AREASQKM16, "<br/>", 
+  #"Population: ", round(world_spdf@data$POP2005, 2), 
+  sep="") %>%
+  lapply(htmltools::HTML)
+
+mytext2 <- paste(
+  "Group: ", mapData$group,"<br/>", 
+  "Speed: ", mapData$Speed, "<br/>", 
+  #"Population: ", round(world_spdf@data$POP2005, 2), 
+  sep="") %>%
+  lapply(htmltools::HTML)
+
 #line test data
 
 mapData = TestData[,c("Latitude","Longitude","Speed","Route Num")]
@@ -57,19 +77,19 @@ mapData2 = mapData[seq(1, nrow(mapData), 100), ]
 
 m <- leaflet() %>%
   addTiles() %>%
-  addPolylines(data = mapData, lng = ~Longitude, lat = ~Latitude, group = ~group) %>%
+  addPolylines(data = mapData, lng = ~Longitude, lat = ~Latitude, group = ~group, label = ~mytext2) %>%
   addMarkers(data = mapData2, lng= ~Longitude, lat= ~Latitude, popup = ~as.character(Speed), label = ~as.character(group)) %>%
   setView(lng=153.0251, lat=-27.4698, zoom=10)
-
 m
 
 
-shapes <- shapefile("SA3_2016_AUST.shp")
+
 
 
 pal <- colorFactor("YlOrRd", shapes$STE_NAME16)
 
-addTiles() %>%
+ma <- leaflet() %>%
+  addTiles() %>%
   addPolygons(data=shapes,
               fillColor = ~locPalette(STE_NAME16),
               weight = 2,
@@ -82,7 +102,12 @@ addTiles() %>%
                 color = "#666",
                 dashArray = "",
                 fillOpacity = 0.3,
-                bringToFront = TRUE)) %>%
+                bringToFront = TRUE),
+              label = mytext,
+              labelOptions = labelOptions(
+                style = list("font-weight" = "normal", padding = "3px 8px"),
+                textsize = "15px",
+                direction = "auto")) %>%
   setView(lng=153.0251, lat=-27.4698, zoom=10) #%>%
 ma
 

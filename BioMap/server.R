@@ -36,6 +36,21 @@ mapData2 = mapData[seq(1, nrow(mapData), 100), ]
 locPalette = colorFactor("YlOrRd", shapes$STE_NAME16)
 RoutePalette = colorNumeric(c("white","yellow", "navy"), mapData$group)
 #https://rstudio.github.io/leaflet/colors.html
+#https://www.r-graph-gallery.com/183-choropleth-map-with-leaflet.html
+
+mytext <- paste(
+  "Location: ", shapes$STE_NAME16,"<br/>", 
+  "Area: ", shapes$AREASQKM16, "<br/>", 
+  #"Population: ", round(world_spdf@data$POP2005, 2), 
+  sep="") %>%
+  lapply(htmltools::HTML)
+
+mytext2 <- paste(
+  "Group: ", mapData$group,"<br/>", 
+  "Speed: ", mapData$Speed, "<br/>", 
+  #"Population: ", round(world_spdf@data$POP2005, 2), 
+  sep="") %>%
+  lapply(htmltools::HTML)
 
 # Define server logic required to draw a histogram
 shinyServer(function(input, output) {
@@ -45,10 +60,10 @@ shinyServer(function(input, output) {
   
   output$RouteMap <- renderLeaflet({
     m <- leaflet() %>%
-          addTiles() %>%
-          addPolylines(data = mapData, lng = ~Longitude, lat = ~Latitude, group = ~group, color = ~RoutePalette(group)) %>%
-          addMarkers(data = mapData2, lng= ~Longitude, lat= ~Latitude, popup = ~as.character(Speed), label = ~as.character(group)) %>%
-          setView(lng=153.0251, lat=-27.4698, zoom=10)
+      addTiles() %>%
+      addPolylines(data = mapData, lng = ~Longitude, lat = ~Latitude, group = ~group, label = ~mytext2) %>%
+      addMarkers(data = mapData2, lng= ~Longitude, lat= ~Latitude, popup = ~as.character(Speed), label = ~as.character(group)) %>%
+      setView(lng=153.0251, lat=-27.4698, zoom=10)
     m
   })
   
@@ -61,7 +76,7 @@ shinyServer(function(input, output) {
   # - Setup colours and pop ups with relevant variables
   
 #map the colours by AREASQKM16
-
+  
   output$LocationMap <- renderLeaflet({
     ma <- leaflet() %>%
       addTiles() %>%
@@ -78,7 +93,7 @@ shinyServer(function(input, output) {
                     dashArray = "",
                     fillOpacity = 0.3,
                     bringToFront = TRUE),
-                  label = "HI",
+                  label = mytext,
                   labelOptions = labelOptions(
                     style = list("font-weight" = "normal", padding = "3px 8px"),
                     textsize = "15px",

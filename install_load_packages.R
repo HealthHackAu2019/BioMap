@@ -19,5 +19,7 @@ packages<-c("ggplot2",
             "mapdata",
             "shinydashboard",
             "dplyr",
-            "jsonlite")
+            "jsonlite",
+            "rgdal",
+            "raster")
 check.packages(packages)

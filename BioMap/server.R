@@ -43,15 +43,17 @@ sampleRoute$ns1_LatitudeDegrees
 #line test data
 
 markers <- data.frame(Observation = c("A", "B"),
-                   InitialLat = c(sampleRoute$ns1_LatitudeDegrees[5],sampleRoute$ns1_LatitudeDegrees[433]),
-                   InitialLong = c(sampleRoute$ns1_LongitudeDegrees[5],sampleRoute$ns1_LongitudeDegrees[433]),
-                   NewLat = c(sampleRoute$ns1_LatitudeDegrees[5],sampleRoute$ns1_LatitudeDegrees[433]),
-                   NewLong = c(sampleRoute$ns1_LongitudeDegrees[5],sampleRoute$ns1_LongitudeDegrees[433]),
-                   stringsAsFactors = FALSE)
+                      InitialLat = c(TestData$ns1_LatitudeDegrees,TestData$ns1_LatitudeDegrees),
+                      InitialLong = c(TestData$ns1_LongitudeDegrees,TestData$ns1_LongitudeDegrees),
+                      NewLat = c(TestData$ns1_LatitudeDegrees,TestData$ns1_LatitudeDegrees),
+                      NewLong = c(TestData$ns1_LongitudeDegrees,TestData$ns1_LongitudeDegrees),
+                      stringsAsFactors = FALSE)
 
 markers2 <- data.frame(group = c("A", "B"),
-                    lat = c(markers$InitialLat, markers$NewLat),
-                    long = c(markers$InitialLong, markers$NewLong))
+                       lat = c(markers$InitialLat, markers$InitialLat),#, markers$NewLat),
+                       long = c(markers$InitialLong, markers$InitialLong)#, markers$NewLong)
+)
+
 
 
 # Define server logic required to draw a histogram
@@ -77,9 +79,8 @@ shinyServer(function(input, output) {
         lng2=154.000, lat2=-27.000,
         fillColor = "transparent") %>%
       addPolylines(data = markers2, lng = ~long, lat = ~lat, group = ~group) %>% 
-      addMarkers(data = data2, lng= ~long, lat= ~lat, popup = ~as.character(group), label = ~as.character(group)) %>%
+      addMarkers(data = markers2, lng= ~long, lat= ~lat, popup = ~as.character(group), label = ~as.character(group)) %>%
       setView(lng=153.0251, lat=-27.4698, zoom=10) #%>%
-
     m
   })
   
@@ -91,7 +92,7 @@ shinyServer(function(input, output) {
         lng1=152.000, lat1=-28.000,
         lng2=154.000, lat2=-27.000,
         fillColor = "transparent") %>%
-      addPolygons(data=shapes,weight=5,col = 'red') %>% 
+      #addPolygons(data=shapes,weight=5,col = 'red') %>% 
       addPolylines(data = markers2, lng = ~long, lat = ~lat, group = ~group) %>%
       setView(lng=153.0251, lat=-27.4698, zoom=10) #%>%
     

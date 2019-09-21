@@ -1,0 +1,4862 @@
+[
+  {
+    "Date": "2019-04-13",
+    "Calories (kcal)": 375.7180259003449,
+    "Distance (m)": null,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": null,
+    "Low longitude (deg)": null,
+    "High latitude (deg)": null,
+    "High longitude (deg)": null,
+    "Average speed (m": {
+      "s)": null
+    },
+    "Max speed (m": {
+      "s)": null
+    },
+    "Min speed (m": {
+      "s)": null
+    },
+    "Step count": null,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": null,
+    "Walking duration (ms)": null,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-04-14",
+    "Calories (kcal)": 1368.3787299518588,
+    "Distance (m)": null,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": null,
+    "Low longitude (deg)": null,
+    "High latitude (deg)": null,
+    "High longitude (deg)": null,
+    "Average speed (m": {
+      "s)": null
+    },
+    "Max speed (m": {
+      "s)": null
+    },
+    "Min speed (m": {
+      "s)": null
+    },
+    "Step count": null,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": null,
+    "Walking duration (ms)": null,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-04-15",
+    "Calories (kcal)": 1399.7612574484565,
+    "Distance (m)": 184.2954536676407,
+    "Average heart rate (bpm)": 68.55750274658203,
+    "Max heart rate (bpm)": 68.55750274658203,
+    "Min heart rate (bpm)": 68.55750274658203,
+    "Low latitude (deg)": -27.4876763,
+    "Low longitude (deg)": 153.0209787,
+    "High latitude (deg)": -27.477481,
+    "High longitude (deg)": 153.0616129,
+    "Average speed (m": {
+      "s)": 0.39227294921874994
+    },
+    "Max speed (m": {
+      "s)": 0.40859293937683105
+    },
+    "Min speed (m": {
+      "s)": 0.37595295906066895
+    },
+    "Step count": 1274,
+    "Average weight (kg)": 52.61667251586914,
+    "Max weight (kg)": 52.61667251586914,
+    "Min weight (kg)": 52.61667251586914,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 22156485,
+    "Walking duration (ms)": 489507,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-04-16",
+    "Calories (kcal)": 1518.9347436656687,
+    "Distance (m)": 3219.816792085767,
+    "Average heart rate (bpm)": 84.5544891357422,
+    "Max heart rate (bpm)": 85.13961029052734,
+    "Min heart rate (bpm)": 83.96936798095703,
+    "Low latitude (deg)": -27.4827168,
+    "Low longitude (deg)": 153.0128309,
+    "High latitude (deg)": -27.4549611,
+    "High longitude (deg)": 153.061701,
+    "Average speed (m": {
+      "s)": 0.84706937554359
+    },
+    "Max speed (m": {
+      "s)": 3.380000114440918
+    },
+    "Min speed (m": {
+      "s)": 0.2862964868545532
+    },
+    "Step count": 5792,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 81319195,
+    "Walking duration (ms)": 3923776,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-04-17",
+    "Calories (kcal)": 1500.2281548684052,
+    "Distance (m)": 2775.180348843336,
+    "Average heart rate (bpm)": 83.47030639648438,
+    "Max heart rate (bpm)": 84.31166076660156,
+    "Min heart rate (bpm)": 82.62895202636719,
+    "Low latitude (deg)": -27.4880842,
+    "Low longitude (deg)": 153.0169127,
+    "High latitude (deg)": -27.4557327,
+    "High longitude (deg)": 153.0616215,
+    "Average speed (m": {
+      "s)": 0.58342544898284
+    },
+    "Max speed (m": {
+      "s)": 2.390000104904175
+    },
+    "Min speed (m": {
+      "s)": 0.24607032537460327
+    },
+    "Step count": 6096,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 82799175,
+    "Walking duration (ms)": 3479067,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-04-18",
+    "Calories (kcal)": 1803.7022645474456,
+    "Distance (m)": 3900.3951317071915,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4835067,
+    "Low longitude (deg)": 153.0614849,
+    "High latitude (deg)": -27.4820738,
+    "High longitude (deg)": 153.0648532,
+    "Average speed (m": {
+      "s)": 0.46338121484872014
+    },
+    "Max speed (m": {
+      "s)": 1.4188623428344727
+    },
+    "Min speed (m": {
+      "s)": 0.22950994968414307
+    },
+    "Step count": 10756,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 75169644,
+    "Walking duration (ms)": 11109328,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-04-19",
+    "Calories (kcal)": 1407.5008602845073,
+    "Distance (m)": 445.03705871105194,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4826086,
+    "Low longitude (deg)": 153.0614502,
+    "High latitude (deg)": -27.3951384,
+    "High longitude (deg)": 153.1091226,
+    "Average speed (m": {
+      "s)": 0.5464784196699319
+    },
+    "Max speed (m": {
+      "s)": 2.271474838256836
+    },
+    "Min speed (m": {
+      "s)": 0.25261837244033813
+    },
+    "Step count": 2773,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 81508995,
+    "Walking duration (ms)": 1149098,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-04-20",
+    "Calories (kcal)": 1405.7445142309266,
+    "Distance (m)": 330.6836287975311,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4825294,
+    "Low longitude (deg)": 153.0613424,
+    "High latitude (deg)": -27.4822019,
+    "High longitude (deg)": 153.0617213,
+    "Average speed (m": {
+      "s)": 1.08440347421727
+    },
+    "Max speed (m": {
+      "s)": 3.049999952316284
+    },
+    "Min speed (m": {
+      "s)": 0.2653842866420746
+    },
+    "Step count": 2604,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 85295170,
+    "Walking duration (ms)": 1104689,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": 141
+  },
+  {
+    "Date": "2019-04-21",
+    "Calories (kcal)": 1480.852045942998,
+    "Distance (m)": 1580.0482514053583,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.5049099,
+    "Low longitude (deg)": 153.028013,
+    "High latitude (deg)": -27.442691,
+    "High longitude (deg)": 153.0627457,
+    "Average speed (m": {
+      "s)": 1.415937042196053
+    },
+    "Max speed (m": {
+      "s)": 17.799999237060547
+    },
+    "Min speed (m": {
+      "s)": 0.25029781460762024
+    },
+    "Step count": 4517,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 81435689,
+    "Walking duration (ms)": 2993096,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-04-22",
+    "Calories (kcal)": 1434.5913581547113,
+    "Distance (m)": 1298.0364444255829,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.483482,
+    "Low longitude (deg)": 153.0614252,
+    "High latitude (deg)": -27.4819112,
+    "High longitude (deg)": 153.0647737,
+    "Average speed (m": {
+      "s)": 1.3754677461407612
+    },
+    "Max speed (m": {
+      "s)": 6.28000020980835
+    },
+    "Min speed (m": {
+      "s)": 0.25141575932502747
+    },
+    "Step count": 3633,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 83810208,
+    "Walking duration (ms)": 1830133,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-04-23",
+    "Calories (kcal)": 1516.6562623702048,
+    "Distance (m)": 2861.6321035455912,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.5100639,
+    "Low longitude (deg)": 153.0185222,
+    "High latitude (deg)": -27.4601501,
+    "High longitude (deg)": 153.0618367,
+    "Average speed (m": {
+      "s)": 0.7519205762964987
+    },
+    "Max speed (m": {
+      "s)": 21.739999771118164
+    },
+    "Min speed (m": {
+      "s)": 0.24617542326450348
+    },
+    "Step count": 6173,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 82203806,
+    "Walking duration (ms)": 3887436,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-04-24",
+    "Calories (kcal)": 1518.13335974144,
+    "Distance (m)": 2837.422547966242,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4823256,
+    "Low longitude (deg)": 153.0157553,
+    "High latitude (deg)": -27.4600652,
+    "High longitude (deg)": 153.0692538,
+    "Average speed (m": {
+      "s)": 0.6964486951701417
+    },
+    "Max speed (m": {
+      "s)": 2.11751389503479
+    },
+    "Min speed (m": {
+      "s)": 0.25141575932502747
+    },
+    "Step count": 6535,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 81148791,
+    "Walking duration (ms)": 3929214,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-04-25",
+    "Calories (kcal)": 1414.7856678118505,
+    "Distance (m)": 847.9363713264465,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4834921,
+    "Low longitude (deg)": 153.0615254,
+    "High latitude (deg)": -27.4822346,
+    "High longitude (deg)": 153.0647303,
+    "Average speed (m": {
+      "s)": 0.4889763908985343
+    },
+    "Max speed (m": {
+      "s)": 1.333523154258728
+    },
+    "Min speed (m": {
+      "s)": 0.30725279450416565
+    },
+    "Step count": 2265,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 85067770,
+    "Walking duration (ms)": 1332230,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-04-26",
+    "Calories (kcal)": 1740.6625342825769,
+    "Distance (m)": 2985.7559555768967,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4834992,
+    "Low longitude (deg)": 153.0606864,
+    "High latitude (deg)": -27.4810667,
+    "High longitude (deg)": 153.0649106,
+    "Average speed (m": {
+      "s)": 0.8117141890194434
+    },
+    "Max speed (m": {
+      "s)": 3.5399999618530273
+    },
+    "Min speed (m": {
+      "s)": 0.2448054850101471
+    },
+    "Step count": 11649,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 75763632,
+    "Walking duration (ms)": 9524554,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-04-27",
+    "Calories (kcal)": 1763.4126627925077,
+    "Distance (m)": 3308.1259982585907,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4835919,
+    "Low longitude (deg)": 153.0614901,
+    "High latitude (deg)": -27.4821761,
+    "High longitude (deg)": 153.0648994,
+    "Average speed (m": {
+      "s)": 0.5608706175672524
+    },
+    "Max speed (m": {
+      "s)": 1.4964768886566162
+    },
+    "Min speed (m": {
+      "s)": 0.24398604035377502
+    },
+    "Step count": 9674,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 76016202,
+    "Walking duration (ms)": 10096473,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-04-28",
+    "Calories (kcal)": 1404.5421687085066,
+    "Distance (m)": 579.0444909334183,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4825628,
+    "Low longitude (deg)": 153.0614986,
+    "High latitude (deg)": -27.4819602,
+    "High longitude (deg)": 153.0617534,
+    "Average speed (m": {
+      "s)": 1.380426175328561
+    },
+    "Max speed (m": {
+      "s)": 2.819999933242798
+    },
+    "Min speed (m": {
+      "s)": 0.2618914246559143
+    },
+    "Step count": 2411,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 85325282,
+    "Walking duration (ms)": 1074718,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-04-29",
+    "Calories (kcal)": 1531.6423690036602,
+    "Distance (m)": 2592.5470752716064,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4824498,
+    "Low longitude (deg)": 153.0216632,
+    "High latitude (deg)": -27.4601383,
+    "High longitude (deg)": 153.0618784,
+    "Average speed (m": {
+      "s)": 0.6410745482853638
+    },
+    "Max speed (m": {
+      "s)": 2.4600000381469727
+    },
+    "Min speed (m": {
+      "s)": 0.26690515875816345
+    },
+    "Step count": 5545,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 80379769,
+    "Walking duration (ms)": 4261677,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-04-30",
+    "Calories (kcal)": 1539.2940172640483,
+    "Distance (m)": 3828.604174733162,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.483526,
+    "Low longitude (deg)": 153.0135308,
+    "High latitude (deg)": -27.4600105,
+    "High longitude (deg)": 153.0647208,
+    "Average speed (m": {
+      "s)": 1.2146700374974382
+    },
+    "Max speed (m": {
+      "s)": 4.820000171661377
+    },
+    "Min speed (m": {
+      "s)": 0.26838764548301697
+    },
+    "Step count": 6434,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 82154381,
+    "Walking duration (ms)": 4234764,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-05-01",
+    "Calories (kcal)": 1494.4967326814942,
+    "Distance (m)": 2439.237807929516,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.483043,
+    "Low longitude (deg)": 153.0148171,
+    "High latitude (deg)": -27.4601366,
+    "High longitude (deg)": 153.1104511,
+    "Average speed (m": {
+      "s)": 0.6618352799031761
+    },
+    "Max speed (m": {
+      "s)": 2.849093437194824
+    },
+    "Min speed (m": {
+      "s)": 0.026475263759493828
+    },
+    "Step count": 5441,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 81712123,
+    "Walking duration (ms)": 2667230,
+    "Running duration (ms)": 237823,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-05-02",
+    "Calories (kcal)": 1382.9367526270776,
+    "Distance (m)": 206.82565462589264,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4823917,
+    "Low longitude (deg)": 153.0613644,
+    "High latitude (deg)": -27.471633,
+    "High longitude (deg)": 153.1161795,
+    "Average speed (m": {
+      "s)": 0.705726204713304
+    },
+    "Max speed (m": {
+      "s)": 3.359999895095825
+    },
+    "Min speed (m": {
+      "s)": 0.31627410650253296
+    },
+    "Step count": 1836,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 82361381,
+    "Walking duration (ms)": 531543,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-05-03",
+    "Calories (kcal)": 1880.9074304960345,
+    "Distance (m)": 4984.697578415275,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.5097084,
+    "Low longitude (deg)": 153.061496,
+    "High latitude (deg)": -27.4822206,
+    "High longitude (deg)": 153.0783939,
+    "Average speed (m": {
+      "s)": 0.7931203716330993
+    },
+    "Max speed (m": {
+      "s)": 15.579999923706055
+    },
+    "Min speed (m": {
+      "s)": 0.01890929974615574
+    },
+    "Step count": 14285,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 71581035,
+    "Walking duration (ms)": 13050212,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-05-04",
+    "Calories (kcal)": 1745.3568288585245,
+    "Distance (m)": 3168.10866384767,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4834964,
+    "Low longitude (deg)": 153.0612325,
+    "High latitude (deg)": -27.4822225,
+    "High longitude (deg)": 153.0648705,
+    "Average speed (m": {
+      "s)": 0.5993686291197372
+    },
+    "Max speed (m": {
+      "s)": 3.390000104904175
+    },
+    "Min speed (m": {
+      "s)": 0.25051164627075195
+    },
+    "Step count": 8962,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 76757436,
+    "Walking duration (ms)": 9642564,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-05-05",
+    "Calories (kcal)": 1517.9468078457046,
+    "Distance (m)": 2361.1281139850616,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4943901,
+    "Low longitude (deg)": 153.0561719,
+    "High latitude (deg)": -27.4822058,
+    "High longitude (deg)": 153.0617099,
+    "Average speed (m": {
+      "s)": 0.7496122170691387
+    },
+    "Max speed (m": {
+      "s)": 4.019999980926514
+    },
+    "Min speed (m": {
+      "s)": 0.2618914246559143
+    },
+    "Step count": 4082,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": 590141,
+    "Inactive duration (ms)": 81190944,
+    "Walking duration (ms)": 3292125,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-05-06",
+    "Calories (kcal)": 1437.87948566089,
+    "Distance (m)": 952.590490937233,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4826299,
+    "Low longitude (deg)": 153.0613216,
+    "High latitude (deg)": -27.4819732,
+    "High longitude (deg)": 153.0617456,
+    "Average speed (m": {
+      "s)": 0.7886979752322537
+    },
+    "Max speed (m": {
+      "s)": 3.740000009536743
+    },
+    "Min speed (m": {
+      "s)": 0.1904122233390808
+    },
+    "Step count": 2401,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 84376789,
+    "Walking duration (ms)": 1912794,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-05-07",
+    "Calories (kcal)": 1486.774614330321,
+    "Distance (m)": 2557.0501865148544,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4824762,
+    "Low longitude (deg)": 153.0222176,
+    "High latitude (deg)": -27.4600939,
+    "High longitude (deg)": 153.0617528,
+    "Average speed (m": {
+      "s)": 1.3129175452748474
+    },
+    "Max speed (m": {
+      "s)": 4.35805082321167
+    },
+    "Min speed (m": {
+      "s)": 0.2663508653640747
+    },
+    "Step count": 5477,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 83489320,
+    "Walking duration (ms)": 2778680,
+    "Running duration (ms)": 132000,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-05-08",
+    "Calories (kcal)": 1511.0338698992077,
+    "Distance (m)": 2448.328338623047,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.5633396,
+    "Low longitude (deg)": 153.0120275,
+    "High latitude (deg)": -27.4601057,
+    "High longitude (deg)": 153.083583,
+    "Average speed (m": {
+      "s)": 0.8919590785510303
+    },
+    "Max speed (m": {
+      "s)": 4.730000019073486
+    },
+    "Min speed (m": {
+      "s)": 0.29748988151550293
+    },
+    "Step count": 5389,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 82397471,
+    "Walking duration (ms)": 3527450,
+    "Running duration (ms)": 66231,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-05-09",
+    "Calories (kcal)": 1406.7813852794038,
+    "Distance (m)": 467.6363469362259,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4824153,
+    "Low longitude (deg)": 153.0597029,
+    "High latitude (deg)": -27.4511907,
+    "High longitude (deg)": 153.0662951,
+    "Average speed (m": {
+      "s)": 0.7699729743385594
+    },
+    "Max speed (m": {
+      "s)": 4.019999980926514
+    },
+    "Min speed (m": {
+      "s)": 0.2612594664096832
+    },
+    "Step count": 2400,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 84577935,
+    "Walking duration (ms)": 1131009,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-05-10",
+    "Calories (kcal)": 1764.3318107992766,
+    "Distance (m)": 3661.290073275566,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4834998,
+    "Low longitude (deg)": 153.0612562,
+    "High latitude (deg)": -27.4822516,
+    "High longitude (deg)": 153.0648052,
+    "Average speed (m": {
+      "s)": 0.7633752047738388
+    },
+    "Max speed (m": {
+      "s)": 2.9000000953674316
+    },
+    "Min speed (m": {
+      "s)": 0.015079863369464874
+    },
+    "Step count": 10763,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 75333650,
+    "Walking duration (ms)": 10119584,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-05-11",
+    "Calories (kcal)": 1798.6378074289019,
+    "Distance (m)": 4997.712566278875,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.488712,
+    "Low longitude (deg)": 153.012228,
+    "High latitude (deg)": -27.4647256,
+    "High longitude (deg)": 153.0648332,
+    "Average speed (m": {
+      "s)": 0.6948326181056798
+    },
+    "Max speed (m": {
+      "s)": 3.75
+    },
+    "Min speed (m": {
+      "s)": 0.2558112144470215
+    },
+    "Step count": 12943,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 74257761,
+    "Walking duration (ms)": 10833561,
+    "Running duration (ms)": 61897,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-05-12",
+    "Calories (kcal)": 1604.0466456257789,
+    "Distance (m)": 3008.8075820207596,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4835034,
+    "Low longitude (deg)": 153.0349174,
+    "High latitude (deg)": -27.4359131,
+    "High longitude (deg)": 153.097772,
+    "Average speed (m": {
+      "s)": 0.8384672093693089
+    },
+    "Max speed (m": {
+      "s)": 15.390000343322754
+    },
+    "Min speed (m": {
+      "s)": 0.24762485921382904
+    },
+    "Step count": 7966,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 78301240,
+    "Walking duration (ms)": 6090124,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-05-13",
+    "Calories (kcal)": 1467.0871106310128,
+    "Distance (m)": 2005.4263491518795,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4829674,
+    "Low longitude (deg)": 153.0185193,
+    "High latitude (deg)": -27.4600783,
+    "High longitude (deg)": 153.0619321,
+    "Average speed (m": {
+      "s)": 0.9438499380772944
+    },
+    "Max speed (m": {
+      "s)": 1.909999966621399
+    },
+    "Min speed (m": {
+      "s)": 0.32585805654525757
+    },
+    "Step count": 5037,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 83049563,
+    "Walking duration (ms)": 2647056,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-05-14",
+    "Calories (kcal)": 1500.172386593281,
+    "Distance (m)": 3244.8351920992136,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4823725,
+    "Low longitude (deg)": 153.013453,
+    "High latitude (deg)": -27.4599605,
+    "High longitude (deg)": 153.0625574,
+    "Average speed (m": {
+      "s)": 0.8571682517756782
+    },
+    "Max speed (m": {
+      "s)": 5.190000057220459
+    },
+    "Min speed (m": {
+      "s)": 0.2422945201396942
+    },
+    "Step count": 6497,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 82908875,
+    "Walking duration (ms)": 3478664,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-05-15",
+    "Calories (kcal)": 1460.0065329509935,
+    "Distance (m)": 2051.4520178437233,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4944185,
+    "Low longitude (deg)": 153.0169152,
+    "High latitude (deg)": -27.4601009,
+    "High longitude (deg)": 153.0621841,
+    "Average speed (m": {
+      "s)": 1.047475758028362
+    },
+    "Max speed (m": {
+      "s)": 3.8499999046325684
+    },
+    "Min speed (m": {
+      "s)": 0.3087405264377594
+    },
+    "Step count": 4605,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 83938111,
+    "Walking duration (ms)": 2461889,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-05-16",
+    "Calories (kcal)": 1423.35597676512,
+    "Distance (m)": 534.5142084360123,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4827931,
+    "Low longitude (deg)": 153.0612408,
+    "High latitude (deg)": -27.4822418,
+    "High longitude (deg)": 153.0619822,
+    "Average speed (m": {
+      "s)": 1.290686747960086
+    },
+    "Max speed (m": {
+      "s)": 6.800000190734863
+    },
+    "Min speed (m": {
+      "s)": 0.2719480097293854
+    },
+    "Step count": 2469,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 84770118,
+    "Walking duration (ms)": 1108509,
+    "Running duration (ms)": 186131,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-05-17",
+    "Calories (kcal)": 1639.89943907605,
+    "Distance (m)": 2310.0707948207855,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4836028,
+    "Low longitude (deg)": 153.0614424,
+    "High latitude (deg)": -27.482235,
+    "High longitude (deg)": 153.0649423,
+    "Average speed (m": {
+      "s)": 0.8185313233446232
+    },
+    "Max speed (m": {
+      "s)": 2.819999933242798
+    },
+    "Min speed (m": {
+      "s)": 0.06359902024269104
+    },
+    "Step count": 6328,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 79279388,
+    "Walking duration (ms)": 6991437,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-05-18",
+    "Calories (kcal)": 1761.5117254154404,
+    "Distance (m)": 3905.8030720949173,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4883897,
+    "Low longitude (deg)": 153.0613145,
+    "High latitude (deg)": -27.4711397,
+    "High longitude (deg)": 153.1071516,
+    "Average speed (m": {
+      "s)": 0.919114410539249
+    },
+    "Max speed (m": {
+      "s)": 16.84000015258789
+    },
+    "Min speed (m": {
+      "s)": 0.2583065330982208
+    },
+    "Step count": 11369,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 74409098,
+    "Walking duration (ms)": 9900408,
+    "Running duration (ms)": 62844,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-05-19",
+    "Calories (kcal)": 1466.6497185224732,
+    "Distance (m)": 1216.0407092571259,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4823298,
+    "Low longitude (deg)": 153.0614958,
+    "High latitude (deg)": -27.3842679,
+    "High longitude (deg)": 153.1204089,
+    "Average speed (m": {
+      "s)": 0.7572425994448464
+    },
+    "Max speed (m": {
+      "s)": 6.090000152587891
+    },
+    "Min speed (m": {
+      "s)": 0.265592098236084
+    },
+    "Step count": 4472,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 80819049,
+    "Walking duration (ms)": 2636059,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-05-20",
+    "Calories (kcal)": 1425.0862372906438,
+    "Distance (m)": 515.9899448156357,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4826591,
+    "Low longitude (deg)": 153.0614983,
+    "High latitude (deg)": -27.4822583,
+    "High longitude (deg)": 153.0617773,
+    "Average speed (m": {
+      "s)": 0.5584230083366325
+    },
+    "Max speed (m": {
+      "s)": 0.9443106651306152
+    },
+    "Min speed (m": {
+      "s)": 0.2545003294944763
+    },
+    "Step count": 2473,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 84808818,
+    "Walking duration (ms)": 1591182,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-05-21",
+    "Calories (kcal)": 1506.3854361210222,
+    "Distance (m)": 2798.7118958830833,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4919817,
+    "Low longitude (deg)": 153.0157708,
+    "High latitude (deg)": -27.4601448,
+    "High longitude (deg)": 153.0647166,
+    "Average speed (m": {
+      "s)": 0.781736941976126
+    },
+    "Max speed (m": {
+      "s)": 1.4754700660705566
+    },
+    "Min speed (m": {
+      "s)": 0.05806199088692665
+    },
+    "Step count": 6254,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 82730271,
+    "Walking duration (ms)": 3634988,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-05-22",
+    "Calories (kcal)": 1562.609475021867,
+    "Distance (m)": 3445.0435259342194,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4824287,
+    "Low longitude (deg)": 153.0174874,
+    "High latitude (deg)": -27.4600975,
+    "High longitude (deg)": 153.0629108,
+    "Average speed (m": {
+      "s)": 0.7567511052705881
+    },
+    "Max speed (m": {
+      "s)": 1.8757524490356445
+    },
+    "Min speed (m": {
+      "s)": 0.25141575932502747
+    },
+    "Step count": 6385,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 81753591,
+    "Walking duration (ms)": 4397515,
+    "Running duration (ms)": 242841,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-05-23",
+    "Calories (kcal)": 1418.9294707099614,
+    "Distance (m)": 403.85693395137787,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4824429,
+    "Low longitude (deg)": 153.0615216,
+    "High latitude (deg)": -27.4822351,
+    "High longitude (deg)": 153.0619348,
+    "Average speed (m": {
+      "s)": 0.6704326156130764
+    },
+    "Max speed (m": {
+      "s)": 1.4772636890411377
+    },
+    "Min speed (m": {
+      "s)": 0.31668001413345337
+    },
+    "Step count": 2597,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 84963596,
+    "Walking duration (ms)": 1436404,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-05-24",
+    "Calories (kcal)": 1774.6502023367013,
+    "Distance (m)": 3495.877317607403,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4836226,
+    "Low longitude (deg)": 153.0614749,
+    "High latitude (deg)": -27.4822568,
+    "High longitude (deg)": 153.0649064,
+    "Average speed (m": {
+      "s)": 0.6116779053308067
+    },
+    "Max speed (m": {
+      "s)": 3.4800000190734863
+    },
+    "Min speed (m": {
+      "s)": 0.25291040539741516
+    },
+    "Step count": 10323,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 75897084,
+    "Walking duration (ms)": 10378978,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-05-25",
+    "Calories (kcal)": 1681.9120306065042,
+    "Distance (m)": 3371.299292087555,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4836396,
+    "Low longitude (deg)": 153.0614173,
+    "High latitude (deg)": -27.4820531,
+    "High longitude (deg)": 153.0649463,
+    "Average speed (m": {
+      "s)": 0.9307975190623148
+    },
+    "Max speed (m": {
+      "s)": 3.683664321899414
+    },
+    "Min speed (m": {
+      "s)": 0.2540217339992523
+    },
+    "Step count": 10291,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 77829353,
+    "Walking duration (ms)": 7950628,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-05-26",
+    "Calories (kcal)": 1495.1483145413547,
+    "Distance (m)": 2565.56715965271,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4870182,
+    "Low longitude (deg)": 153.0280597,
+    "High latitude (deg)": -27.4426396,
+    "High longitude (deg)": 153.062066,
+    "Average speed (m": {
+      "s)": 0.9390896396469742
+    },
+    "Max speed (m": {
+      "s)": 11.40999984741211
+    },
+    "Min speed (m": {
+      "s)": 0.05244577303528786
+    },
+    "Step count": 6539,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 80141862,
+    "Walking duration (ms)": 3352494,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-05-27",
+    "Calories (kcal)": 1512.1439296140845,
+    "Distance (m)": 2855.866715690121,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4834782,
+    "Low longitude (deg)": 153.016659,
+    "High latitude (deg)": -27.4600432,
+    "High longitude (deg)": 153.0649092,
+    "Average speed (m": {
+      "s)": 0.6885904225733573
+    },
+    "Max speed (m": {
+      "s)": 2.7799999713897705
+    },
+    "Min speed (m": {
+      "s)": 0.03652878850698471
+    },
+    "Step count": 6233,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 82512605,
+    "Walking duration (ms)": 3774191,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-05-28",
+    "Calories (kcal)": 1467.0455174665435,
+    "Distance (m)": 2158.5355343818665,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4981222,
+    "Low longitude (deg)": 153.0150476,
+    "High latitude (deg)": -27.4600142,
+    "High longitude (deg)": 153.06164,
+    "Average speed (m": {
+      "s)": 1.1907896616354763
+    },
+    "Max speed (m": {
+      "s)": 3.559999942779541
+    },
+    "Min speed (m": {
+      "s)": 0.2791909873485565
+    },
+    "Step count": 4723,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 83753991,
+    "Walking duration (ms)": 2646009,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-05-29",
+    "Calories (kcal)": 1488.694687867935,
+    "Distance (m)": 2127.4716230630875,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4840375,
+    "Low longitude (deg)": 153.0168541,
+    "High latitude (deg)": -27.4600307,
+    "High longitude (deg)": 153.0626117,
+    "Average speed (m": {
+      "s)": 0.7361360353520044
+    },
+    "Max speed (m": {
+      "s)": 3.4700000286102295
+    },
+    "Min speed (m": {
+      "s)": 0.2916591167449951
+    },
+    "Step count": 6550,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 81135793,
+    "Walking duration (ms)": 3190253,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-05-30",
+    "Calories (kcal)": 1512.9487698797998,
+    "Distance (m)": 2829.7505691051483,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -37.8606256,
+    "Low longitude (deg)": 144.6574614,
+    "High latitude (deg)": -27.3840134,
+    "High longitude (deg)": 153.1202566,
+    "Average speed (m": {
+      "s)": 1.0362271894113648
+    },
+    "Max speed (m": {
+      "s)": 9.369999885559082
+    },
+    "Min speed (m": {
+      "s)": 0.2530880868434906
+    },
+    "Step count": 6809,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 73012498,
+    "Walking duration (ms)": 3785078,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-05-31",
+    "Calories (kcal)": 1493.2578364492126,
+    "Distance (m)": 2273.943176990375,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -37.8693349,
+    "Low longitude (deg)": 144.9772955,
+    "High latitude (deg)": -37.8593064,
+    "High longitude (deg)": 144.9813177,
+    "Average speed (m": {
+      "s)": 0.7698072611676099
+    },
+    "Max speed (m": {
+      "s)": 3.710203170776367
+    },
+    "Min speed (m": {
+      "s)": 0.3290872275829315
+    },
+    "Step count": 5778,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 83079646,
+    "Walking duration (ms)": 3304969,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-06-01",
+    "Calories (kcal)": 1602.1027042969413,
+    "Distance (m)": 4539.7792398696765,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -37.8616317,
+    "Low longitude (deg)": 144.9515176,
+    "High latitude (deg)": -37.7822138,
+    "High longitude (deg)": 144.9835393,
+    "Average speed (m": {
+      "s)": 1.5862401150116612
+    },
+    "Max speed (m": {
+      "s)": 12.15999984741211
+    },
+    "Min speed (m": {
+      "s)": 0.26872897148132324
+    },
+    "Step count": 11381,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 78139315,
+    "Walking duration (ms)": 5862747,
+    "Running duration (ms)": 75654,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-06-02",
+    "Calories (kcal)": 1613.0443614964054,
+    "Distance (m)": 3768.5264350175858,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -37.801879,
+    "Low longitude (deg)": 144.9779413,
+    "High latitude (deg)": -37.7830238,
+    "High longitude (deg)": 144.9822323,
+    "Average speed (m": {
+      "s)": 1.8654552772264958
+    },
+    "Max speed (m": {
+      "s)": 3.4200000762939453
+    },
+    "Min speed (m": {
+      "s)": 0.24873802065849304
+    },
+    "Step count": 9081,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 80083689,
+    "Walking duration (ms)": 6316311,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-06-03",
+    "Calories (kcal)": 1545.817789970706,
+    "Distance (m)": 3915.5831052847207,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -37.7998272,
+    "Low longitude (deg)": 144.9791685,
+    "High latitude (deg)": -37.7832508,
+    "High longitude (deg)": 144.9869163,
+    "Average speed (m": {
+      "s)": 0.6773670823321447
+    },
+    "Max speed (m": {
+      "s)": 2.9200000762939453
+    },
+    "Min speed (m": {
+      "s)": 0.09139873832464218
+    },
+    "Step count": 8234,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 81107854,
+    "Walking duration (ms)": 4598073,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-06-04",
+    "Calories (kcal)": 1596.4975865630988,
+    "Distance (m)": 3665.6469637155533,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -37.8036499,
+    "Low longitude (deg)": 144.9792423,
+    "High latitude (deg)": -37.7829103,
+    "High longitude (deg)": 145.0065375,
+    "Average speed (m": {
+      "s)": 0.5826048390039696
+    },
+    "Max speed (m": {
+      "s)": 2.190000057220459
+    },
+    "Min speed (m": {
+      "s)": 0.25141575932502747
+    },
+    "Step count": 8171,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 79003467,
+    "Walking duration (ms)": 5900346,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-06-05",
+    "Calories (kcal)": 1756.7895016035113,
+    "Distance (m)": 5602.898747321218,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -37.7895445,
+    "Low longitude (deg)": 144.9497038,
+    "High latitude (deg)": -37.7778338,
+    "High longitude (deg)": 144.9906004,
+    "Average speed (m": {
+      "s)": 0.9430144538581773
+    },
+    "Max speed (m": {
+      "s)": 8.399999618530273
+    },
+    "Min speed (m": {
+      "s)": 0.2403913289308548
+    },
+    "Step count": 13154,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 75172031,
+    "Walking duration (ms)": 9704541,
+    "Running duration (ms)": 60795,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-06-06",
+    "Calories (kcal)": 1600.8666649679863,
+    "Distance (m)": 3581.621626108885,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -37.824645,
+    "Low longitude (deg)": 144.9491012,
+    "High latitude (deg)": -37.7825334,
+    "High longitude (deg)": 144.9867498,
+    "Average speed (m": {
+      "s)": 0.7870909936414067
+    },
+    "Max speed (m": {
+      "s)": 12.140000343322754
+    },
+    "Min speed (m": {
+      "s)": 0.13218127191066742
+    },
+    "Step count": 8495,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 76857233,
+    "Walking duration (ms)": 5981659,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-06-07",
+    "Calories (kcal)": 1764.535557998858,
+    "Distance (m)": 5772.613447453827,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -37.8671974,
+    "Low longitude (deg)": 144.8325892,
+    "High latitude (deg)": -37.7716904,
+    "High longitude (deg)": 144.9949532,
+    "Average speed (m": {
+      "s)": 0.8200423473517385
+    },
+    "Max speed (m": {
+      "s)": 11.079999923706055
+    },
+    "Min speed (m": {
+      "s)": 0.25344789028167725
+    },
+    "Step count": 13909,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 70906604,
+    "Walking duration (ms)": 10110500,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-06-08",
+    "Calories (kcal)": 1740.7375827290327,
+    "Distance (m)": 8041.478432625532,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -37.8493555,
+    "Low longitude (deg)": 144.8474842,
+    "High latitude (deg)": -27.3851278,
+    "High longitude (deg)": 153.1201367,
+    "Average speed (m": {
+      "s)": 2.7631120095505786
+    },
+    "Max speed (m": {
+      "s)": 26.690000534057617
+    },
+    "Min speed (m": {
+      "s)": 0.059132542461156845
+    },
+    "Step count": 14885,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 69892286,
+    "Walking duration (ms)": 9176884,
+    "Running duration (ms)": 124241,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-06-09",
+    "Calories (kcal)": 1571.5155740055272,
+    "Distance (m)": 1830.6575294733047,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4836234,
+    "Low longitude (deg)": 153.0614698,
+    "High latitude (deg)": -27.4822554,
+    "High longitude (deg)": 153.0649699,
+    "Average speed (m": {
+      "s)": 0.6740204797227856
+    },
+    "Max speed (m": {
+      "s)": 4.619999885559082
+    },
+    "Min speed (m": {
+      "s)": 0.07744675874710083
+    },
+    "Step count": 5771,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 80381886,
+    "Walking duration (ms)": 5272315,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-06-10",
+    "Calories (kcal)": 1453.5713621061225,
+    "Distance (m)": 1993.0629415232688,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.482889,
+    "Low longitude (deg)": 153.0185092,
+    "High latitude (deg)": -27.4600407,
+    "High longitude (deg)": 153.062106,
+    "Average speed (m": {
+      "s)": 1.0236549027831237
+    },
+    "Max speed (m": {
+      "s)": 6.03000020980835
+    },
+    "Min speed (m": {
+      "s)": 0.518822431564331
+    },
+    "Step count": 3755,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 84092722,
+    "Walking duration (ms)": 2307278,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-06-11",
+    "Calories (kcal)": 1612.2444651668948,
+    "Distance (m)": 3724.937041938305,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4836903,
+    "Low longitude (deg)": 153.0185092,
+    "High latitude (deg)": -27.4600878,
+    "High longitude (deg)": 153.0625991,
+    "Average speed (m": {
+      "s)": 0.9174023605623477
+    },
+    "Max speed (m": {
+      "s)": 7.036503791809082
+    },
+    "Min speed (m": {
+      "s)": 0.25851306319236755
+    },
+    "Step count": 7747,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 79491205,
+    "Walking duration (ms)": 5975394,
+    "Running duration (ms)": 76696,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-06-12",
+    "Calories (kcal)": 1472.1138826334904,
+    "Distance (m)": 2096.1144137382507,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.5726238,
+    "Low longitude (deg)": 153.0142591,
+    "High latitude (deg)": -27.4599909,
+    "High longitude (deg)": 153.0656772,
+    "Average speed (m": {
+      "s)": 0.964649126154408
+    },
+    "Max speed (m": {
+      "s)": 9.220000267028809
+    },
+    "Min speed (m": {
+      "s)": 0.20135970413684845
+    },
+    "Step count": 4275,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 83333847,
+    "Walking duration (ms)": 2773424,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-06-13",
+    "Calories (kcal)": 1541.213809092674,
+    "Distance (m)": 4204.0860812217,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4926491,
+    "Low longitude (deg)": 153.0479968,
+    "High latitude (deg)": -27.4821475,
+    "High longitude (deg)": 153.0618119,
+    "Average speed (m": {
+      "s)": 0.6200122733003474
+    },
+    "Max speed (m": {
+      "s)": 4.489999771118164
+    },
+    "Min speed (m": {
+      "s)": 0.3034878373146057
+    },
+    "Step count": 7648,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 81547051,
+    "Walking duration (ms)": 4492142,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-06-14",
+    "Calories (kcal)": 1473.7570999532868,
+    "Distance (m)": 1513.5591449737549,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4835055,
+    "Low longitude (deg)": 153.0612799,
+    "High latitude (deg)": -27.4820514,
+    "High longitude (deg)": 153.0648308,
+    "Average speed (m": {
+      "s)": 1.1297687936801797
+    },
+    "Max speed (m": {
+      "s)": 8.8100004196167
+    },
+    "Min speed (m": {
+      "s)": 0.25529196858406067
+    },
+    "Step count": 5827,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 82255869,
+    "Walking duration (ms)": 2814733,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-06-15",
+    "Calories (kcal)": 1416.4716749212048,
+    "Distance (m)": 883.8707847595215,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4837979,
+    "Low longitude (deg)": 153.0615526,
+    "High latitude (deg)": -27.4823068,
+    "High longitude (deg)": 153.0647726,
+    "Average speed (m": {
+      "s)": 0.4652128210136074
+    },
+    "Max speed (m": {
+      "s)": 1.2492953538894653
+    },
+    "Min speed (m": {
+      "s)": 0.25184428691864014
+    },
+    "Step count": 2965,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 85038932,
+    "Walking duration (ms)": 1355408,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-06-16",
+    "Calories (kcal)": 1441.0209110938365,
+    "Distance (m)": 852.916098356247,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4842424,
+    "Low longitude (deg)": 153.0214921,
+    "High latitude (deg)": -27.4427145,
+    "High longitude (deg)": 153.06189,
+    "Average speed (m": {
+      "s)": 0.7059581513458622
+    },
+    "Max speed (m": {
+      "s)": 1.8300000429153442
+    },
+    "Min speed (m": {
+      "s)": 0.2746676206588745
+    },
+    "Step count": 2568,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 81945532,
+    "Walking duration (ms)": 1990766,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-06-17",
+    "Calories (kcal)": 1472.8577506156553,
+    "Distance (m)": 1834.078233718872,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.482475,
+    "Low longitude (deg)": 153.01852,
+    "High latitude (deg)": -27.4597645,
+    "High longitude (deg)": 153.0622346,
+    "Average speed (m": {
+      "s)": 0.8910166239143589
+    },
+    "Max speed (m": {
+      "s)": 2.3265817165374756
+    },
+    "Min speed (m": {
+      "s)": 0.2892150282859802
+    },
+    "Step count": 4019,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 83551437,
+    "Walking duration (ms)": 2788468,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-06-18",
+    "Calories (kcal)": 1470.6818300349241,
+    "Distance (m)": 2099.721810221672,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.488995,
+    "Low longitude (deg)": 153.0127865,
+    "High latitude (deg)": -27.460138,
+    "High longitude (deg)": 153.061673,
+    "Average speed (m": {
+      "s)": 1.1586262392121636
+    },
+    "Max speed (m": {
+      "s)": 9.079999923706055
+    },
+    "Min speed (m": {
+      "s)": 0.29331839084625244
+    },
+    "Step count": 4246,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 83316717,
+    "Walking duration (ms)": 2736606,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-06-19",
+    "Calories (kcal)": 1494.4162049772758,
+    "Distance (m)": 2765.41209500283,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.482346,
+    "Low longitude (deg)": 153.0222093,
+    "High latitude (deg)": -27.4601341,
+    "High longitude (deg)": 153.0617748,
+    "Average speed (m": {
+      "s)": 0.8412542507549775
+    },
+    "Max speed (m": {
+      "s)": 1.4660720825195312
+    },
+    "Min speed (m": {
+      "s)": 0.2986138164997101
+    },
+    "Step count": 5644,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 82716772,
+    "Walking duration (ms)": 3334090,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-06-20",
+    "Calories (kcal)": 1607.5123634572726,
+    "Distance (m)": 4210.377971768379,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.5049406,
+    "Low longitude (deg)": 153.058995,
+    "High latitude (deg)": -27.4790504,
+    "High longitude (deg)": 153.1029698,
+    "Average speed (m": {
+      "s)": 0.7527520686440359
+    },
+    "Max speed (m": {
+      "s)": 6.21999979019165
+    },
+    "Min speed (m": {
+      "s)": 0.2436303347349167
+    },
+    "Step count": 8551,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 78500909,
+    "Walking duration (ms)": 6177250,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-06-21",
+    "Calories (kcal)": 1571.0375556495903,
+    "Distance (m)": 1679.839241862297,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4834889,
+    "Low longitude (deg)": 153.0614229,
+    "High latitude (deg)": -27.4823008,
+    "High longitude (deg)": 153.064864,
+    "Average speed (m": {
+      "s)": 0.7799559499299816
+    },
+    "Max speed (m": {
+      "s)": 5.489999771118164
+    },
+    "Min speed (m": {
+      "s)": 0.2499338537454605
+    },
+    "Step count": 5845,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 81139703,
+    "Walking duration (ms)": 5260297,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-06-22",
+    "Calories (kcal)": 1638.9979581959337,
+    "Distance (m)": 3007.3341447114944,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.5023894,
+    "Low longitude (deg)": 153.0614833,
+    "High latitude (deg)": -27.4822295,
+    "High longitude (deg)": 153.1026016,
+    "Average speed (m": {
+      "s)": 0.8892062127320753
+    },
+    "Max speed (m": {
+      "s)": 14.75
+    },
+    "Min speed (m": {
+      "s)": 0.040057603269815445
+    },
+    "Step count": 7488,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 77870968,
+    "Walking duration (ms)": 6968776,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-06-23",
+    "Calories (kcal)": 1393.0346188539697,
+    "Distance (m)": 405.3518500328064,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4824434,
+    "Low longitude (deg)": 153.0615385,
+    "High latitude (deg)": -27.4821623,
+    "High longitude (deg)": 153.0618358,
+    "Average speed (m": {
+      "s)": 0.7440303020422704
+    },
+    "Max speed (m": {
+      "s)": 1.1799999475479126
+    },
+    "Min speed (m": {
+      "s)": 0.344340056180954
+    },
+    "Step count": 1901,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 85614573,
+    "Walking duration (ms)": 785427,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-06-24",
+    "Calories (kcal)": 1448.5180302831577,
+    "Distance (m)": 2023.5544480085373,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.48258,
+    "Low longitude (deg)": 153.0220821,
+    "High latitude (deg)": -27.4601554,
+    "High longitude (deg)": 153.0618441,
+    "Average speed (m": {
+      "s)": 1.1193280103780625
+    },
+    "Max speed (m": {
+      "s)": 5.010000228881836
+    },
+    "Min speed (m": {
+      "s)": 0.4331496059894562
+    },
+    "Step count": 3641,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 84219759,
+    "Walking duration (ms)": 2180241,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-06-25",
+    "Calories (kcal)": 1545.5804384982782,
+    "Distance (m)": 3616.201529622078,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4835542,
+    "Low longitude (deg)": 153.0221826,
+    "High latitude (deg)": -27.4511919,
+    "High longitude (deg)": 153.0680565,
+    "Average speed (m": {
+      "s)": 1.0215523793854384
+    },
+    "Max speed (m": {
+      "s)": 12.6899995803833
+    },
+    "Min speed (m": {
+      "s)": 0.24930186569690704
+    },
+    "Step count": 6538,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 79983023,
+    "Walking duration (ms)": 4620322,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-06-26",
+    "Calories (kcal)": 1482.6360747604663,
+    "Distance (m)": 1789.7751969099045,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4826062,
+    "Low longitude (deg)": 153.0219137,
+    "High latitude (deg)": -27.4600805,
+    "High longitude (deg)": 153.0621159,
+    "Average speed (m": {
+      "s)": 1.054088329881005
+    },
+    "Max speed (m": {
+      "s)": 3.9000000953674316
+    },
+    "Min speed (m": {
+      "s)": 0.2621689438819885
+    },
+    "Step count": 4275,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 83362055,
+    "Walking duration (ms)": 3037945,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-06-27",
+    "Calories (kcal)": 1380.8964936555926,
+    "Distance (m)": 164.86426901817322,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4927022,
+    "Low longitude (deg)": 153.0614924,
+    "High latitude (deg)": -27.4821849,
+    "High longitude (deg)": 153.0634673,
+    "Average speed (m": {
+      "s)": 1.8694057808101014
+    },
+    "Max speed (m": {
+      "s)": 2.809999942779541
+    },
+    "Min speed (m": {
+      "s)": 0.36966314911842346
+    },
+    "Step count": 2146,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 85059958,
+    "Walking duration (ms)": 480281,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-06-28",
+    "Calories (kcal)": 1578.8334563868052,
+    "Distance (m)": 2521.1889375448227,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4841004,
+    "Low longitude (deg)": 153.060795,
+    "High latitude (deg)": -27.4821266,
+    "High longitude (deg)": 153.0648835,
+    "Average speed (m": {
+      "s)": 1.1754171496613555
+    },
+    "Max speed (m": {
+      "s)": 5.130000114440918
+    },
+    "Min speed (m": {
+      "s)": 0.24487745761871338
+    },
+    "Step count": 5789,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 80701881,
+    "Walking duration (ms)": 5456281,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-06-29",
+    "Calories (kcal)": 1471.3231557553986,
+    "Distance (m)": 1623.4483828544617,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4835826,
+    "Low longitude (deg)": 153.0613654,
+    "High latitude (deg)": -27.4820834,
+    "High longitude (deg)": 153.0647417,
+    "Average speed (m": {
+      "s)": 0.6068853287090628
+    },
+    "Max speed (m": {
+      "s)": 2.950000047683716
+    },
+    "Min speed (m": {
+      "s)": 0.2471977025270462
+    },
+    "Step count": 4256,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 83646454,
+    "Walking duration (ms)": 2753546,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-06-30",
+    "Calories (kcal)": 1460.5614627736081,
+    "Distance (m)": 1269.855961561203,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4967093,
+    "Low longitude (deg)": 153.0233727,
+    "High latitude (deg)": -27.4558404,
+    "High longitude (deg)": 153.0615898,
+    "Average speed (m": {
+      "s)": 1.3502824391471793
+    },
+    "Max speed (m": {
+      "s)": 13.8100004196167
+    },
+    "Min speed (m": {
+      "s)": 0.36926475167274475
+    },
+    "Step count": 3933,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 81235014,
+    "Walking duration (ms)": 2337024,
+    "Running duration (ms)": 61869,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-07-01",
+    "Calories (kcal)": 1433.6136237029361,
+    "Distance (m)": 878.9511106014252,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4826014,
+    "Low longitude (deg)": 153.0614141,
+    "High latitude (deg)": -27.3854265,
+    "High longitude (deg)": 153.1198429,
+    "Average speed (m": {
+      "s)": 1.0144320359493353
+    },
+    "Max speed (m": {
+      "s)": 4.010000228881836
+    },
+    "Min speed (m": {
+      "s)": 0.27413642406463623
+    },
+    "Step count": 4289,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 81410316,
+    "Walking duration (ms)": 1805553,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-07-02",
+    "Calories (kcal)": 1469.4489846019992,
+    "Distance (m)": 1999.606351852417,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4960177,
+    "Low longitude (deg)": 153.0226105,
+    "High latitude (deg)": -27.4605699,
+    "High longitude (deg)": 153.0615379,
+    "Average speed (m": {
+      "s)": 1.023044915311328
+    },
+    "Max speed (m": {
+      "s)": 1.4925256967544556
+    },
+    "Min speed (m": {
+      "s)": 0.3037940561771393
+    },
+    "Step count": 4147,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 83404736,
+    "Walking duration (ms)": 2706430,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-07-03",
+    "Calories (kcal)": 1521.6253079864246,
+    "Distance (m)": 3401.7985206842422,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4934957,
+    "Low longitude (deg)": 153.0186035,
+    "High latitude (deg)": -27.4601687,
+    "High longitude (deg)": 153.0618168,
+    "Average speed (m": {
+      "s)": 0.8544431815866962
+    },
+    "Max speed (m": {
+      "s)": 1.758348822593689
+    },
+    "Min speed (m": {
+      "s)": 0.2953682839870453
+    },
+    "Step count": 6541,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 81401125,
+    "Walking duration (ms)": 3874022,
+    "Running duration (ms)": 61067,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-07-04",
+    "Calories (kcal)": 1380.685394472311,
+    "Distance (m)": 115.90649783611298,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4823403,
+    "Low longitude (deg)": 153.0615375,
+    "High latitude (deg)": -27.482276,
+    "High longitude (deg)": 153.0617191,
+    "Average speed (m": {
+      "s)": 1.2639367313063623
+    },
+    "Max speed (m": {
+      "s)": 6.599999904632568
+    },
+    "Min speed (m": {
+      "s)": 0.287540465593338
+    },
+    "Step count": 2374,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 85925026,
+    "Walking duration (ms)": 474974,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-07-05",
+    "Calories (kcal)": 1558.2052110914528,
+    "Distance (m)": 2186.0715589523315,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4835566,
+    "Low longitude (deg)": 153.0613762,
+    "High latitude (deg)": -27.482159,
+    "High longitude (deg)": 153.0650202,
+    "Average speed (m": {
+      "s)": 0.8599330744237372
+    },
+    "Max speed (m": {
+      "s)": 1.809999942779541
+    },
+    "Min speed (m": {
+      "s)": 0.19102846086025238
+    },
+    "Step count": 6139,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 81462555,
+    "Walking duration (ms)": 4937445,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-07-06",
+    "Calories (kcal)": 1584.817808631374,
+    "Distance (m)": 2451.6679921150208,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4838534,
+    "Low longitude (deg)": 153.061528,
+    "High latitude (deg)": -27.4821748,
+    "High longitude (deg)": 153.0650063,
+    "Average speed (m": {
+      "s)": 0.6257588863446873
+    },
+    "Max speed (m": {
+      "s)": 1.3796124458312988
+    },
+    "Min speed (m": {
+      "s)": 0.2542931139469147
+    },
+    "Step count": 6958,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 79597103,
+    "Walking duration (ms)": 5606722,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-07-07",
+    "Calories (kcal)": 1443.1674083375492,
+    "Distance (m)": 1052.0594314273912,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4982682,
+    "Low longitude (deg)": 153.0214179,
+    "High latitude (deg)": -27.4787739,
+    "High longitude (deg)": 153.0615511,
+    "Average speed (m": {
+      "s)": 1.3637346941722828
+    },
+    "Max speed (m": {
+      "s)": 2.359999895095825
+    },
+    "Min speed (m": {
+      "s)": 0.19688859581947327
+    },
+    "Step count": 4562,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 82204843,
+    "Walking duration (ms)": 2045732,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-07-08",
+    "Calories (kcal)": 1454.1246990441364,
+    "Distance (m)": 1547.9669053554535,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4904553,
+    "Low longitude (deg)": 153.0119988,
+    "High latitude (deg)": -27.4608829,
+    "High longitude (deg)": 153.0648579,
+    "Average speed (m": {
+      "s)": 0.7187867687850674
+    },
+    "Max speed (m": {
+      "s)": 5.75
+    },
+    "Min speed (m": {
+      "s)": 0.23457154631614685
+    },
+    "Step count": 4036,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 84078811,
+    "Walking duration (ms)": 2321189,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-07-09",
+    "Calories (kcal)": 1495.0626370317461,
+    "Distance (m)": 2454.722457166761,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4894676,
+    "Low longitude (deg)": 153.0159936,
+    "High latitude (deg)": -27.460987,
+    "High longitude (deg)": 153.0649106,
+    "Average speed (m": {
+      "s)": 1.3247155239511361
+    },
+    "Max speed (m": {
+      "s)": 6.789999961853027
+    },
+    "Min speed (m": {
+      "s)": 0.09974321722984314
+    },
+    "Step count": 5889,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 83042227,
+    "Walking duration (ms)": 3326145,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-07-10",
+    "Calories (kcal)": 1481.6923015848088,
+    "Distance (m)": 2358.940346303396,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4902825,
+    "Low longitude (deg)": 153.0227847,
+    "High latitude (deg)": -27.4610716,
+    "High longitude (deg)": 153.0622183,
+    "Average speed (m": {
+      "s)": 1.0875880026610292
+    },
+    "Max speed (m": {
+      "s)": 3.369999885559082
+    },
+    "Min speed (m": {
+      "s)": 0.1046052798628807
+    },
+    "Step count": 6065,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 83480502,
+    "Walking duration (ms)": 2854521,
+    "Running duration (ms)": 64977,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-07-11",
+    "Calories (kcal)": 1388.6523192154966,
+    "Distance (m)": 202.65697252750397,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4940119,
+    "Low longitude (deg)": 153.0615483,
+    "High latitude (deg)": -27.4822592,
+    "High longitude (deg)": 153.064396,
+    "Average speed (m": {
+      "s)": 0.7781895349034615
+    },
+    "Max speed (m": {
+      "s)": 7.150000095367432
+    },
+    "Min speed (m": {
+      "s)": 0.3349522054195404
+    },
+    "Step count": 1754,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 85081836,
+    "Walking duration (ms)": 533117,
+    "Running duration (ms)": 60242,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-07-12",
+    "Calories (kcal)": 1508.3924390282475,
+    "Distance (m)": 2544.2073269188404,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.5067154,
+    "Low longitude (deg)": 153.0137836,
+    "High latitude (deg)": -27.4567923,
+    "High longitude (deg)": 153.0649092,
+    "Average speed (m": {
+      "s)": 1.0904651510284675
+    },
+    "Max speed (m": {
+      "s)": 15.739999771118164
+    },
+    "Min speed (m": {
+      "s)": 0.20922712981700897
+    },
+    "Step count": 6929,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 73210821,
+    "Walking duration (ms)": 3415446,
+    "Running duration (ms)": 94176,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-07-13",
+    "Calories (kcal)": 1473.9678098576965,
+    "Distance (m)": 994.0173344612122,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.526983,
+    "Low longitude (deg)": 152.9726694,
+    "High latitude (deg)": -27.4273568,
+    "High longitude (deg)": 153.0643234,
+    "Average speed (m": {
+      "s)": 1.696484341073706
+    },
+    "Max speed (m": {
+      "s)": 18.670000076293945
+    },
+    "Min speed (m": {
+      "s)": 0.028403516858816147
+    },
+    "Step count": 5124,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 77918505,
+    "Walking duration (ms)": 2820029,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-07-14",
+    "Calories (kcal)": 1471.8805028216802,
+    "Distance (m)": 1936.0323215723038,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4823354,
+    "Low longitude (deg)": 153.0604377,
+    "High latitude (deg)": -27.4720857,
+    "High longitude (deg)": 153.0654509,
+    "Average speed (m": {
+      "s)": 0.7211912203112909
+    },
+    "Max speed (m": {
+      "s)": 4.320000171661377
+    },
+    "Min speed (m": {
+      "s)": 0.2626090347766876
+    },
+    "Step count": 5430,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 83408753,
+    "Walking duration (ms)": 2766641,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-07-15",
+    "Calories (kcal)": 1482.3246519592954,
+    "Distance (m)": 2431.120544910431,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4835348,
+    "Low longitude (deg)": 153.0185236,
+    "High latitude (deg)": -27.4609031,
+    "High longitude (deg)": 153.0649683,
+    "Average speed (m": {
+      "s)": 0.7290707078509595
+    },
+    "Max speed (m": {
+      "s)": 1.774525761604309
+    },
+    "Min speed (m": {
+      "s)": 0.2447812706232071
+    },
+    "Step count": 4794,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 83374062,
+    "Walking duration (ms)": 3025938,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-07-16",
+    "Calories (kcal)": 1450.889471170926,
+    "Distance (m)": 1430.1301442980766,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4947088,
+    "Low longitude (deg)": 153.0221828,
+    "High latitude (deg)": -27.4601675,
+    "High longitude (deg)": 153.1203752,
+    "Average speed (m": {
+      "s)": 0.8734995971294991
+    },
+    "Max speed (m": {
+      "s)": 5.070000171661377
+    },
+    "Min speed (m": {
+      "s)": 0.3033413589000702
+    },
+    "Step count": 3880,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 81989501,
+    "Walking duration (ms)": 2239295,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-07-17",
+    "Calories (kcal)": 1440.2110014798805,
+    "Distance (m)": 1359.0032024383545,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4824316,
+    "Low longitude (deg)": 153.0222085,
+    "High latitude (deg)": -27.4601964,
+    "High longitude (deg)": 153.061677,
+    "Average speed (m": {
+      "s)": 0.9122881780260212
+    },
+    "Max speed (m": {
+      "s)": 3.8399999141693115
+    },
+    "Min speed (m": {
+      "s)": 0.3384755551815033
+    },
+    "Step count": 3423,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 84428591,
+    "Walking duration (ms)": 1971409,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-07-18",
+    "Calories (kcal)": 1438.4838291934157,
+    "Distance (m)": 1498.5275955796242,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4927577,
+    "Low longitude (deg)": 153.0594236,
+    "High latitude (deg)": -27.4793524,
+    "High longitude (deg)": 153.0634461,
+    "Average speed (m": {
+      "s)": 0.7689234850906479
+    },
+    "Max speed (m": {
+      "s)": 1.4238582849502563
+    },
+    "Min speed (m": {
+      "s)": 0.31990838050842285
+    },
+    "Step count": 4006,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 83995767,
+    "Walking duration (ms)": 1784389,
+    "Running duration (ms)": 60860,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-07-19",
+    "Calories (kcal)": 1518.8313155086623,
+    "Distance (m)": 3824.2514703273773,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4826669,
+    "Low longitude (deg)": 153.0604068,
+    "High latitude (deg)": -27.4704145,
+    "High longitude (deg)": 153.118914,
+    "Average speed (m": {
+      "s)": 1.986185495381774
+    },
+    "Max speed (m": {
+      "s)": 15.789999961853027
+    },
+    "Min speed (m": {
+      "s)": 0.11221770942211151
+    },
+    "Step count": 4540,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": 1215023,
+    "Inactive duration (ms)": 80149598,
+    "Walking duration (ms)": 2643557,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-07-20",
+    "Calories (kcal)": 1440.5198824129686,
+    "Distance (m)": 1322.0195254981518,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4882782,
+    "Low longitude (deg)": 153.0344287,
+    "High latitude (deg)": -27.4819953,
+    "High longitude (deg)": 153.0647284,
+    "Average speed (m": {
+      "s)": 1.0312211327314085
+    },
+    "Max speed (m": {
+      "s)": 19.489999771118164
+    },
+    "Min speed (m": {
+      "s)": 0.0038134970236569643
+    },
+    "Step count": 4188,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 83234299,
+    "Walking duration (ms)": 1979173,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-07-21",
+    "Calories (kcal)": 1578.661689420159,
+    "Distance (m)": 3785.0951363462955,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4825814,
+    "Low longitude (deg)": 153.0582622,
+    "High latitude (deg)": -27.4722758,
+    "High longitude (deg)": 153.0655234,
+    "Average speed (m": {
+      "s)": 0.7399135040036894
+    },
+    "Max speed (m": {
+      "s)": 2.5799999237060547
+    },
+    "Min speed (m": {
+      "s)": 0.2688651382923126
+    },
+    "Step count": 8559,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 80950851,
+    "Walking duration (ms)": 5449149,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-07-22",
+    "Calories (kcal)": 1457.9523523343669,
+    "Distance (m)": 1455.8924265503883,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4908685,
+    "Low longitude (deg)": 153.022685,
+    "High latitude (deg)": -27.4606041,
+    "High longitude (deg)": 153.0624726,
+    "Average speed (m": {
+      "s)": 0.6858211520376117
+    },
+    "Max speed (m": {
+      "s)": 3.6700000762939453
+    },
+    "Min speed (m": {
+      "s)": 0.28410226106643677
+    },
+    "Step count": 4124,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 83983155,
+    "Walking duration (ms)": 2416845,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-07-23",
+    "Calories (kcal)": 1453.7193750426552,
+    "Distance (m)": 1740.1553264856339,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4855358,
+    "Low longitude (deg)": 153.0228161,
+    "High latitude (deg)": -27.4610112,
+    "High longitude (deg)": 153.0623991,
+    "Average speed (m": {
+      "s)": 1.0884827402578268
+    },
+    "Max speed (m": {
+      "s)": 2.1831724643707275
+    },
+    "Min speed (m": {
+      "s)": 0.32575249671936035
+    },
+    "Step count": 3985,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 84023838,
+    "Walking duration (ms)": 2302527,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-07-24",
+    "Calories (kcal)": 1628.5133639974313,
+    "Distance (m)": 5802.936726808548,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4883507,
+    "Low longitude (deg)": 153.0157331,
+    "High latitude (deg)": -27.4608404,
+    "High longitude (deg)": 153.1207543,
+    "Average speed (m": {
+      "s)": 1.0191654815515314
+    },
+    "Max speed (m": {
+      "s)": 5.239999771118164
+    },
+    "Min speed (m": {
+      "s)": 0.29006537795066833
+    },
+    "Step count": 10152,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 76720860,
+    "Walking duration (ms)": 6643465,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-07-25",
+    "Calories (kcal)": 1375.7820860593106,
+    "Distance (m)": 2.514157772064209,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4827159,
+    "Low longitude (deg)": 153.0613777,
+    "High latitude (deg)": -27.482125,
+    "High longitude (deg)": 153.0617897,
+    "Average speed (m": {
+      "s)": 1.6745520122939035
+    },
+    "Max speed (m": {
+      "s)": 5.619999885559082
+    },
+    "Min speed (m": {
+      "s)": 0.5099999904632568
+    },
+    "Step count": 1243,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 85682815,
+    "Walking duration (ms)": 351708,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-07-26",
+    "Calories (kcal)": 1372.5987498771985,
+    "Distance (m)": 118.95326793193817,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4824814,
+    "Low longitude (deg)": 153.0613908,
+    "High latitude (deg)": -27.4822353,
+    "High longitude (deg)": 153.0616944,
+    "Average speed (m": {
+      "s)": 1.8312836348867694
+    },
+    "Max speed (m": {
+      "s)": 3.9000000953674316
+    },
+    "Min speed (m": {
+      "s)": 0.41613316535949707
+    },
+    "Step count": 700,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 86128318,
+    "Walking duration (ms)": 271682,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-07-27",
+    "Calories (kcal)": 1504.9801410826237,
+    "Distance (m)": 2242.304119399283,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4970993,
+    "Low longitude (deg)": 153.0184698,
+    "High latitude (deg)": -27.4724703,
+    "High longitude (deg)": 153.0663846,
+    "Average speed (m": {
+      "s)": 2.792266417054872
+    },
+    "Max speed (m": {
+      "s)": 16.549999237060547
+    },
+    "Min speed (m": {
+      "s)": 0.2397696077823639
+    },
+    "Step count": 5298,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 81831254,
+    "Walking duration (ms)": 3446534,
+    "Running duration (ms)": 64898,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-07-28",
+    "Calories (kcal)": 1424.527792208939,
+    "Distance (m)": 1016.5723532438278,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4827543,
+    "Low longitude (deg)": 153.0614988,
+    "High latitude (deg)": -27.48223,
+    "High longitude (deg)": 153.0619314,
+    "Average speed (m": {
+      "s)": 1.2035833613481555
+    },
+    "Max speed (m": {
+      "s)": 2.1700000762939453
+    },
+    "Min speed (m": {
+      "s)": 0.2802342176437378
+    },
+    "Step count": 2572,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 84822857,
+    "Walking duration (ms)": 1577143,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-07-29",
+    "Calories (kcal)": 1472.391251615543,
+    "Distance (m)": 2083.828892149031,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4893531,
+    "Low longitude (deg)": 153.0184086,
+    "High latitude (deg)": -27.4601722,
+    "High longitude (deg)": 153.0623386,
+    "Average speed (m": {
+      "s)": 0.8147806137092087
+    },
+    "Max speed (m": {
+      "s)": 2.619999885559082
+    },
+    "Min speed (m": {
+      "s)": 0.30271607637405396
+    },
+    "Step count": 4273,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 83325566,
+    "Walking duration (ms)": 2772854,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-07-30",
+    "Calories (kcal)": 1506.792090048875,
+    "Distance (m)": 3005.104856491089,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4972899,
+    "Low longitude (deg)": 153.0221882,
+    "High latitude (deg)": -27.4601723,
+    "High longitude (deg)": 153.0645685,
+    "Average speed (m": {
+      "s)": 0.807207918701538
+    },
+    "Max speed (m": {
+      "s)": 1.559999942779541
+    },
+    "Min speed (m": {
+      "s)": 0.24868960678577423
+    },
+    "Step count": 6921,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 82458497,
+    "Walking duration (ms)": 3645213,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-07-31",
+    "Calories (kcal)": 1427.1770287096356,
+    "Distance (m)": 1394.4715557098389,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4825072,
+    "Low longitude (deg)": 153.0169174,
+    "High latitude (deg)": -27.4610367,
+    "High longitude (deg)": 153.0620031,
+    "Average speed (m": {
+      "s)": 0.8930215374797373
+    },
+    "Max speed (m": {
+      "s)": 3.2200000286102295
+    },
+    "Min speed (m": {
+      "s)": 0.2816302478313446
+    },
+    "Step count": 3012,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 84760957,
+    "Walking duration (ms)": 1639043,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-08-01",
+    "Calories (kcal)": 1482.0236429100382,
+    "Distance (m)": 2478.4283866882324,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4865965,
+    "Low longitude (deg)": 153.057526,
+    "High latitude (deg)": -27.467014,
+    "High longitude (deg)": 153.1233097,
+    "Average speed (m": {
+      "s)": 1.112585579804481
+    },
+    "Max speed (m": {
+      "s)": 15.579999923706055
+    },
+    "Min speed (m": {
+      "s)": 0.2628347873687744
+    },
+    "Step count": 5059,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 81601811,
+    "Walking duration (ms)": 3022548,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-08-02",
+    "Calories (kcal)": 1413.6665798100312,
+    "Distance (m)": 795.4277368411422,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4824754,
+    "Low longitude (deg)": 153.0602175,
+    "High latitude (deg)": -27.471794,
+    "High longitude (deg)": 153.0693113,
+    "Average speed (m": {
+      "s)": 1.0762593778864098
+    },
+    "Max speed (m": {
+      "s)": 13.420000076293945
+    },
+    "Min speed (m": {
+      "s)": 0.22697149217128754
+    },
+    "Step count": 2840,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": 157078,
+    "Inactive duration (ms)": 84429155,
+    "Walking duration (ms)": 1132120,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-08-03",
+    "Calories (kcal)": 1426.3823445198027,
+    "Distance (m)": 763.9021112918854,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4824394,
+    "Low longitude (deg)": 153.0595423,
+    "High latitude (deg)": -27.4511441,
+    "High longitude (deg)": 153.0684942,
+    "Average speed (m": {
+      "s)": 0.8715954671284634
+    },
+    "Max speed (m": {
+      "s)": 16.5
+    },
+    "Min speed (m": {
+      "s)": 0.2632353901863098
+    },
+    "Step count": 3780,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 83689636,
+    "Walking duration (ms)": 1623765,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-08-04",
+    "Calories (kcal)": 1560.582746347326,
+    "Distance (m)": 4853.953164041042,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.5212664,
+    "Low longitude (deg)": 153.0213661,
+    "High latitude (deg)": -27.4784438,
+    "High longitude (deg)": 153.0675758,
+    "Average speed (m": {
+      "s)": 0.8249505975243614
+    },
+    "Max speed (m": {
+      "s)": 9.4399995803833
+    },
+    "Min speed (m": {
+      "s)": 0.2696820795536041
+    },
+    "Step count": 8234,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 81425372,
+    "Walking duration (ms)": 4974628,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-08-05",
+    "Calories (kcal)": 1450.3118963289508,
+    "Distance (m)": 1624.2744334936142,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4827003,
+    "Low longitude (deg)": 153.0157037,
+    "High latitude (deg)": -27.4601936,
+    "High longitude (deg)": 153.121152,
+    "Average speed (m": {
+      "s)": 0.4989555989534597
+    },
+    "Max speed (m": {
+      "s)": 2.6500000953674316
+    },
+    "Min speed (m": {
+      "s)": 0.2613741159439087
+    },
+    "Step count": 3647,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 79376615,
+    "Walking duration (ms)": 2225339,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-08-06",
+    "Calories (kcal)": 1497.4554995214066,
+    "Distance (m)": 3764.8849263377488,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4972841,
+    "Low longitude (deg)": 153.0157068,
+    "High latitude (deg)": -27.4620888,
+    "High longitude (deg)": 153.062602,
+    "Average speed (m": {
+      "s)": 0.6817307807168248
+    },
+    "Max speed (m": {
+      "s)": 1.5387417078018188
+    },
+    "Min speed (m": {
+      "s)": 0.25021472573280334
+    },
+    "Step count": 6258,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 82411384,
+    "Walking duration (ms)": 3410495,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-08-07",
+    "Calories (kcal)": 1497.0036223408224,
+    "Distance (m)": 3334.886686861515,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4893234,
+    "Low longitude (deg)": 153.016922,
+    "High latitude (deg)": -27.46089,
+    "High longitude (deg)": 153.1212034,
+    "Average speed (m": {
+      "s)": 0.8450117492242456
+    },
+    "Max speed (m": {
+      "s)": 4.769999980926514
+    },
+    "Min speed (m": {
+      "s)": 0.24860675632953644
+    },
+    "Step count": 5606,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 81456504,
+    "Walking duration (ms)": 3398172,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-08-08",
+    "Calories (kcal)": 1576.365350289053,
+    "Distance (m)": 3806.0081824064255,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4951098,
+    "Low longitude (deg)": 153.0123562,
+    "High latitude (deg)": -27.4621348,
+    "High longitude (deg)": 153.0622579,
+    "Average speed (m": {
+      "s)": 0.9635106985803058
+    },
+    "Max speed (m": {
+      "s)": 10.029999732971191
+    },
+    "Min speed (m": {
+      "s)": 0.0187057051807642
+    },
+    "Step count": 7425,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 73624604,
+    "Walking duration (ms)": 5393937,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-08-09",
+    "Calories (kcal)": 1481.3442026152757,
+    "Distance (m)": 2027.4249731898308,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4826524,
+    "Low longitude (deg)": 153.0573177,
+    "High latitude (deg)": -27.4723386,
+    "High longitude (deg)": 153.061945,
+    "Average speed (m": {
+      "s)": 1.207821181298642
+    },
+    "Max speed (m": {
+      "s)": 4.550000190734863
+    },
+    "Min speed (m": {
+      "s)": 0.2473372370004654
+    },
+    "Step count": 4455,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 82812628,
+    "Walking duration (ms)": 3005469,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-08-10",
+    "Calories (kcal)": 1381.9473250770836,
+    "Distance (m)": 168.55115622282028,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4824823,
+    "Low longitude (deg)": 153.0614504,
+    "High latitude (deg)": -27.4822018,
+    "High longitude (deg)": 153.061826,
+    "Average speed (m": {
+      "s)": 1.3857987361260602
+    },
+    "Max speed (m": {
+      "s)": 2.069999933242798
+    },
+    "Min speed (m": {
+      "s)": 0.31387579441070557
+    },
+    "Step count": 1702,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 85893300,
+    "Walking duration (ms)": 506700,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-08-11",
+    "Calories (kcal)": 1399.2715473015558,
+    "Distance (m)": 376.5540529489517,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4883163,
+    "Low longitude (deg)": 153.0270769,
+    "High latitude (deg)": -27.4423378,
+    "High longitude (deg)": 153.0621288,
+    "Average speed (m": {
+      "s)": 1.8399548249827906
+    },
+    "Max speed (m": {
+      "s)": 17.110000610351562
+    },
+    "Min speed (m": {
+      "s)": 0.30724453926086426
+    },
+    "Step count": 4004,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 83737562,
+    "Walking duration (ms)": 800221,
+    "Running duration (ms)": 60181,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-08-12",
+    "Calories (kcal)": 1477.7059537941602,
+    "Distance (m)": 2227.3117956221104,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4972823,
+    "Low longitude (deg)": 153.0134145,
+    "High latitude (deg)": -27.4606006,
+    "High longitude (deg)": 153.1235094,
+    "Average speed (m": {
+      "s)": 0.9552913302971405
+    },
+    "Max speed (m": {
+      "s)": 16.360000610351562
+    },
+    "Min speed (m": {
+      "s)": 0.14243364334106445
+    },
+    "Step count": 5214,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 79138345,
+    "Walking duration (ms)": 2897534,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-08-13",
+    "Calories (kcal)": 1818.587016558024,
+    "Distance (m)": 8771.036776809022,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.6290728,
+    "Low longitude (deg)": 152.7583351,
+    "High latitude (deg)": -27.4426007,
+    "High longitude (deg)": 153.0619718,
+    "Average speed (m": {
+      "s)": 0.9981314726355379
+    },
+    "Max speed (m": {
+      "s)": 10.550000190734863
+    },
+    "Min speed (m": {
+      "s)": 0.23749954998493195
+    },
+    "Step count": 15660,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 73837980,
+    "Walking duration (ms)": 11290666,
+    "Running duration (ms)": 60357,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-08-14",
+    "Calories (kcal)": 1458.4431628616414,
+    "Distance (m)": 2135.8225175738335,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4825214,
+    "Low longitude (deg)": 153.0559363,
+    "High latitude (deg)": -27.4724387,
+    "High longitude (deg)": 153.0639533,
+    "Average speed (m": {
+      "s)": 1.3046635413220151
+    },
+    "Max speed (m": {
+      "s)": 15.75
+    },
+    "Min speed (m": {
+      "s)": 0.31487587094306946
+    },
+    "Step count": 5549,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 82261893,
+    "Walking duration (ms)": 2429752,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-08-15",
+    "Calories (kcal)": 1406.1610457920228,
+    "Distance (m)": 859.6049098968506,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4834844,
+    "Low longitude (deg)": 153.0615612,
+    "High latitude (deg)": -27.4810781,
+    "High longitude (deg)": 153.0651722,
+    "Average speed (m": {
+      "s)": 0.4240333918333676
+    },
+    "Max speed (m": {
+      "s)": 1.1733020544052124
+    },
+    "Min speed (m": {
+      "s)": 0.3541784882545471
+    },
+    "Step count": 2378,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 85284583,
+    "Walking duration (ms)": 1115417,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-08-16",
+    "Calories (kcal)": 1380.83526066216,
+    "Distance (m)": 161.6215044260025,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4824109,
+    "Low longitude (deg)": 153.0614996,
+    "High latitude (deg)": -27.4822526,
+    "High longitude (deg)": 153.061589,
+    "Average speed (m": {
+      "s)": 1.3025034218606086
+    },
+    "Max speed (m": {
+      "s)": 2.119999885559082
+    },
+    "Min speed (m": {
+      "s)": 0.3650486171245575
+    },
+    "Step count": 1772,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 85340906,
+    "Walking duration (ms)": 478742,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-08-17",
+    "Calories (kcal)": 1506.152102757281,
+    "Distance (m)": 2492.701884508133,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4832228,
+    "Low longitude (deg)": 153.0604396,
+    "High latitude (deg)": -27.4723004,
+    "High longitude (deg)": 153.0639629,
+    "Average speed (m": {
+      "s)": 0.8769158287784845
+    },
+    "Max speed (m": {
+      "s)": 3.819999933242798
+    },
+    "Min speed (m": {
+      "s)": 0.2559509575366974
+    },
+    "Step count": 6042,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 82423161,
+    "Walking duration (ms)": 3629123,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-08-18",
+    "Calories (kcal)": 1374.318269395893,
+    "Distance (m)": 1.2570788860321045,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4823916,
+    "Low longitude (deg)": 153.0613406,
+    "High latitude (deg)": -27.4822238,
+    "High longitude (deg)": 153.0615819,
+    "Average speed (m": {
+      "s)": 0.8299999833106995
+    },
+    "Max speed (m": {
+      "s)": 0.8299999833106995
+    },
+    "Min speed (m": {
+      "s)": 0.8299999833106995
+    },
+    "Step count": 1051,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 86085092,
+    "Walking duration (ms)": 314908,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-08-19",
+    "Calories (kcal)": 1386.1545431599918,
+    "Distance (m)": 312.4284882545471,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4823826,
+    "Low longitude (deg)": 153.0614748,
+    "High latitude (deg)": -27.4821211,
+    "High longitude (deg)": 153.061574,
+    "Average speed (m": {
+      "s)": 1.8839427100388615
+    },
+    "Max speed (m": {
+      "s)": 3.6700000762939453
+    },
+    "Min speed (m": {
+      "s)": 0.4437532126903534
+    },
+    "Step count": 1561,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 85787534,
+    "Walking duration (ms)": 612466,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-08-20",
+    "Calories (kcal)": 1531.422173523285,
+    "Distance (m)": 3684.396258354187,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4823405,
+    "Low longitude (deg)": 153.0164405,
+    "High latitude (deg)": -27.402401,
+    "High longitude (deg)": 153.1093925,
+    "Average speed (m": {
+      "s)": 0.667148476373356
+    },
+    "Max speed (m": {
+      "s)": 1.5509554147720337
+    },
+    "Min speed (m": {
+      "s)": 0.27916714549064636
+    },
+    "Step count": 8169,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 77830501,
+    "Walking duration (ms)": 4264393,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-08-21",
+    "Calories (kcal)": 1378.7167239417363,
+    "Distance (m)": 162.29654729366302,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.5693072,
+    "Low longitude (deg)": 153.0615491,
+    "High latitude (deg)": -27.467022,
+    "High longitude (deg)": 153.1260801,
+    "Average speed (m": {
+      "s)": 2.7916505659170645
+    },
+    "Max speed (m": {
+      "s)": 27.3799991607666
+    },
+    "Min speed (m": {
+      "s)": 0.5183538794517517
+    },
+    "Step count": 2329,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 82726590,
+    "Walking duration (ms)": 425483,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-08-22",
+    "Calories (kcal)": 1426.1157982278478,
+    "Distance (m)": 898.51486992836,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4941922,
+    "Low longitude (deg)": 153.0555727,
+    "High latitude (deg)": -27.4821649,
+    "High longitude (deg)": 153.0638497,
+    "Average speed (m": {
+      "s)": 0.7262383747190204
+    },
+    "Max speed (m": {
+      "s)": 5.579999923706055
+    },
+    "Min speed (m": {
+      "s)": 0.2618938088417053
+    },
+    "Step count": 3912,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 83839541,
+    "Walking duration (ms)": 1617065,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-08-23",
+    "Calories (kcal)": 1502.9451786354684,
+    "Distance (m)": 2262.805592060089,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4824406,
+    "Low longitude (deg)": 152.9551936,
+    "High latitude (deg)": -27.3914879,
+    "High longitude (deg)": 153.0685118,
+    "Average speed (m": {
+      "s)": 1.3134082896767498
+    },
+    "Max speed (m": {
+      "s)": 16.049999237060547
+    },
+    "Min speed (m": {
+      "s)": 0.0894109234213829
+    },
+    "Step count": 5474,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 76707944,
+    "Walking duration (ms)": 3548502,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-08-24",
+    "Calories (kcal)": 1513.4388125479497,
+    "Distance (m)": 2400.0866139088757,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.5120726,
+    "Low longitude (deg)": 153.0331795,
+    "High latitude (deg)": -27.4577073,
+    "High longitude (deg)": 153.0648009,
+    "Average speed (m": {
+      "s)": 1.202840386346607
+    },
+    "Max speed (m": {
+      "s)": 16.139999389648438
+    },
+    "Min speed (m": {
+      "s)": 0.12016520649194717
+    },
+    "Step count": 7523,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 80506314,
+    "Walking duration (ms)": 3812307,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-08-25",
+    "Calories (kcal)": 1756.3006012712399,
+    "Distance (m)": 7802.084629660472,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4932875,
+    "Low longitude (deg)": 153.0102909,
+    "High latitude (deg)": -27.4491226,
+    "High longitude (deg)": 153.0615961,
+    "Average speed (m": {
+      "s)": 0.952171560089139
+    },
+    "Max speed (m": {
+      "s)": 18.6200008392334
+    },
+    "Min speed (m": {
+      "s)": 0.23389583826065063
+    },
+    "Step count": 15398,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 74790937,
+    "Walking duration (ms)": 9894961,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-08-26",
+    "Calories (kcal)": 1476.7824072324731,
+    "Distance (m)": 2885.634820342064,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4824668,
+    "Low longitude (deg)": 153.0185807,
+    "High latitude (deg)": -27.4604643,
+    "High longitude (deg)": 153.0626178,
+    "Average speed (m": {
+      "s)": 1.3501786199477777
+    },
+    "Max speed (m": {
+      "s)": 8.350000381469727
+    },
+    "Min speed (m": {
+      "s)": 0.07634026557207108
+    },
+    "Step count": 5001,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 83443579,
+    "Walking duration (ms)": 2756786,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-08-27",
+    "Calories (kcal)": 1452.129214446294,
+    "Distance (m)": 1848.1271708011627,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4931974,
+    "Low longitude (deg)": 153.0164018,
+    "High latitude (deg)": -27.4604644,
+    "High longitude (deg)": 153.0705253,
+    "Average speed (m": {
+      "s)": 1.1254416830765728
+    },
+    "Max speed (m": {
+      "s)": 5.519999980926514
+    },
+    "Min speed (m": {
+      "s)": 0.29893580079078674
+    },
+    "Step count": 4037,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 83974559,
+    "Walking duration (ms)": 2271024,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-08-28",
+    "Calories (kcal)": 1554.7575218804366,
+    "Distance (m)": 4145.101221509278,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4931974,
+    "Low longitude (deg)": 153.0126489,
+    "High latitude (deg)": -27.4416192,
+    "High longitude (deg)": 153.1234961,
+    "Average speed (m": {
+      "s)": 1.3113043259934183
+    },
+    "Max speed (m": {
+      "s)": 7.21999979019165
+    },
+    "Min speed (m": {
+      "s)": 0.2525393068790436
+    },
+    "Step count": 9461,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 79265528,
+    "Walking duration (ms)": 4840726,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-08-29",
+    "Calories (kcal)": 1449.0424424243306,
+    "Distance (m)": 1262.2112483754754,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4834947,
+    "Low longitude (deg)": 153.0610166,
+    "High latitude (deg)": -27.4708455,
+    "High longitude (deg)": 153.1205896,
+    "Average speed (m": {
+      "s)": 0.9174970990499012
+    },
+    "Max speed (m": {
+      "s)": 3.259999990463257
+    },
+    "Min speed (m": {
+      "s)": 0.2557235658168793
+    },
+    "Step count": 3979,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 82378484,
+    "Walking duration (ms)": 2193425,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-08-30",
+    "Calories (kcal)": 1534.8063498037727,
+    "Distance (m)": 4252.880264520645,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4854658,
+    "Low longitude (deg)": 153.0589199,
+    "High latitude (deg)": -27.4723653,
+    "High longitude (deg)": 153.063689,
+    "Average speed (m": {
+      "s)": 1.3848632330761388
+    },
+    "Max speed (m": {
+      "s)": 10.949999809265137
+    },
+    "Min speed (m": {
+      "s)": 0.327620267868042
+    },
+    "Step count": 9546,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 81589313,
+    "Walking duration (ms)": 4206591,
+    "Running duration (ms)": 60132,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-08-31",
+    "Calories (kcal)": 1481.2938879378953,
+    "Distance (m)": 2664.4376999139786,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.5113052,
+    "Low longitude (deg)": 153.0583782,
+    "High latitude (deg)": -27.4815276,
+    "High longitude (deg)": 153.064268,
+    "Average speed (m": {
+      "s)": 1.8485760459104714
+    },
+    "Max speed (m": {
+      "s)": 15.819999694824219
+    },
+    "Min speed (m": {
+      "s)": 0.0823088139295578
+    },
+    "Step count": 6694,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 82051535,
+    "Walking duration (ms)": 3004201,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-09-01",
+    "Calories (kcal)": 1369.1364737156757,
+    "Distance (m)": 93.60335743427277,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.5260813,
+    "Low longitude (deg)": 153.0615626,
+    "High latitude (deg)": -27.4821785,
+    "High longitude (deg)": 153.0819809,
+    "Average speed (m": {
+      "s)": 0.7447812578834838
+    },
+    "Max speed (m": {
+      "s)": 0.878389835357666
+    },
+    "Min speed (m": {
+      "s)": 0.5777576565742493
+    },
+    "Step count": 922,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 85306988,
+    "Walking duration (ms)": 184643,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-09-02",
+    "Calories (kcal)": 1533.7415605132144,
+    "Distance (m)": 3596.4770198464394,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4834929,
+    "Low longitude (deg)": 153.0136984,
+    "High latitude (deg)": -27.4604643,
+    "High longitude (deg)": 153.0649048,
+    "Average speed (m": {
+      "s)": 1.2168605266972379
+    },
+    "Max speed (m": {
+      "s)": 11.3100004196167
+    },
+    "Min speed (m": {
+      "s)": 0.06673625111579895
+    },
+    "Step count": 7728,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 82077299,
+    "Walking duration (ms)": 4322701,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-09-03",
+    "Calories (kcal)": 1491.282521840811,
+    "Distance (m)": 2641.1043667793274,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.497281,
+    "Low longitude (deg)": 153.0185215,
+    "High latitude (deg)": -27.4603992,
+    "High longitude (deg)": 153.0619258,
+    "Average speed (m": {
+      "s)": 1.082343825550749
+    },
+    "Max speed (m": {
+      "s)": 11.829999923706055
+    },
+    "Min speed (m": {
+      "s)": 0.05480927601456642
+    },
+    "Step count": 4966,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 82776568,
+    "Walking duration (ms)": 2827399,
+    "Running duration (ms)": 181357,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-09-04",
+    "Calories (kcal)": 1648.8779361491174,
+    "Distance (m)": 5802.692234903574,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4825908,
+    "Low longitude (deg)": 153.0160166,
+    "High latitude (deg)": -27.4563689,
+    "High longitude (deg)": 153.1801746,
+    "Average speed (m": {
+      "s)": 0.8991898100112323
+    },
+    "Max speed (m": {
+      "s)": 7.099999904632568
+    },
+    "Min speed (m": {
+      "s)": 0.10882353037595749
+    },
+    "Step count": 11419,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 79069341,
+    "Walking duration (ms)": 7023688,
+    "Running duration (ms)": 64904,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-09-05",
+    "Calories (kcal)": 1372.3682341331114,
+    "Distance (m)": 140.11622881889343,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4836291,
+    "Low longitude (deg)": 153.0612966,
+    "High latitude (deg)": -27.4719909,
+    "High longitude (deg)": 153.1206869,
+    "Average speed (m": {
+      "s)": 1.392574998301835
+    },
+    "Max speed (m": {
+      "s)": 15.6899995803833
+    },
+    "Min speed (m": {
+      "s)": 0.10953212529420853
+    },
+    "Step count": 707,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 83130258,
+    "Walking duration (ms)": 265888,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-09-06",
+    "Calories (kcal)": 1621.3114486396655,
+    "Distance (m)": 5695.526944518089,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4840832,
+    "Low longitude (deg)": 153.0211992,
+    "High latitude (deg)": -27.4722208,
+    "High longitude (deg)": 153.062727,
+    "Average speed (m": {
+      "s)": 0.9089835229109781
+    },
+    "Max speed (m": {
+      "s)": 1.5099999904632568
+    },
+    "Min speed (m": {
+      "s)": 0.18911665678024292
+    },
+    "Step count": 10518,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 79588651,
+    "Walking duration (ms)": 6524148,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-09-07",
+    "Calories (kcal)": 1429.6317954788942,
+    "Distance (m)": 1146.0945967435837,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4874395,
+    "Low longitude (deg)": 152.9770689,
+    "High latitude (deg)": -27.4036837,
+    "High longitude (deg)": 153.0638526,
+    "Average speed (m": {
+      "s)": 0.7202160637878248
+    },
+    "Max speed (m": {
+      "s)": 5.190000057220459
+    },
+    "Min speed (m": {
+      "s)": 0.3010815680027008
+    },
+    "Step count": 3295,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 81682557,
+    "Walking duration (ms)": 1705456,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-09-08",
+    "Calories (kcal)": 1361.7917184048292,
+    "Distance (m)": null,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4823115,
+    "Low longitude (deg)": 153.0615684,
+    "High latitude (deg)": -27.4822005,
+    "High longitude (deg)": 153.0615848,
+    "Average speed (m": {
+      "s)": null
+    },
+    "Max speed (m": {
+      "s)": null
+    },
+    "Min speed (m": {
+      "s)": null
+    },
+    "Step count": 877,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 86400000,
+    "Walking duration (ms)": null,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-09-09",
+    "Calories (kcal)": 1367.0834513010504,
+    "Distance (m)": 77.63460922241211,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4824319,
+    "Low longitude (deg)": 153.0614265,
+    "High latitude (deg)": -27.4822253,
+    "High longitude (deg)": 153.0615831,
+    "Average speed (m": {
+      "s)": 0.8907363574804207
+    },
+    "Max speed (m": {
+      "s)": 1.4800000190734863
+    },
+    "Min speed (m": {
+      "s)": 0.5600000023841858
+    },
+    "Step count": 1028,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 86266968,
+    "Walking duration (ms)": 133032,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-09-10",
+    "Calories (kcal)": 1443.460632280611,
+    "Distance (m)": 1944.28785187006,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4904272,
+    "Low longitude (deg)": 153.0122676,
+    "High latitude (deg)": -27.4603977,
+    "High longitude (deg)": 153.1825032,
+    "Average speed (m": {
+      "s)": 1.0325138127412
+    },
+    "Max speed (m": {
+      "s)": 1.9594874382019043
+    },
+    "Min speed (m": {
+      "s)": 0.35710054636001587
+    },
+    "Step count": 3724,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 83393273,
+    "Walking duration (ms)": 2053103,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-09-11",
+    "Calories (kcal)": 1486.6440278128614,
+    "Distance (m)": 2474.051343202591,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4933427,
+    "Low longitude (deg)": 153.0185085,
+    "High latitude (deg)": -27.4604113,
+    "High longitude (deg)": 153.0620505,
+    "Average speed (m": {
+      "s)": 0.961770591696463
+    },
+    "Max speed (m": {
+      "s)": 2.180000066757202
+    },
+    "Min speed (m": {
+      "s)": 0.2653521001338959
+    },
+    "Step count": 5102,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 81943178,
+    "Walking duration (ms)": 3138701,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-09-12",
+    "Calories (kcal)": 1644.5723286365271,
+    "Distance (m)": 5719.215240908787,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.484082,
+    "Low longitude (deg)": 153.0604374,
+    "High latitude (deg)": -27.4724679,
+    "High longitude (deg)": 153.0650795,
+    "Average speed (m": {
+      "s)": 1.2073871196787818
+    },
+    "Max speed (m": {
+      "s)": 3.009999990463257
+    },
+    "Min speed (m": {
+      "s)": 0.3058013617992401
+    },
+    "Step count": 11135,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 79480004,
+    "Walking duration (ms)": 6677055,
+    "Running duration (ms)": 183030,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-09-13",
+    "Calories (kcal)": 1477.7198112091803,
+    "Distance (m)": 1418.331894993782,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4824609,
+    "Low longitude (deg)": 153.0575132,
+    "High latitude (deg)": -27.478837,
+    "High longitude (deg)": 153.061665,
+    "Average speed (m": {
+      "s)": 1.3189645136843038
+    },
+    "Max speed (m": {
+      "s)": 3.859999895095825
+    },
+    "Min speed (m": {
+      "s)": 0.2778339087963104
+    },
+    "Step count": 3815,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 83395334,
+    "Walking duration (ms)": 2914355,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-09-14",
+    "Calories (kcal)": 1579.7022515336562,
+    "Distance (m)": 4293.804472248966,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.5112406,
+    "Low longitude (deg)": 153.0330336,
+    "High latitude (deg)": -27.4577561,
+    "High longitude (deg)": 153.0647306,
+    "Average speed (m": {
+      "s)": 1.0281513988829913
+    },
+    "Max speed (m": {
+      "s)": 15.34000015258789
+    },
+    "Min speed (m": {
+      "s)": 0.24942108988761902
+    },
+    "Step count": 9993,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 79112682,
+    "Walking duration (ms)": 4876531,
+    "Running duration (ms)": 242045,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-09-15",
+    "Calories (kcal)": 1649.4687051504643,
+    "Distance (m)": 5997.495002027637,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4949669,
+    "Low longitude (deg)": 153.0187996,
+    "High latitude (deg)": -27.457743,
+    "High longitude (deg)": 153.0624984,
+    "Average speed (m": {
+      "s)": 0.8140945720112589
+    },
+    "Max speed (m": {
+      "s)": 23.389999389648438
+    },
+    "Min speed (m": {
+      "s)": 0.32213297486305237
+    },
+    "Step count": 12540,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 77477514,
+    "Walking duration (ms)": 7090257,
+    "Running duration (ms)": 60075,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-09-16",
+    "Calories (kcal)": 1588.0176811823364,
+    "Distance (m)": 5413.8006631582975,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4914422,
+    "Low longitude (deg)": 153.0163073,
+    "High latitude (deg)": -27.4604401,
+    "High longitude (deg)": 153.0650644,
+    "Average speed (m": {
+      "s)": 0.8978916093087425
+    },
+    "Max speed (m": {
+      "s)": 2.759999990463257
+    },
+    "Min speed (m": {
+      "s)": 0.019245831295847893
+    },
+    "Step count": 9462,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 80712851,
+    "Walking duration (ms)": 5687149,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-09-17",
+    "Calories (kcal)": 1601.9478244416293,
+    "Distance (m)": 5577.737708448432,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4934985,
+    "Low longitude (deg)": 153.0128977,
+    "High latitude (deg)": -27.4604698,
+    "High longitude (deg)": 153.0641753,
+    "Average speed (m": {
+      "s)": 0.8204485573611996
+    },
+    "Max speed (m": {
+      "s)": 1.840000033378601
+    },
+    "Min speed (m": {
+      "s)": 0.09896104037761688
+    },
+    "Step count": 10802,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 80034774,
+    "Walking duration (ms)": 5605605,
+    "Running duration (ms)": 182871,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-09-18",
+    "Calories (kcal)": 1500.6483435744462,
+    "Distance (m)": 2675.9687230288982,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4934985,
+    "Low longitude (deg)": 153.0260279,
+    "High latitude (deg)": -27.4604726,
+    "High longitude (deg)": 153.0624429,
+    "Average speed (m": {
+      "s)": 1.0562877162539617
+    },
+    "Max speed (m": {
+      "s)": 4.710000038146973
+    },
+    "Min speed (m": {
+      "s)": 0.09484489262104034
+    },
+    "Step count": 6491,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 82334650,
+    "Walking duration (ms)": 3480017,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-09-19",
+    "Calories (kcal)": 1379.8457880048747,
+    "Distance (m)": 357.1171636581421,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4825193,
+    "Low longitude (deg)": 153.0548396,
+    "High latitude (deg)": -27.4726258,
+    "High longitude (deg)": 153.0620392,
+    "Average speed (m": {
+      "s)": 1.1019802108460475
+    },
+    "Max speed (m": {
+      "s)": 6.471444606781006
+    },
+    "Min speed (m": {
+      "s)": 0.23081408441066742
+    },
+    "Step count": 1761,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 85947380,
+    "Walking duration (ms)": 452620,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-09-20",
+    "Calories (kcal)": 1411.703095554277,
+    "Distance (m)": 918.6668029613793,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4972692,
+    "Low longitude (deg)": 153.0224064,
+    "High latitude (deg)": -27.4653733,
+    "High longitude (deg)": 153.0616923,
+    "Average speed (m": {
+      "s)": 1.6837813220204885
+    },
+    "Max speed (m": {
+      "s)": 6.199665546417236
+    },
+    "Min speed (m": {
+      "s)": 0.2591995596885681
+    },
+    "Step count": 4322,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 83058255,
+    "Walking duration (ms)": 1243600,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  },
+  {
+    "Date": "2019-09-21",
+    "Calories (kcal)": 432.87745896199596,
+    "Distance (m)": null,
+    "Average heart rate (bpm)": null,
+    "Max heart rate (bpm)": null,
+    "Min heart rate (bpm)": null,
+    "Low latitude (deg)": -27.4823146,
+    "Low longitude (deg)": 153.061577,
+    "High latitude (deg)": -27.4821903,
+    "High longitude (deg)": 153.0616094,
+    "Average speed (m": {
+      "s)": 1.5704294861736823
+    },
+    "Max speed (m": {
+      "s)": 1.572595238685608
+    },
+    "Min speed (m": {
+      "s)": 1.3011019229888916
+    },
+    "Step count": 147,
+    "Average weight (kg)": null,
+    "Max weight (kg)": null,
+    "Min weight (kg)": null,
+    "Biking duration (ms)": null,
+    "Inactive duration (ms)": 27464266,
+    "Walking duration (ms)": null,
+    "Running duration (ms)": null,
+    "Weight lifting duration (ms)": null
+  }
+]

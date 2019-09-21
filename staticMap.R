@@ -42,8 +42,8 @@ data2 <- data2 %>%
 markers <- data.frame(Observation = c("A", "B"),
                       InitialLat = c(TestData$ns1_LatitudeDegrees,TestData$ns1_LatitudeDegrees),
                       InitialLong = c(TestData$ns1_LongitudeDegrees,TestData$ns1_LongitudeDegrees),
-                      #NewLat = c(TestData$ns1_LatitudeDegrees,TestData$ns1_LatitudeDegrees),
-                      #NewLong = c(TestData$ns1_LongitudeDegrees,TestData$ns1_LongitudeDegrees),
+                      NewLat = c(TestData$ns1_LatitudeDegrees,TestData$ns1_LatitudeDegrees),
+                      NewLong = c(TestData$ns1_LongitudeDegrees,TestData$ns1_LongitudeDegrees),
                       stringsAsFactors = FALSE)
 
 markers2 <- data.frame(group = c("A", "B"),

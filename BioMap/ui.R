@@ -22,7 +22,7 @@ dashboardPage(
   dashboardHeader(title = "BioMap Australia"),
   dashboardSidebar(
     sidebarMenu(
-      menuItem("Dashboard", tabName = "dashboard", icon = icon("dashboard")),
+      menuItem("Route Dashboard", tabName = "dashboard", icon = icon("dashboard")),
       menuItem("Location Dashboard", tabName = "Location", icon = icon("dashboard")),
       menuItem("Data", tabName = "data", icon = icon("th"))
 

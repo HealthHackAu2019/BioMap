@@ -9,6 +9,8 @@
 
 library(shiny)
 library(rsconnect)
+library(dplyr)
+library(jsonlite)
 
 #DATA 
 sampleRoute = read_csv("TestData.csv")
@@ -16,6 +18,17 @@ sampleRoute = read_csv("TestData.csv")
 #longitude and latitude variables
 #ns1:LatitudeDegrees
 #ns1:LongitudeDegrees
+
+
+# converting JSON to dataframe so that it can be used in the leaflet map
+data2 <- fromJSON("../data.json")
+data2 <- data2[!is.na(data2$`Low latitude (deg)`),]
+data2 <- data2 %>%
+  mutate(lat= `Low latitude (deg)`,
+         long = `Low longitude (deg)`,
+         group = `Date`)
+
+
 
 sampleRoute$ns1_LatitudeDegrees
 
@@ -56,6 +69,7 @@ shinyServer(function(input, output) {
         lng2=154.000, lat2=-27.000,
         fillColor = "transparent") %>%
       addPolylines(data = markers2, lng = ~long, lat = ~lat, group = ~group) %>%
+      addMarkers(data = data2, lng= ~long, lat= ~lat, popup = ~as.character(group), label = ~as.character(group)) %>%
       setView(lng=153.0251, lat=-27.4698, zoom=10) #%>%
 
     m

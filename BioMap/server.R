@@ -11,6 +11,7 @@ library(shiny)
 library(rsconnect)
 library(dplyr)
 library(jsonlite)
+library(raster)
 
 #DATA 
 sampleRoute = read_csv("TestData.csv")
@@ -19,6 +20,13 @@ sampleRoute = read_csv("TestData.csv")
 #ns1:LatitudeDegrees
 #ns1:LongitudeDegrees
 
+
+shapes <- shapefile("../SA3_2016_AUST.shp")
+
+
+# From https://www.census.gov/geo/maps-data/data/cbf/cbf_state.html
+# states <- readOGR("SA3_2016_AUST.shp",
+#                   layer = "cb_2013_us_state_20m", GDAL1_integer64_policy = TRUE)
 
 # converting JSON to dataframe so that it can be used in the leaflet map
 data2 <- fromJSON("../data.json")
@@ -64,7 +72,11 @@ shinyServer(function(input, output) {
   output$RouteMap <- renderLeaflet({
     m <- leaflet() %>%
       addTiles() %>%
-      addPolylines(data = markers2, lng = ~long, lat = ~lat, group = ~group) %>%
+      addRectangles(
+        lng1=152.000, lat1=-28.000,
+        lng2=154.000, lat2=-27.000,
+        fillColor = "transparent") %>%
+      addPolylines(data = markers2, lng = ~long, lat = ~lat, group = ~group) %>% 
       addMarkers(data = data2, lng= ~long, lat= ~lat, popup = ~as.character(group), label = ~as.character(group)) %>%
       setView(lng=153.0251, lat=-27.4698, zoom=10) #%>%
 
@@ -79,6 +91,7 @@ shinyServer(function(input, output) {
         lng1=152.000, lat1=-28.000,
         lng2=154.000, lat2=-27.000,
         fillColor = "transparent") %>%
+      addPolygons(data=shapes,weight=5,col = 'red') %>% 
       addPolylines(data = markers2, lng = ~long, lat = ~lat, group = ~group) %>%
       setView(lng=153.0251, lat=-27.4698, zoom=10) #%>%
     

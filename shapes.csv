@@ -1,0 +1,341 @@
+﻿,SA3_CODE16,SA3_NAME16,SA4_CODE16,SA4_NAME16,GCC_CODE16,GCC_NAME16,STE_CODE16,STE_NAME16,AREASQKM16
+0,10102,Queanbeyan,101,Capital Region,1RNSW,Rest of NSW,1,New South Wales,6511.1906
+1,10103,Snowy Mountains,101,Capital Region,1RNSW,Rest of NSW,1,New South Wales,14283.4221
+2,10104,South Coast,101,Capital Region,1RNSW,Rest of NSW,1,New South Wales,9864.868
+3,10105,Goulburn - Mulwaree,101,Capital Region,1RNSW,Rest of NSW,1,New South Wales,9099.9086
+4,10106,Young - Yass,101,Capital Region,1RNSW,Rest of NSW,1,New South Wales,12136.1738
+5,10201,Gosford,102,Central Coast,1GSYD,Greater Sydney,1,New South Wales,988.4263
+6,10202,Wyong,102,Central Coast,1GSYD,Greater Sydney,1,New South Wales,692.6461
+7,10301,Bathurst,103,Central West,1RNSW,Rest of NSW,1,New South Wales,6984.183
+8,10302,Lachlan Valley,103,Central West,1RNSW,Rest of NSW,1,New South Wales,41000.7206
+9,10303,Lithgow - Mudgee,103,Central West,1RNSW,Rest of NSW,1,New South Wales,16044.6246
+10,10304,Orange,103,Central West,1RNSW,Rest of NSW,1,New South Wales,6267.5322
+11,10401,Clarence Valley,104,Coffs Harbour - Grafton,1RNSW,Rest of NSW,1,New South Wales,9263.1939
+12,10402,Coffs Harbour,104,Coffs Harbour - Grafton,1RNSW,Rest of NSW,1,New South Wales,3966.5639
+13,10501,Bourke - Cobar - Coonamble,105,Far West and Orana,1RNSW,Rest of NSW,1,New South Wales,162765.126
+14,10502,Broken Hill and Far West,105,Far West and Orana,1RNSW,Rest of NSW,1,New South Wales,146860.1758
+15,10503,Dubbo,105,Far West and Orana,1RNSW,Rest of NSW,1,New South Wales,29738.3907
+16,10601,Lower Hunter,106,Hunter Valley exc Newcastle,1RNSW,Rest of NSW,1,New South Wales,8566.7809
+17,10602,Maitland,106,Hunter Valley exc Newcastle,1RNSW,Rest of NSW,1,New South Wales,380.1168
+18,10603,Port Stephens,106,Hunter Valley exc Newcastle,1RNSW,Rest of NSW,1,New South Wales,1071.9768
+19,10604,Upper Hunter,106,Hunter Valley exc Newcastle,1RNSW,Rest of NSW,1,New South Wales,11472.417
+20,10701,Dapto - Port Kembla,107,Illawarra,1RNSW,Rest of NSW,1,New South Wales,163.6962
+21,10702,Illawarra Catchment Reserve,107,Illawarra,1RNSW,Rest of NSW,1,New South Wales,744.3423
+22,10703,Kiama - Shellharbour,107,Illawarra,1RNSW,Rest of NSW,1,New South Wales,390.7983
+23,10704,Wollongong,107,Illawarra,1RNSW,Rest of NSW,1,New South Wales,240.0822
+24,10801,Great Lakes,108,Mid North Coast,1RNSW,Rest of NSW,1,New South Wales,3133.0446
+25,10802,Kempsey - Nambucca,108,Mid North Coast,1RNSW,Rest of NSW,1,New South Wales,5339.3249
+26,10803,Lord Howe Island,108,Mid North Coast,1RNSW,Rest of NSW,1,New South Wales,16.2918
+27,10804,Port Macquarie,108,Mid North Coast,1RNSW,Rest of NSW,1,New South Wales,3687.77
+28,10805,Taree - Gloucester,108,Mid North Coast,1RNSW,Rest of NSW,1,New South Wales,6675.0682
+29,10901,Albury,109,Murray,1RNSW,Rest of NSW,1,New South Wales,5597.4849
+30,10902,Lower Murray,109,Murray,1RNSW,Rest of NSW,1,New South Wales,63968.2369
+31,10903,Upper Murray exc. Albury,109,Murray,1RNSW,Rest of NSW,1,New South Wales,28231.9536
+32,11001,Armidale,110,New England and North West,1RNSW,Rest of NSW,1,New South Wales,16395.6492
+33,11002,Inverell - Tenterfield,110,New England and North West,1RNSW,Rest of NSW,1,New South Wales,30568.6383
+34,11003,Moree - Narrabri,110,New England and North West,1RNSW,Rest of NSW,1,New South Wales,32026.5412
+35,11004,Tamworth - Gunnedah,110,New England and North West,1RNSW,Rest of NSW,1,New South Wales,20155.0876
+36,11101,Lake Macquarie - East,111,Newcastle and Lake Macquarie,1RNSW,Rest of NSW,1,New South Wales,138.0858
+37,11102,Lake Macquarie - West,111,Newcastle and Lake Macquarie,1RNSW,Rest of NSW,1,New South Wales,507.6329
+38,11103,Newcastle,111,Newcastle and Lake Macquarie,1RNSW,Rest of NSW,1,New South Wales,224.8933
+39,11201,Richmond Valley - Coastal,112,Richmond - Tweed,1RNSW,Rest of NSW,1,New South Wales,1572.8877
+40,11202,Richmond Valley - Hinterland,112,Richmond - Tweed,1RNSW,Rest of NSW,1,New South Wales,7390.5986
+41,11203,Tweed Valley,112,Richmond - Tweed,1RNSW,Rest of NSW,1,New South Wales,1307.6562
+42,11301,Griffith - Murrumbidgee (West),113,Riverina,1RNSW,Rest of NSW,1,New South Wales,28859.6885
+43,11302,Tumut - Tumbarumba,113,Riverina,1RNSW,Rest of NSW,1,New South Wales,9174.7645
+44,11303,Wagga Wagga,113,Riverina,1RNSW,Rest of NSW,1,New South Wales,18950.5659
+45,11401,Shoalhaven,114,Southern Highlands and Shoalhaven,1RNSW,Rest of NSW,1,New South Wales,4374.4257
+46,11402,Southern Highlands,114,Southern Highlands and Shoalhaven,1RNSW,Rest of NSW,1,New South Wales,2330.0144
+47,11501,Baulkham Hills,115,Sydney - Baulkham Hills and Hawkesbury,1GSYD,Greater Sydney,1,New South Wales,72.0257
+48,11502,Dural - Wisemans Ferry,115,Sydney - Baulkham Hills and Hawkesbury,1GSYD,Greater Sydney,1,New South Wales,569.2386
+49,11503,Hawkesbury,115,Sydney - Baulkham Hills and Hawkesbury,1GSYD,Greater Sydney,1,New South Wales,2492.0101
+50,11504,Rouse Hill - McGraths Hill,115,Sydney - Baulkham Hills and Hawkesbury,1GSYD,Greater Sydney,1,New South Wales,118.2241
+51,11601,Blacktown,116,Sydney - Blacktown,1GSYD,Greater Sydney,1,New South Wales,56.3066
+52,11602,Blacktown - North,116,Sydney - Blacktown,1GSYD,Greater Sydney,1,New South Wales,103.0669
+53,11603,Mount Druitt,116,Sydney - Blacktown,1GSYD,Greater Sydney,1,New South Wales,82.7116
+54,11701,Botany,117,Sydney - City and Inner South,1GSYD,Greater Sydney,1,New South Wales,27.7978
+55,11702,Marrickville - Sydenham - Petersham,117,Sydney - City and Inner South,1GSYD,Greater Sydney,1,New South Wales,12.6699
+56,11703,Sydney Inner City,117,Sydney - City and Inner South,1GSYD,Greater Sydney,1,New South Wales,25.0641
+57,11801,Eastern Suburbs - North,118,Sydney - Eastern Suburbs,1GSYD,Greater Sydney,1,New South Wales,26.1849
+58,11802,Eastern Suburbs - South,118,Sydney - Eastern Suburbs,1GSYD,Greater Sydney,1,New South Wales,31.5481
+59,11901,Bankstown,119,Sydney - Inner South West,1GSYD,Greater Sydney,1,New South Wales,68.6674
+60,11902,Canterbury,119,Sydney - Inner South West,1GSYD,Greater Sydney,1,New South Wales,29.9646
+61,11903,Hurstville,119,Sydney - Inner South West,1GSYD,Greater Sydney,1,New South Wales,33.9553
+62,11904,Kogarah - Rockdale,119,Sydney - Inner South West,1GSYD,Greater Sydney,1,New South Wales,31.3479
+63,12001,Canada Bay,120,Sydney - Inner West,1GSYD,Greater Sydney,1,New South Wales,19.7471
+64,12002,Leichhardt,120,Sydney - Inner West,1GSYD,Greater Sydney,1,New South Wales,10.6577
+65,12003,Strathfield - Burwood - Ashfield,120,Sydney - Inner West,1GSYD,Greater Sydney,1,New South Wales,34.1433
+66,12101,Chatswood - Lane Cove,121,Sydney - North Sydney and Hornsby,1GSYD,Greater Sydney,1,New South Wales,33.1739
+67,12102,Hornsby,121,Sydney - North Sydney and Hornsby,1GSYD,Greater Sydney,1,New South Wales,137.3989
+68,12103,Ku-ring-gai,121,Sydney - North Sydney and Hornsby,1GSYD,Greater Sydney,1,New South Wales,85.5466
+69,12104,North Sydney - Mosman,121,Sydney - North Sydney and Hornsby,1GSYD,Greater Sydney,1,New South Wales,18.9756
+70,12201,Manly,122,Sydney - Northern Beaches,1GSYD,Greater Sydney,1,New South Wales,14.3455
+71,12202,Pittwater,122,Sydney - Northern Beaches,1GSYD,Greater Sydney,1,New South Wales,90.6495
+72,12203,Warringah,122,Sydney - Northern Beaches,1GSYD,Greater Sydney,1,New South Wales,149.2124
+73,12301,Camden,123,Sydney - Outer South West,1GSYD,Greater Sydney,1,New South Wales,73.8688
+74,12302,Campbelltown (NSW),123,Sydney - Outer South West,1GSYD,Greater Sydney,1,New South Wales,334.2221
+75,12303,Wollondilly,123,Sydney - Outer South West,1GSYD,Greater Sydney,1,New South Wales,870.3604
+76,12401,Blue Mountains,124,Sydney - Outer West and Blue Mountains,1GSYD,Greater Sydney,1,New South Wales,942.4079
+77,12402,Blue Mountains - South,124,Sydney - Outer West and Blue Mountains,1GSYD,Greater Sydney,1,New South Wales,2456.9093
+78,12403,Penrith,124,Sydney - Outer West and Blue Mountains,1GSYD,Greater Sydney,1,New South Wales,356.8585
+79,12404,Richmond - Windsor,124,Sydney - Outer West and Blue Mountains,1GSYD,Greater Sydney,1,New South Wales,178.8387
+80,12405,St Marys,124,Sydney - Outer West and Blue Mountains,1GSYD,Greater Sydney,1,New South Wales,33.1146
+81,12501,Auburn,125,Sydney - Parramatta,1GSYD,Greater Sydney,1,New South Wales,33.0601
+82,12502,Carlingford,125,Sydney - Parramatta,1GSYD,Greater Sydney,1,New South Wales,25.6874
+83,12503,Merrylands - Guildford,125,Sydney - Parramatta,1GSYD,Greater Sydney,1,New South Wales,55.7969
+84,12504,Parramatta,125,Sydney - Parramatta,1GSYD,Greater Sydney,1,New South Wales,47.0914
+85,12601,Pennant Hills - Epping,126,Sydney - Ryde,1GSYD,Greater Sydney,1,New South Wales,22.1743
+86,12602,Ryde - Hunters Hill,126,Sydney - Ryde,1GSYD,Greater Sydney,1,New South Wales,47.1626
+87,12701,Bringelly - Green Valley,127,Sydney - South West,1GSYD,Greater Sydney,1,New South Wales,291.4688
+88,12702,Fairfield,127,Sydney - South West,1GSYD,Greater Sydney,1,New South Wales,123.7701
+89,12703,Liverpool,127,Sydney - South West,1GSYD,Greater Sydney,1,New South Wales,123.8297
+90,12801,Cronulla - Miranda - Caringbah,128,Sydney - Sutherland,1GSYD,Greater Sydney,1,New South Wales,55.6181
+91,12802,Sutherland - Menai - Heathcote,128,Sydney - Sutherland,1GSYD,Greater Sydney,1,New South Wales,240.2471
+94,20101,Ballarat,201,Ballarat,2RVIC,Rest of Vic.,2,Victoria,448.3487
+95,20102,Creswick - Daylesford - Ballan,201,Ballarat,2RVIC,Rest of Vic.,2,Victoria,3666.673
+96,20103,Maryborough - Pyrenees,201,Ballarat,2RVIC,Rest of Vic.,2,Victoria,6172.4542
+97,20201,Bendigo,202,Bendigo,2RVIC,Rest of Vic.,2,Victoria,287.4438
+98,20202,Heathcote - Castlemaine - Kyneton,202,Bendigo,2RVIC,Rest of Vic.,2,Victoria,3920.9382
+99,20203,Loddon - Elmore,202,Bendigo,2RVIC,Rest of Vic.,2,Victoria,7633.5242
+100,20301,Barwon - West,203,Geelong,2RVIC,Rest of Vic.,2,Victoria,2579.8385
+101,20302,Geelong,203,Geelong,2RVIC,Rest of Vic.,2,Victoria,918.8917
+102,20303,Surf Coast - Bellarine Peninsula,203,Geelong,2RVIC,Rest of Vic.,2,Victoria,929.9691
+103,20401,Upper Goulburn Valley,204,Hume,2RVIC,Rest of Vic.,2,Victoria,13959.3182
+104,20402,Wangaratta - Benalla,204,Hume,2RVIC,Rest of Vic.,2,Victoria,6545.0857
+105,20403,Wodonga - Alpine,204,Hume,2RVIC,Rest of Vic.,2,Victoria,13501.1315
+106,20501,Baw Baw,205,Latrobe - Gippsland,2RVIC,Rest of Vic.,2,Victoria,3933.8416
+107,20502,Gippsland - East,205,Latrobe - Gippsland,2RVIC,Rest of Vic.,2,Victoria,21713.8498
+108,20503,Gippsland - South West,205,Latrobe - Gippsland,2RVIC,Rest of Vic.,2,Victoria,4381.6191
+109,20504,Latrobe Valley,205,Latrobe - Gippsland,2RVIC,Rest of Vic.,2,Victoria,1479.6674
+110,20505,Wellington,205,Latrobe - Gippsland,2RVIC,Rest of Vic.,2,Victoria,10044.7738
+111,20601,Brunswick - Coburg,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,20.4133
+112,20602,Darebin - South,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,14.0275
+113,20603,Essendon,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,18.215
+114,20604,Melbourne City,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,31.4622
+115,20605,Port Phillip,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,25.6958
+116,20606,Stonnington - West,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,11.9294
+117,20607,Yarra,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,20.6163
+118,20701,Boroondara,207,Melbourne - Inner East,2GMEL,Greater Melbourne,2,Victoria,60.0157
+119,20702,Manningham - West,207,Melbourne - Inner East,2GMEL,Greater Melbourne,2,Victoria,48.6724
+120,20703,Whitehorse - West,207,Melbourne - Inner East,2GMEL,Greater Melbourne,2,Victoria,38.0551
+121,20801,Bayside,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria,37.2111
+122,20802,Glen Eira,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria,40.7002
+123,20803,Kingston,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria,69.8633
+124,20804,Stonnington - East,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria,13.722
+125,20901,Banyule,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria,62.6133
+126,20902,Darebin - North,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria,39.4436
+127,20903,Nillumbik - Kinglake,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria,751.7682
+128,20904,Whittlesea - Wallan,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria,997.4394
+129,21001,Keilor,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria,42.425
+130,21002,Macedon Ranges,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria,992.107
+131,21003,Moreland - North,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria,30.3779
+132,21004,Sunbury,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria,260.6847
+133,21005,Tullamarine - Broadmeadows,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria,294.0954
+134,21101,Knox,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,118.3019
+135,21102,Manningham - East,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,66.5619
+136,21103,Maroondah,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,61.1872
+137,21104,Whitehorse - East,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,26.5696
+138,21105,Yarra Ranges,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,1605.937
+139,21201,Cardinia,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,1282.327
+140,21202,Casey - North,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,116.503
+141,21203,Casey - South,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,292.9259
+142,21204,Dandenong,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,151.0513
+143,21205,Monash,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,79.4733
+144,21301,Brimbank,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,106.8497
+145,21302,Hobsons Bay,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,62.2158
+146,21303,Maribyrnong,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,31.2254
+147,21304,Melton - Bacchus Marsh,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,671.9436
+148,21305,Wyndham,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,544.1195
+149,21401,Frankston,214,Mornington Peninsula,2GMEL,Greater Melbourne,2,Victoria,129.598
+150,21402,Mornington Peninsula,214,Mornington Peninsula,2GMEL,Greater Melbourne,2,Victoria,724.1679
+151,21501,Grampians,215,North West,2RVIC,Rest of Vic.,2,Victoria,38139.2062
+152,21502,Mildura,215,North West,2RVIC,Rest of Vic.,2,Victoria,22082.4836
+153,21503,Murray River - Swan Hill,215,North West,2RVIC,Rest of Vic.,2,Victoria,17851.0467
+154,21601,Campaspe,216,Shepparton,2RVIC,Rest of Vic.,2,Victoria,4554.5687
+155,21602,Moira,216,Shepparton,2RVIC,Rest of Vic.,2,Victoria,4046.3738
+156,21603,Shepparton,216,Shepparton,2RVIC,Rest of Vic.,2,Victoria,2333.1626
+157,21701,Glenelg - Southern Grampians,217,Warrnambool and South West,2RVIC,Rest of Vic.,2,Victoria,12946.1764
+158,21703,Colac - Corangamite,217,Warrnambool and South West,2RVIC,Rest of Vic.,2,Victoria,7936.5548
+159,21704,Warrnambool,217,Warrnambool and South West,2RVIC,Rest of Vic.,2,Victoria,5496.1773
+162,30101,Capalaba,301,Brisbane - East,3GBRI,Greater Brisbane,3,Queensland,89.2959
+163,30102,Cleveland - Stradbroke,301,Brisbane - East,3GBRI,Greater Brisbane,3,Queensland,480.9783
+164,30103,Wynnum - Manly,301,Brisbane - East,3GBRI,Greater Brisbane,3,Queensland,82.8584
+165,30201,Bald Hills - Everton Park,302,Brisbane - North,3GBRI,Greater Brisbane,3,Queensland,35.9309
+166,30202,Chermside,302,Brisbane - North,3GBRI,Greater Brisbane,3,Queensland,32.2389
+167,30203,Nundah,302,Brisbane - North,3GBRI,Greater Brisbane,3,Queensland,87.0319
+168,30204,Sandgate,302,Brisbane - North,3GBRI,Greater Brisbane,3,Queensland,31.7473
+169,30301,Carindale,303,Brisbane - South,3GBRI,Greater Brisbane,3,Queensland,26.5108
+170,30302,Holland Park - Yeronga,303,Brisbane - South,3GBRI,Greater Brisbane,3,Queensland,27.565
+171,30303,Mt Gravatt,303,Brisbane - South,3GBRI,Greater Brisbane,3,Queensland,79.3868
+172,30304,Nathan,303,Brisbane - South,3GBRI,Greater Brisbane,3,Queensland,24.4776
+173,30305,Rocklea - Acacia Ridge,303,Brisbane - South,3GBRI,Greater Brisbane,3,Queensland,85.2444
+174,30306,Sunnybank,303,Brisbane - South,3GBRI,Greater Brisbane,3,Queensland,22.16
+175,30401,Centenary,304,Brisbane - West,3GBRI,Greater Brisbane,3,Queensland,16.9755
+176,30402,Kenmore - Brookfield - Moggill,304,Brisbane - West,3GBRI,Greater Brisbane,3,Queensland,134.6112
+177,30403,Sherwood - Indooroopilly,304,Brisbane - West,3GBRI,Greater Brisbane,3,Queensland,21.2964
+178,30404,The Gap - Enoggera,304,Brisbane - West,3GBRI,Greater Brisbane,3,Queensland,96.768
+179,30501,Brisbane Inner,305,Brisbane Inner City,3GBRI,Greater Brisbane,3,Queensland,13.5589
+180,30502,Brisbane Inner - East,305,Brisbane Inner City,3GBRI,Greater Brisbane,3,Queensland,15.5989
+181,30503,Brisbane Inner - North,305,Brisbane Inner City,3GBRI,Greater Brisbane,3,Queensland,30.9461
+182,30504,Brisbane Inner - West,305,Brisbane Inner City,3GBRI,Greater Brisbane,3,Queensland,21.6355
+183,30601,Cairns - North,306,Cairns,3RQLD,Rest of Qld,3,Queensland,160.3157
+184,30602,Cairns - South,306,Cairns,3RQLD,Rest of Qld,3,Queensland,633.4659
+185,30603,Innisfail - Cassowary Coast,306,Cairns,3RQLD,Rest of Qld,3,Queensland,5995.1825
+186,30604,Port Douglas - Daintree,306,Cairns,3RQLD,Rest of Qld,3,Queensland,2421.0913
+187,30605,Tablelands (East) - Kuranda,306,Cairns,3RQLD,Rest of Qld,3,Queensland,12127.9129
+188,30701,Darling Downs (West) - Maranoa,307,Darling Downs - Maranoa,3RQLD,Rest of Qld,3,Queensland,141252.7846
+189,30702,Darling Downs - East,307,Darling Downs - Maranoa,3RQLD,Rest of Qld,3,Queensland,16653.3007
+190,30703,Granite Belt,307,Darling Downs - Maranoa,3RQLD,Rest of Qld,3,Queensland,8433.9715
+191,30801,Central Highlands (Qld),308,Central Queensland,3RQLD,Rest of Qld,3,Queensland,60225.3937
+192,30803,Rockhampton,308,Central Queensland,3RQLD,Rest of Qld,3,Queensland,18328.135
+193,30804,Biloela,308,Central Queensland,3RQLD,Rest of Qld,3,Queensland,28550.1865
+194,30805,Gladstone,308,Central Queensland,3RQLD,Rest of Qld,3,Queensland,10484.2862
+195,30901,Broadbeach - Burleigh,309,Gold Coast,3RQLD,Rest of Qld,3,Queensland,33.6726
+196,30902,Coolangatta,309,Gold Coast,3RQLD,Rest of Qld,3,Queensland,34.9725
+197,30903,Gold Coast - North,309,Gold Coast,3RQLD,Rest of Qld,3,Queensland,40.6693
+198,30904,Gold Coast Hinterland,309,Gold Coast,3RQLD,Rest of Qld,3,Queensland,827.9592
+199,30905,Mudgeeraba - Tallebudgera,309,Gold Coast,3RQLD,Rest of Qld,3,Queensland,189.204
+200,30906,Nerang,309,Gold Coast,3RQLD,Rest of Qld,3,Queensland,123.1533
+201,30907,Ormeau - Oxenford,309,Gold Coast,3RQLD,Rest of Qld,3,Queensland,519.8616
+202,30908,Robina,309,Gold Coast,3RQLD,Rest of Qld,3,Queensland,33.6325
+203,30909,Southport,309,Gold Coast,3RQLD,Rest of Qld,3,Queensland,34.9594
+204,30910,Surfers Paradise,309,Gold Coast,3RQLD,Rest of Qld,3,Queensland,19.801
+205,31001,Forest Lake - Oxley,310,Ipswich,3GBRI,Greater Brisbane,3,Queensland,63.7142
+206,31002,Ipswich Hinterland,310,Ipswich,3GBRI,Greater Brisbane,3,Queensland,6135.7833
+207,31003,Ipswich Inner,310,Ipswich,3GBRI,Greater Brisbane,3,Queensland,378.0564
+208,31004,Springfield - Redbank,310,Ipswich,3GBRI,Greater Brisbane,3,Queensland,103.593
+209,31101,Beaudesert,311,Logan - Beaudesert,3GBRI,Greater Brisbane,3,Queensland,1628.0131
+210,31102,Beenleigh,311,Logan - Beaudesert,3GBRI,Greater Brisbane,3,Queensland,60.1506
+211,31103,Browns Plains,311,Logan - Beaudesert,3GBRI,Greater Brisbane,3,Queensland,169.579
+212,31104,Jimboomba,311,Logan - Beaudesert,3GBRI,Greater Brisbane,3,Queensland,582.4324
+213,31105,Loganlea - Carbrook,311,Logan - Beaudesert,3GBRI,Greater Brisbane,3,Queensland,88.7275
+214,31106,Springwood - Kingston,311,Logan - Beaudesert,3GBRI,Greater Brisbane,3,Queensland,57.2427
+215,31201,Bowen Basin - North,312,Mackay - Isaac - Whitsunday,3RQLD,Rest of Qld,3,Queensland,79852.782
+216,31202,Mackay,312,Mackay - Isaac - Whitsunday,3RQLD,Rest of Qld,3,Queensland,7613.2964
+217,31203,Whitsunday,312,Mackay - Isaac - Whitsunday,3RQLD,Rest of Qld,3,Queensland,2674.0276
+218,31301,Bribie - Beachmere,313,Moreton Bay - North,3GBRI,Greater Brisbane,3,Queensland,255.4466
+219,31302,Caboolture,313,Moreton Bay - North,3GBRI,Greater Brisbane,3,Queensland,314.7209
+220,31303,Caboolture Hinterland,313,Moreton Bay - North,3GBRI,Greater Brisbane,3,Queensland,3388.2856
+221,31304,Narangba - Burpengary,313,Moreton Bay - North,3GBRI,Greater Brisbane,3,Queensland,172.4136
+222,31305,Redcliffe,313,Moreton Bay - North,3GBRI,Greater Brisbane,3,Queensland,213.5898
+223,31401,The Hills District,314,Moreton Bay - South,3GBRI,Greater Brisbane,3,Queensland,668.6809
+224,31402,North Lakes,314,Moreton Bay - South,3GBRI,Greater Brisbane,3,Queensland,66.3175
+225,31403,Strathpine,314,Moreton Bay - South,3GBRI,Greater Brisbane,3,Queensland,38.3965
+226,31501,Far North,315,Queensland - Outback,3RQLD,Rest of Qld,3,Queensland,250877.5904
+227,31502,Outback - North,315,Queensland - Outback,3RQLD,Rest of Qld,3,Queensland,307082.1758
+228,31503,Outback - South,315,Queensland - Outback,3RQLD,Rest of Qld,3,Queensland,625222.9542
+229,31601,Buderim,316,Sunshine Coast,3RQLD,Rest of Qld,3,Queensland,76.3839
+230,31602,Caloundra,316,Sunshine Coast,3RQLD,Rest of Qld,3,Queensland,113.1062
+231,31603,Maroochy,316,Sunshine Coast,3RQLD,Rest of Qld,3,Queensland,70.3493
+232,31605,Noosa,316,Sunshine Coast,3RQLD,Rest of Qld,3,Queensland,92.1032
+233,31606,Sunshine Coast Hinterland,316,Sunshine Coast,3RQLD,Rest of Qld,3,Queensland,1568.0164
+234,31607,Nambour,316,Sunshine Coast,3RQLD,Rest of Qld,3,Queensland,345.8864
+235,31608,Noosa Hinterland,316,Sunshine Coast,3RQLD,Rest of Qld,3,Queensland,820.066
+236,31701,Toowoomba,317,Toowoomba,3RQLD,Rest of Qld,3,Queensland,2258.7955
+237,31801,Charters Towers - Ayr - Ingham,318,Townsville,3RQLD,Rest of Qld,3,Queensland,76209.8053
+238,31802,Townsville,318,Townsville,3RQLD,Rest of Qld,3,Queensland,3826.2924
+239,31901,Bundaberg,319,Wide Bay,3RQLD,Rest of Qld,3,Queensland,3786.0126
+240,31902,Burnett,319,Wide Bay,3RQLD,Rest of Qld,3,Queensland,30736.8312
+241,31903,Gympie - Cooloola,319,Wide Bay,3RQLD,Rest of Qld,3,Queensland,6975.2278
+242,31904,Hervey Bay,319,Wide Bay,3RQLD,Rest of Qld,3,Queensland,251.5569
+243,31905,Maryborough,319,Wide Bay,3RQLD,Rest of Qld,3,Queensland,6752.9516
+246,40101,Adelaide City,401,Adelaide - Central and Hills,4GADE,Greater Adelaide,4,South Australia,15.5733
+247,40102,Adelaide Hills,401,Adelaide - Central and Hills,4GADE,Greater Adelaide,4,South Australia,1388.1168
+248,40103,Burnside,401,Adelaide - Central and Hills,4GADE,Greater Adelaide,4,South Australia,27.5183
+249,40104,Campbelltown (SA),401,Adelaide - Central and Hills,4GADE,Greater Adelaide,4,South Australia,25.368
+250,40105,Norwood - Payneham - St Peters,401,Adelaide - Central and Hills,4GADE,Greater Adelaide,4,South Australia,15.1036
+251,40106,Prospect - Walkerville,401,Adelaide - Central and Hills,4GADE,Greater Adelaide,4,South Australia,11.3215
+252,40107,Unley,401,Adelaide - Central and Hills,4GADE,Greater Adelaide,4,South Australia,14.2703
+253,40201,Gawler - Two Wells,402,Adelaide - North,4GADE,Greater Adelaide,4,South Australia,306.865
+254,40202,Playford,402,Adelaide - North,4GADE,Greater Adelaide,4,South Australia,356.8029
+255,40203,Port Adelaide - East,402,Adelaide - North,4GADE,Greater Adelaide,4,South Australia,34.8399
+256,40204,Salisbury,402,Adelaide - North,4GADE,Greater Adelaide,4,South Australia,150.1709
+257,40205,Tea Tree Gully,402,Adelaide - North,4GADE,Greater Adelaide,4,South Australia,91.314
+258,40301,Holdfast Bay,403,Adelaide - South,4GADE,Greater Adelaide,4,South Australia,13.14
+259,40302,Marion,403,Adelaide - South,4GADE,Greater Adelaide,4,South Australia,56.1996
+260,40303,Mitcham,403,Adelaide - South,4GADE,Greater Adelaide,4,South Australia,74.3702
+261,40304,Onkaparinga,403,Adelaide - South,4GADE,Greater Adelaide,4,South Australia,519.3716
+262,40401,Charles Sturt,404,Adelaide - West,4GADE,Greater Adelaide,4,South Australia,53.3186
+263,40402,Port Adelaide - West,404,Adelaide - West,4GADE,Greater Adelaide,4,South Australia,67.7726
+264,40403,West Torrens,404,Adelaide - West,4GADE,Greater Adelaide,4,South Australia,38.3988
+265,40501,Barossa,405,Barossa - Yorke - Mid North,4RSAU,Rest of SA,4,South Australia,2837.1519
+266,40502,Lower North,405,Barossa - Yorke - Mid North,4RSAU,Rest of SA,4,South Australia,13728.959
+267,40503,Mid North,405,Barossa - Yorke - Mid North,4RSAU,Rest of SA,4,South Australia,14409.4798
+268,40504,Yorke Peninsula,405,Barossa - Yorke - Mid North,4RSAU,Rest of SA,4,South Australia,6740.7625
+269,40601,Eyre Peninsula and South West,406,South Australia - Outback,4RSAU,Rest of SA,4,South Australia,235305.4796
+270,40602,Outback - North and East,406,South Australia - Outback,4RSAU,Rest of SA,4,South Australia,642510.5005
+271,40701,Fleurieu - Kangaroo Island,407,South Australia - South East,4RSAU,Rest of SA,4,South Australia,7363.5796
+272,40702,Limestone Coast,407,South Australia - South East,4RSAU,Rest of SA,4,South Australia,21337.0782
+273,40703,Murray and Mallee,407,South Australia - South East,4RSAU,Rest of SA,4,South Australia,36782.081
+276,50101,Augusta - Margaret River - Busselton,501,Bunbury,5RWAU,Rest of WA,5,Western Australia,3664.3228
+277,50102,Bunbury,501,Bunbury,5RWAU,Rest of WA,5,Western Australia,5449.5135
+278,50103,Manjimup,501,Bunbury,5RWAU,Rest of WA,5,Western Australia,15688.5752
+279,50201,Mandurah,502,Mandurah,5GPER,Greater Perth,5,Western Australia,1032.8628
+280,50301,Cottesloe - Claremont,503,Perth - Inner,5GPER,Greater Perth,5,Western Australia,48.7155
+281,50302,Perth City,503,Perth - Inner,5GPER,Greater Perth,5,Western Australia,43.5243
+282,50401,Bayswater - Bassendean,504,Perth - North East,5GPER,Greater Perth,5,Western Australia,44.6692
+283,50402,Mundaring,504,Perth - North East,5GPER,Greater Perth,5,Western Australia,685.4312
+284,50403,Swan,504,Perth - North East,5GPER,Greater Perth,5,Western Australia,1032.3312
+285,50501,Joondalup,505,Perth - North West,5GPER,Greater Perth,5,Western Australia,100.4725
+286,50502,Stirling,505,Perth - North West,5GPER,Greater Perth,5,Western Australia,99.326
+287,50503,Wanneroo,505,Perth - North West,5GPER,Greater Perth,5,Western Australia,684.2007
+288,50601,Armadale,506,Perth - South East,5GPER,Greater Perth,5,Western Australia,559.5261
+289,50602,Belmont - Victoria Park,506,Perth - South East,5GPER,Greater Perth,5,Western Australia,60.1099
+290,50603,Canning,506,Perth - South East,5GPER,Greater Perth,5,Western Australia,68.1881
+291,50604,Gosnells,506,Perth - South East,5GPER,Greater Perth,5,Western Australia,127.2975
+292,50605,Kalamunda,506,Perth - South East,5GPER,Greater Perth,5,Western Australia,283.8
+293,50606,Serpentine - Jarrahdale,506,Perth - South East,5GPER,Greater Perth,5,Western Australia,904.7637
+294,50607,South Perth,506,Perth - South East,5GPER,Greater Perth,5,Western Australia,20.307
+295,50701,Cockburn,507,Perth - South West,5GPER,Greater Perth,5,Western Australia,148.2099
+296,50702,Fremantle,507,Perth - South West,5GPER,Greater Perth,5,Western Australia,41.3304
+297,50703,Kwinana,507,Perth - South West,5GPER,Greater Perth,5,Western Australia,120.0121
+298,50704,Melville,507,Perth - South West,5GPER,Greater Perth,5,Western Australia,53.4538
+299,50705,Rockingham,507,Perth - South West,5GPER,Greater Perth,5,Western Australia,257.6898
+300,50901,Albany,509,Western Australia - Wheat Belt,5RWAU,Rest of WA,5,Western Australia,37887.9925
+301,50902,Wheat Belt - North,509,Western Australia - Wheat Belt,5RWAU,Rest of WA,5,Western Australia,110694.5781
+302,50903,Wheat Belt - South,509,Western Australia - Wheat Belt,5RWAU,Rest of WA,5,Western Australia,48762.806
+303,51001,Kimberley,510,Western Australia - Outback (North),5RWAU,Rest of WA,5,Western Australia,419259.7904
+304,51002,East Pilbara,510,Western Australia - Outback (North),5RWAU,Rest of WA,5,Western Australia,390723.7799
+305,51003,West Pilbara,510,Western Australia - Outback (North),5RWAU,Rest of WA,5,Western Australia,116066.0891
+306,51101,Esperance,511,Western Australia - Outback (South),5RWAU,Rest of WA,5,Western Australia,55660.6598
+307,51102,Gascoyne,511,Western Australia - Outback (South),5RWAU,Rest of WA,5,Western Australia,135064.0785
+308,51103,Goldfields,511,Western Australia - Outback (South),5RWAU,Rest of WA,5,Western Australia,714513.0765
+309,51104,Mid West,511,Western Australia - Outback (South),5RWAU,Rest of WA,5,Western Australia,466794.7549
+312,60101,Brighton,601,Hobart,6GHOB,Greater Hobart,6,Tasmania,176.0777
+313,60102,Hobart - North East,601,Hobart,6GHOB,Greater Hobart,6,Tasmania,265.9415
+314,60103,Hobart - North West,601,Hobart,6GHOB,Greater Hobart,6,Tasmania,168.2819
+315,60104,Hobart - South and West,601,Hobart,6GHOB,Greater Hobart,6,Tasmania,328.5063
+316,60105,Hobart Inner,601,Hobart,6GHOB,Greater Hobart,6,Tasmania,62.2246
+317,60106,Sorell - Dodges Ferry,601,Hobart,6GHOB,Greater Hobart,6,Tasmania,694.3265
+318,60201,Launceston,602,Launceston and North East,6RTAS,Rest of Tas.,6,Tasmania,260.7088
+319,60202,Meander Valley - West Tamar,602,Launceston and North East,6RTAS,Rest of Tas.,6,Tasmania,3978.9606
+320,60203,North East,602,Launceston and North East,6RTAS,Rest of Tas.,6,Tasmania,15735.6666
+321,60301,Central Highlands (Tas.),603,South East,6RTAS,Rest of Tas.,6,Tasmania,18426.733
+322,60302,Huon - Bruny Island,603,South East,6RTAS,Rest of Tas.,6,Tasmania,2192.675
+323,60303,South East Coast,603,South East,6RTAS,Rest of Tas.,6,Tasmania,3202.6087
+324,60401,Burnie - Ulverstone,604,West and North West,6RTAS,Rest of Tas.,6,Tasmania,1604.4734
+325,60402,Devonport,604,West and North West,6RTAS,Rest of Tas.,6,Tasmania,1894.3583
+326,60403,West Coast,604,West and North West,6RTAS,Rest of Tas.,6,Tasmania,19026.3178
+329,70101,Darwin City,701,Darwin,7GDAR,Greater Darwin,7,Northern Territory,40.6174
+330,70102,Darwin Suburbs,701,Darwin,7GDAR,Greater Darwin,7,Northern Territory,132.4416
+331,70103,Litchfield,701,Darwin,7GDAR,Greater Darwin,7,Northern Territory,2938.3179
+332,70104,Palmerston,701,Darwin,7GDAR,Greater Darwin,7,Northern Territory,52.5288
+333,70201,Alice Springs,702,Northern Territory - Outback,7RNTE,Rest of NT,7,Northern Territory,569564.7295
+334,70202,Barkly,702,Northern Territory - Outback,7RNTE,Rest of NT,7,Northern Territory,303213.9847
+335,70203,Daly - Tiwi - West Arnhem,702,Northern Territory - Outback,7RNTE,Rest of NT,7,Northern Territory,112294.8534
+336,70204,East Arnhem,702,Northern Territory - Outback,7RNTE,Rest of NT,7,Northern Territory,33606.5893
+337,70205,Katherine,702,Northern Territory - Outback,7RNTE,Rest of NT,7,Northern Territory,326250.2655
+340,80101,Belconnen,801,Australian Capital Territory,8ACTE,Australian Capital Territory,8,Australian Capital Territory,112.1467
+341,80103,Canberra East,801,Australian Capital Territory,8ACTE,Australian Capital Territory,8,Australian Capital Territory,211.9214
+342,80104,Gungahlin,801,Australian Capital Territory,8ACTE,Australian Capital Territory,8,Australian Capital Territory,91.8565
+343,80105,North Canberra,801,Australian Capital Territory,8ACTE,Australian Capital Territory,8,Australian Capital Territory,44.7227
+344,80106,South Canberra,801,Australian Capital Territory,8ACTE,Australian Capital Territory,8,Australian Capital Territory,44.4112
+345,80107,Tuggeranong,801,Australian Capital Territory,8ACTE,Australian Capital Territory,8,Australian Capital Territory,159.7084
+346,80108,Weston Creek,801,Australian Capital Territory,8ACTE,Australian Capital Territory,8,Australian Capital Territory,18.1487
+347,80109,Woden Valley,801,Australian Capital Territory,8ACTE,Australian Capital Territory,8,Australian Capital Territory,28.6004
+348,80110,Molonglo,801,Australian Capital Territory,8ACTE,Australian Capital Territory,8,Australian Capital Territory,27.1506
+349,80111,Urriarra - Namadgi,801,Australian Capital Territory,8ACTE,Australian Capital Territory,8,Australian Capital Territory,1619.5054
+352,90101,Christmas Island,901,Other Territories,9OTER,Other Territories,9,Other Territories,136.1356
+353,90102,Cocos (Keeling) Islands,901,Other Territories,9OTER,Other Territories,9,Other Territories,13.7163
+354,90103,Jervis Bay,901,Other Territories,9OTER,Other Territories,9,Other Territories,67.8134
+355,90104,Norfolk Island,901,Other Territories,9OTER,Other Territories,9,Other Territories,38.6509

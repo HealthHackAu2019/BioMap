@@ -17,39 +17,30 @@ library(rsconnect)
 library(tidyr)
 
 # Define UI for application that draws a histogram
-shinyUI(fluidPage(
-  
-  # Application title
-  titlePanel("BioMap Australia"),
-  
-  # Sidebar with a slider input for number of bins 
-
-  tabPanel("Tab 1" ,
-           div(class="outer",
-            sidebarLayout(
-              sidebarPanel(
-                sliderInput("bins",
-                           "Number of bins:",
-                           min = 1,
-                           max = 50,
-                           value = 30)
-              ),
-             
-              # Show a plot of the generated distribution
-              mainPanel(
-                plotOutput("distPlot")
-              )
-            )
-           )
-
+dashboardPage(
+  dashboardHeader(title = "BioMap Australia"),
+  dashboardSidebar(
+    sidebarMenu(
+      menuItem("Dashboard", tabName = "dashboard", icon = icon("dashboard")),
+      menuItem("Data", tabName = "data", icon = icon("th"))
+    )
   ),
-  
-  tabPanel("Tab 2" ,
-           #map
-           leafletOutput("mymap",height = 1000)
-
-  ),
-  
-  conditionalPanel("false", icon("crosshair"))
+  dashboardBody(
+    tabItems(
+      # first tab item
+      tabItem(tabName = "dashboard",
+        tabPanel("Tab 2" ,
+                 #map
+                 leafletOutput("mymap",height = 1000)
+      
+        ),
+        
+        conditionalPanel("false", icon("crosshair"))
+      ),
+      # second tab item
+      tabItem(tabName = "data",
+              h2("Data that feeds Dashboard")
+      )
+    )
 )
 )

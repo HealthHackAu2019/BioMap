@@ -16,5 +16,6 @@ packages<-c("ggplot2",
             "tidyr", 
             "readr", 
             "shiny",
-            "mapdata")
+            "mapdata",
+            "shinydashboard")
 check.packages(packages)

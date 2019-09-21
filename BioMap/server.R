@@ -28,10 +28,13 @@ shinyServer(function(input, output) {
   output$mymap <- renderLeaflet({
     m <- leaflet() %>%
       addTiles() %>%
+      addRectangles(
+        lng1=152.000, lat1=-28.000,
+        lng2=154.000, lat2=-27.000,
+        fillColor = "transparent") %>%
       setView(lng=153.0251, lat=-27.4698, zoom=10)
     m
   })
-  
-  
+
   
 })

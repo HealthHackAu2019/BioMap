@@ -10,6 +10,21 @@
 library(shiny)
 library(rsconnect)
 
+#DATA 
+#line test data
+
+markers <- data.frame(Observation = c("A", "B"),
+                   InitialLat = c(-27.489124,-27.466043),
+                   InitialLong = c(153.032723, 153.027651),
+                   NewLat = c(-27.489124,-27.466043),
+                   NewLong = c(153.032723, 153.027651),
+                   stringsAsFactors = FALSE)
+
+markers2 <- data.frame(group = c("A", "B"),
+                    lat = c(markers$InitialLat, markers$NewLat),
+                    long = c(markers$InitialLong, markers$NewLong))
+
+
 # Define server logic required to draw a histogram
 shinyServer(function(input, output) {
    
@@ -32,9 +47,13 @@ shinyServer(function(input, output) {
         lng1=152.000, lat1=-28.000,
         lng2=154.000, lat2=-27.000,
         fillColor = "transparent") %>%
-      setView(lng=153.0251, lat=-27.4698, zoom=10)
+      addPolylines(data = markers2, lng = ~long, lat = ~lat, group = ~group) %>%
+      setView(lng=153.0251, lat=-27.4698, zoom=10) #%>%
+
     m
   })
 
   
 })
+
+

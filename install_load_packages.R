@@ -34,5 +34,8 @@ packages<-c("ggplot2",
             "sf",
             "tmap",
             "tmaptools",
-            "units")
+            "units",
+            "plotly",
+            "hexbin",
+            "data.table")
 check.packages(packages)

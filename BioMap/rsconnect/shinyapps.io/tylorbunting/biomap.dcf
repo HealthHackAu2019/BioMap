@@ -5,6 +5,6 @@ account: tylorbunting
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 1224498
-bundleId: 2433643
+bundleId: 2433687
 url: https://tylorbunting.shinyapps.io/biomap/
-when: 1569125982.61111
+when: 1569128328.62104

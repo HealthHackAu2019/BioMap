@@ -21,5 +21,6 @@ packages<-c("ggplot2",
             "dplyr",
             "jsonlite",
             "rgdal",
-            "raster")
+            "raster",
+            "RColorBrewer")
 check.packages(packages)

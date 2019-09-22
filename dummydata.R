@@ -18,16 +18,17 @@ shapes$AirQuality[53] <- 120
 #shapes$AirQualityColour[shapes$AirQuality >= 149] <- colourScale[5]
 
 # Temperature in degrees celcius
+# shapes$Temperature <- 0
+# shapes$Temperature[shapes$SA4_NAME16 %in% areas[c(1:10)]] <- 40
+# shapes$Temperature[shapes$SA4_NAME16 %in% areas[c(11:91)]] <- 10
+# shapes$Temperature[shapes$SA4_NAME16 %in% areas[c(93:161)]] <- 40
+# shapes$Temperature[shapes$SA4_NAME16 %in% areas[c(162:187)]] <- 40
+# shapes$Temperature[shapes$SA4_NAME16 %in% areas[c(188:203)]] <- 60
+# shapes$Temperature[shapes$SA4_NAME16 %in% areas[c(204:250)]] <- 30
+# shapes$Temperature[shapes$SA4_NAME16 %in% areas[c(251:300)]] <- 70
+# shapes$Temperature[shapes$SA4_NAME16 %in% areas[c(301:340)]] <- 40
 shapes$Temperature <- 0
-shapes$Temperature[shapes$SA4_NAME16 %in% areas[c(1:10)]] <- 40
-shapes$Temperature[shapes$SA4_NAME16 %in% areas[c(11:91)]] <- 10
-shapes$Temperature[shapes$SA4_NAME16 %in% areas[c(93:161)]] <- 40
-shapes$Temperature[shapes$SA4_NAME16 %in% areas[c(162:187)]] <- 40
-shapes$Temperature[shapes$SA4_NAME16 %in% areas[c(188:203)]] <- 60
-shapes$Temperature[shapes$SA4_NAME16 %in% areas[c(204:250)]] <- 30
-shapes$Temperature[shapes$SA4_NAME16 %in% areas[c(251:300)]] <- 70
-shapes$Temperature[shapes$SA4_NAME16 %in% areas[c(301:340)]] <- 40
-
+shapes$Temperature <- floor(rnorm(340, mean=50, sd=15))
 
 #Humidity in %
 shapes$Humidity <- 0

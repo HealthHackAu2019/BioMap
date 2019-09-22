@@ -52,7 +52,7 @@ mapData2 = mapData[(mapData$Marker >= 1), ]
 
 ###############
 
-locPalette = colorFactor("Spectral", ColorData$RandomOne)
+locPalette = colorFactor("Spectral", ColorData$AirQuality)
 RoutePalette = colorNumeric(c("white","yellow", "navy"), mapData$group)
 #https://rstudio.github.io/leaflet/colors.html
 #https://www.r-graph-gallery.com/183-choropleth-map-with-leaflet.html
@@ -71,6 +71,7 @@ RoutePalette = colorNumeric(c("white","yellow", "navy"), mapData$group)
 locationText <- paste(
   "Location: ", shapes$SA3_NAME16,"<br/>", 
   "Area: ", shapes$AREASQKM16, "<br/>", 
+  "Air Quality: ", ColorData$AirQuality, "<br/>", 
   sep="") %>%
   lapply(htmltools::HTML)
 
@@ -174,7 +175,7 @@ shinyServer(function(input, output) {
     ma <- leaflet() %>%
       addTiles() %>%
       addPolygons(data=shapes,
-                  fillColor = ~locPalette(ColorData$RandomOne),
+                  fillColor = ~locPalette(ColorData$AirQuality),
                   weight = 2,
                   opacity = 1,
                   color = "white",

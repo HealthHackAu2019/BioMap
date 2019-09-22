@@ -12,11 +12,11 @@ data = read.csv('ALLRoutes.csv',header=TRUE, sep=",");
 #head(data,n=2);
 routeRows = data$Route.Num==routeNum;
 routeRows = data[routeRows,];
-HR = routeRows$Heart.Rate..bpm.
-long = routeRows$Longitude..Deg.
-lat = routeRows$Latitude..Deg.
-alt = routeRows$Altitude..m.
-speed = routeRows$Speed..km.h.
+HR = routeRows$Heart.Rate
+long = routeRows$Longitude
+lat = routeRows$Latitude
+alt = routeRows$Altitude
+speed = routeRows$Speed
 
 # Plotting
 x <- long

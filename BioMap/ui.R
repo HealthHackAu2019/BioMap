@@ -48,6 +48,7 @@ dashboardPage(
       ),
       # Location tab
       tabItem(tabName = "Location",
+              #add a dropdown menu to filter the variable that colors are displaying
               leafletOutput("LocationMap",height = 1000),
               conditionalPanel("false", icon("crosshair"))
       ),

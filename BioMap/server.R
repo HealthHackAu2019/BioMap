@@ -35,8 +35,9 @@ shapes <- shapefile("../SA3_2016_AUST.shp")
 ColorData <- read_csv("RandomColourData.csv")
 
 #line test data
-mapData = TestData[,c("Latitude","Longitude","Speed","Route Num")]
+mapData = TestData[,c("Latitude","Longitude","Speed","Route Num", "Heart Rate")]
 mapData$group = TestData$`Route Num`
+mapData$HR = TestData$`Heart Rate`
 
 #data with only marker points
 #to do: decide where the best places for markers - perhaps at each turn point?
@@ -48,6 +49,7 @@ mapData2 = mapData[seq(1, nrow(mapData), 100), ]
 
 #to do:
 #figure out colour for route / polylines
+#fix location colours
 #https://gis.stackexchange.com/questions/292844/adding-color-to-polylines-in-leaflet-in-r 
 
 ###############
@@ -77,6 +79,7 @@ locationText <- paste(
 routeText <- paste(
   "Route Number: ", mapData$group,"<br/>", 
   "Speed: ", mapData$Speed, "<br/>", 
+  "Heart Rate: ", mapData$HR, "<br/>", 
   sep="") %>%
   lapply(htmltools::HTML)
 

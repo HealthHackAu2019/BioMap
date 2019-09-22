@@ -34,6 +34,7 @@ library(RColorBrewer)
 
 TestData <- read_csv("ALLRoutes.csv")
 shapes <- shapefile("../SA3_2016_AUST.shp")
+ColorData <- read_csv("RandomColourData.csv")
 
 #line test data
 mapData = TestData[,c("Latitude","Longitude","Speed","Route Num")]
@@ -88,11 +89,11 @@ m <- leaflet() %>%
 m
 
 pal <- colorFactor("YlOrRd", shapes$STE_NAME16)
-
+locPalette = colorFactor("YlOrRd", ColorData$RandomOne)
 ma <- leaflet() %>%
   addTiles() %>%
   addPolygons(data=shapes,
-              fillColor = ~locPalette(STE_NAME16),
+              fillColor = ~locPalette(ColorData$RandomOne),
               weight = 2,
               opacity = 1,
               color = "white",

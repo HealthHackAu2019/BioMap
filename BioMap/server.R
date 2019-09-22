@@ -32,6 +32,7 @@ library(RColorBrewer)
 
 TestData <- read_csv("ALLRoutes.csv")
 shapes <- shapefile("../SA3_2016_AUST.shp")
+ColorData <- read_csv("RandomColourData.csv")
 
 #line test data
 mapData = TestData[,c("Latitude","Longitude","Speed","Route Num")]
@@ -48,12 +49,15 @@ mapData2 = mapData[seq(1, nrow(mapData), 100), ]
 #to do:
 #figure out colour for route / polylines
 #https://gis.stackexchange.com/questions/292844/adding-color-to-polylines-in-leaflet-in-r 
+
 ###############
 
-locPalette = colorFactor("YlOrRd", shapes$STE_NAME16)
+locPalette = colorFactor(ColorData$RandomOne, ColorData$RandomOne)
 RoutePalette = colorNumeric(c("white","yellow", "navy"), mapData$group)
 #https://rstudio.github.io/leaflet/colors.html
 #https://www.r-graph-gallery.com/183-choropleth-map-with-leaflet.html
+
+
 
 ###############
 #HOVER TEXT
@@ -110,7 +114,7 @@ shinyServer(function(input, output) {
     ma <- leaflet() %>%
       addTiles() %>%
       addPolygons(data=shapes,
-                  fillColor = ~locPalette(STE_NAME16),
+                  fillColor = ~ColorData$RandomOne,
                   weight = 2,
                   opacity = 1,
                   color = "white",

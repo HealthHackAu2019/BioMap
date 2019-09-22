@@ -155,14 +155,18 @@ shinyServer(function(input, output) {
       mapData2 = mapData2[mapData2$Route == 3,]
     }
     
-    m <- leaflet() %>%
+    m <- leaflet(options = leafletOptions(minZoom = 10)) %>%
       addTiles() %>%
       addPolylines(data = mapData, lng = ~Longitude, lat = ~Latitude, group = ~group, label = ~routeText, color = "black") %>%
       addCircleMarkers(data = mapData2, lng= ~Longitude, lat= ~Latitude, popup = ~as.character(Story), 
                        label = ~routeText, radius = 5, fillColor = "red", color = "red"
                        
       ) %>%
-      setView(lng=153.0251, lat=-27.4698, zoom=10)
+      setView(lng=153.0251, lat=-27.4698, zoom=10) %>%
+      setMaxBounds(lng1 = 153.0151,
+                   lng2 = 153.0351,
+                   lat1 = -27.4598,
+                   lat2 = -27.4798)
     m
     
   })
@@ -183,7 +187,7 @@ shinyServer(function(input, output) {
       #mapData$Color = input$dropdown
     #}
   
-    ma <- leaflet() %>%
+    ma <- leaflet(options = leafletOptions(minZoom = 10)) %>%
       addTiles() %>%
       addPolygons(data=shapes,
                   fillColor = ~locPalette(ColorData$AirQuality),
@@ -203,7 +207,11 @@ shinyServer(function(input, output) {
                     style = list("font-weight" = "normal", padding = "3px 8px"),
                     textsize = "15px",
                     direction = "auto")) %>%
-      setView(lng=153.0251, lat=-27.4698, zoom=10) #%>%
+      setView(lng=153.0251, lat=-27.4698, zoom=10) %>%
+      setMaxBounds(lng1 = 153.0151,
+                   lng2 = 153.0351,
+                   lat1 = -27.4598,
+                   lat2 = -27.4798)
     ma
   })
   

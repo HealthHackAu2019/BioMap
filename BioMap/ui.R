@@ -17,6 +17,17 @@ library(rsconnect)
 library(tidyr)
 library(shinydashboard)
 library(sf)
+library(DBI)
+library(classInt)
+library(dichromat)
+library(e1071)
+library(leafsync)
+library(lwgeom)
+library(maptools)
+library(rgeos)
+library(tmap)
+library(tmaptools)
+library(units)
 
 ###############
 #USER INTERFACE

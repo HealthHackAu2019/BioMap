@@ -20,7 +20,7 @@ library('maptools')
 library('tmap')
 
 library(raster)
-library(xlsx)
+#library(xlsx)
 library(RColorBrewer)
 
 ###############
@@ -118,7 +118,7 @@ ma
 
   #EDIT CODE
   
-write.xlsx(as.data.frame(shapes), "shapes.xlsx")
+#write.xlsx(as.data.frame(shapes), "shapes.xlsx")
 
 
 #PREVIOUS

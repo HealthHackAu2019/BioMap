@@ -94,7 +94,7 @@ i = mapData[mapData$`Route Num` == 1,]
 
 shinyServer(function(input, output) {
 
-  #Altitude Plot
+  #Pl,ot
   ###############
 
   #line represents altitude
@@ -108,6 +108,17 @@ shinyServer(function(input, output) {
     }
     
     ggplot(data=d, aes(x=Time, y=Altitude)) + geom_line()
+    
+  })
+  
+  output$HeartRatePlot <- renderPlot({
+    
+    if (input$dropdown2 == "route1") {
+      d = mapData[mapData$`Route Num` == 1,]
+    } else {
+      d = mapData[mapData$`Route Num` == 2,]
+    }
+    ggplot(data=d, aes(x=Time, y=HR)) + geom_line()
     
   })
 

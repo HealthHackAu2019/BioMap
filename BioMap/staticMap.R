@@ -32,15 +32,17 @@ library(RColorBrewer)
 
 ###############
 
-TestData <- read_csv("ALLRoutes.csv")
+mapData <- read_csv("ALLRoutes.csv")
 shapes <- shapefile("../SA3_2016_AUST.shp")
 ColorData <- read_csv("RandomColourData.csv")
 
 #line test data
-mapData = TestData[,c("Latitude","Longitude","Speed","Route Num")]
-mapData$group = TestData$`Route Num`
+#mapData = TestData[,c("Latitude","Longitude","Speed","Route Num", "Heart Rate")]
+mapData$group = mapData$`Route Num`
+mapData$HR = mapData$`Heart Rate`
 
 #data with only marker points
+#to do: decide where the best places for markers - perhaps at each turn point?
 mapData2 = mapData[seq(1, nrow(mapData), 100), ]
 
 ###############

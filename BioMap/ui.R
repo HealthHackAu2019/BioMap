@@ -40,7 +40,14 @@ dashboardPage(
       # Route tab
       tabItem(tabName = "Route",
               fluidRow(
+                #Dropdown Menu
+                selectInput("dropdown2",
+                            label = "Variable",
+                            c("Route 1" ="route1", 
+                              "Route 2")
+                ),
                 plotOutput("AltitudePlot", height = 200),
+                plotOutput("HeartRatePlot", height = 200),
                 leafletOutput("RouteMap",height = 1000)
               ),
 
@@ -48,7 +55,13 @@ dashboardPage(
       ),
       # Location tab
       tabItem(tabName = "Location",
-              #add a dropdown menu to filter the variable that colors are displaying
+              #Dropdown Menu
+              selectInput("dropdown",
+                          label = "Variable",
+                          c("Air Quality2" ="airQual2", 
+                            "Temperature2")
+                  ),
+              #map
               leafletOutput("LocationMap",height = 1000),
               conditionalPanel("false", icon("crosshair"))
       ),

@@ -29,26 +29,21 @@ shapes$Temperature[shapes$SA4_NAME16 %in% areas[c(251:300)]] <- 70
 shapes$Temperature[shapes$SA4_NAME16 %in% areas[c(301:340)]] <- 40
 
 
-
-
-shapes$AirQuality[shapes$AirQuality == 0] <- sample(30:40, length(shapes$AirQuality[shapes$AirQuality == 0]), replace = TRUE)
-shapes$AirQuality[53] <- 120
-
-
 #Humidity in %
 shapes$Humidity <- 0
-shapes$Humidity <- sample(0:100, length(shapes$Humidity), replace = TRUE)
+shapes$Humidity <- floor(rnorm(340, mean=100, sd=30))
 
-# #Wind in km/h
+
+#Wind in km/h
 shapes$Wind <-0
-shapes$Wind <- sample(0:50, length(shapes$Wind), replace = TRUE)
+shapes$Wind <- floor(rnorm(340, mean=50, sd=30))
 
 #UV Index
-shapes$UV <- 0
-shapes$UV <- sample(0:11, length(shapes$UV), replace = TRUE)
+shapes$UV <-0
+shapes$UV <- floor(rnorm(340, mean=50, sd=10))
 
 #Rainfall Scale in mm
-shapes$Rain <- 0
-shapes$Rain <- sample(0:10, length(shapes$Rain), replace = TRUE)
+shapes$Rain <-0
+shapes$Rain <- floor(rnorm(340, mean=50, sd=10))
 
 write.csv(shapes, 'dummydata.csv', row.names = FALSE)

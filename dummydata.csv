@@ -1,341 +1,341 @@
 "X","SA3_CODE16","SA3_NAME16","SA4_CODE16","SA4_NAME16","GCC_CODE16","GCC_NAME16","STE_CODE16","STE_NAME16","AREASQKM16","AirQuality","Temperature","Humidity","Wind","UV","Rain"
-0,10102,"Queanbeyan",101,"Capital Region","1RNSW","Rest of NSW",1,"New South Wales",6511.1906,30,40,81,45,2,1
-1,10103,"Snowy Mountains",101,"Capital Region","1RNSW","Rest of NSW",1,"New South Wales",14283.4221,38,40,86,15,5,4
-2,10104,"South Coast",101,"Capital Region","1RNSW","Rest of NSW",1,"New South Wales",9864.868,40,40,28,13,9,0
-3,10105,"Goulburn - Mulwaree",101,"Capital Region","1RNSW","Rest of NSW",1,"New South Wales",9099.9086,31,40,4,8,11,5
-4,10106,"Young - Yass",101,"Capital Region","1RNSW","Rest of NSW",1,"New South Wales",12136.1738,31,40,20,32,1,2
-5,10201,"Gosford",102,"Central Coast","1GSYD","Greater Sydney",1,"New South Wales",988.4263,33,40,58,13,7,0
-6,10202,"Wyong",102,"Central Coast","1GSYD","Greater Sydney",1,"New South Wales",692.6461,38,40,31,48,10,5
-7,10301,"Bathurst",103,"Central West","1RNSW","Rest of NSW",1,"New South Wales",6984.183,33,40,33,34,7,9
-8,10302,"Lachlan Valley",103,"Central West","1RNSW","Rest of NSW",1,"New South Wales",41000.7206,39,40,61,31,1,0
-9,10303,"Lithgow - Mudgee",103,"Central West","1RNSW","Rest of NSW",1,"New South Wales",16044.6246,32,40,91,43,5,3
-10,10304,"Orange",103,"Central West","1RNSW","Rest of NSW",1,"New South Wales",6267.5322,40,40,11,1,6,3
-11,10401,"Clarence Valley",104,"Coffs Harbour - Grafton","1RNSW","Rest of NSW",1,"New South Wales",9263.1939,36,40,16,45,0,8
-12,10402,"Coffs Harbour",104,"Coffs Harbour - Grafton","1RNSW","Rest of NSW",1,"New South Wales",3966.5639,40,40,50,17,1,5
-13,10501,"Bourke - Cobar - Coonamble",105,"Far West and Orana","1RNSW","Rest of NSW",1,"New South Wales",162765.126,39,40,59,42,0,7
-14,10502,"Broken Hill and Far West",105,"Far West and Orana","1RNSW","Rest of NSW",1,"New South Wales",146860.1758,35,40,53,32,7,5
-15,10503,"Dubbo",105,"Far West and Orana","1RNSW","Rest of NSW",1,"New South Wales",29738.3907,33,40,16,37,2,6
-16,10601,"Lower Hunter",106,"Hunter Valley exc Newcastle","1RNSW","Rest of NSW",1,"New South Wales",8566.7809,34,40,5,33,4,0
-17,10602,"Maitland",106,"Hunter Valley exc Newcastle","1RNSW","Rest of NSW",1,"New South Wales",380.1168,37,40,58,35,9,4
-18,10603,"Port Stephens",106,"Hunter Valley exc Newcastle","1RNSW","Rest of NSW",1,"New South Wales",1071.9768,37,40,92,2,10,2
-19,10604,"Upper Hunter",106,"Hunter Valley exc Newcastle","1RNSW","Rest of NSW",1,"New South Wales",11472.417,37,40,44,10,1,5
-20,10701,"Dapto - Port Kembla",107,"Illawarra","1RNSW","Rest of NSW",1,"New South Wales",163.6962,37,40,66,3,8,5
-21,10702,"Illawarra Catchment Reserve",107,"Illawarra","1RNSW","Rest of NSW",1,"New South Wales",744.3423,38,40,97,15,5,9
-22,10703,"Kiama - Shellharbour",107,"Illawarra","1RNSW","Rest of NSW",1,"New South Wales",390.7983,33,40,51,8,9,7
-23,10704,"Wollongong",107,"Illawarra","1RNSW","Rest of NSW",1,"New South Wales",240.0822,39,40,20,45,2,0
-24,10801,"Great Lakes",108,"Mid North Coast","1RNSW","Rest of NSW",1,"New South Wales",3133.0446,38,40,25,16,0,1
-25,10802,"Kempsey - Nambucca",108,"Mid North Coast","1RNSW","Rest of NSW",1,"New South Wales",5339.3249,38,40,60,25,1,8
-26,10803,"Lord Howe Island",108,"Mid North Coast","1RNSW","Rest of NSW",1,"New South Wales",16.2918,39,40,48,2,1,3
-27,10804,"Port Macquarie",108,"Mid North Coast","1RNSW","Rest of NSW",1,"New South Wales",3687.77,34,40,92,45,2,6
-28,10805,"Taree - Gloucester",108,"Mid North Coast","1RNSW","Rest of NSW",1,"New South Wales",6675.0682,34,40,84,20,6,5
-29,10901,"Albury",109,"Murray","1RNSW","Rest of NSW",1,"New South Wales",5597.4849,37,40,94,49,5,4
-30,10902,"Lower Murray",109,"Murray","1RNSW","Rest of NSW",1,"New South Wales",63968.2369,34,40,27,12,8,3
-31,10903,"Upper Murray exc. Albury",109,"Murray","1RNSW","Rest of NSW",1,"New South Wales",28231.9536,36,40,87,35,3,8
-32,11001,"Armidale",110,"New England and North West","1RNSW","Rest of NSW",1,"New South Wales",16395.6492,37,40,70,23,6,5
-33,11002,"Inverell - Tenterfield",110,"New England and North West","1RNSW","Rest of NSW",1,"New South Wales",30568.6383,37,40,15,15,8,3
-34,11003,"Moree - Narrabri",110,"New England and North West","1RNSW","Rest of NSW",1,"New South Wales",32026.5412,32,40,60,19,9,7
-35,11004,"Tamworth - Gunnedah",110,"New England and North West","1RNSW","Rest of NSW",1,"New South Wales",20155.0876,40,40,44,32,3,7
-36,11101,"Lake Macquarie - East",111,"Newcastle and Lake Macquarie","1RNSW","Rest of NSW",1,"New South Wales",138.0858,30,10,9,0,6,6
-37,11102,"Lake Macquarie - West",111,"Newcastle and Lake Macquarie","1RNSW","Rest of NSW",1,"New South Wales",507.6329,36,10,76,18,5,6
-38,11103,"Newcastle",111,"Newcastle and Lake Macquarie","1RNSW","Rest of NSW",1,"New South Wales",224.8933,31,10,55,3,3,7
-39,11201,"Richmond Valley - Coastal",112,"Richmond - Tweed","1RNSW","Rest of NSW",1,"New South Wales",1572.8877,32,10,70,11,5,3
-40,11202,"Richmond Valley - Hinterland",112,"Richmond - Tweed","1RNSW","Rest of NSW",1,"New South Wales",7390.5986,30,10,85,25,2,2
-41,11203,"Tweed Valley",112,"Richmond - Tweed","1RNSW","Rest of NSW",1,"New South Wales",1307.6562,34,10,64,0,3,6
-42,11301,"Griffith - Murrumbidgee (West)",113,"Riverina","1RNSW","Rest of NSW",1,"New South Wales",28859.6885,37,10,16,4,11,1
-43,11302,"Tumut - Tumbarumba",113,"Riverina","1RNSW","Rest of NSW",1,"New South Wales",9174.7645,38,10,53,26,1,2
-44,11303,"Wagga Wagga",113,"Riverina","1RNSW","Rest of NSW",1,"New South Wales",18950.5659,37,10,11,18,4,5
-45,11401,"Shoalhaven",114,"Southern Highlands and Shoalhaven","1RNSW","Rest of NSW",1,"New South Wales",4374.4257,34,10,55,31,7,6
-46,11402,"Southern Highlands",114,"Southern Highlands and Shoalhaven","1RNSW","Rest of NSW",1,"New South Wales",2330.0144,37,10,67,27,0,7
-47,11501,"Baulkham Hills",115,"Sydney - Baulkham Hills and Hawkesbury","1GSYD","Greater Sydney",1,"New South Wales",72.0257,70,10,21,35,10,9
-48,11502,"Dural - Wisemans Ferry",115,"Sydney - Baulkham Hills and Hawkesbury","1GSYD","Greater Sydney",1,"New South Wales",569.2386,70,10,72,26,4,10
-49,11503,"Hawkesbury",115,"Sydney - Baulkham Hills and Hawkesbury","1GSYD","Greater Sydney",1,"New South Wales",2492.0101,70,10,24,13,11,10
-50,11504,"Rouse Hill - McGraths Hill",115,"Sydney - Baulkham Hills and Hawkesbury","1GSYD","Greater Sydney",1,"New South Wales",118.2241,70,10,83,25,5,6
-51,11601,"Blacktown",116,"Sydney - Blacktown","1GSYD","Greater Sydney",1,"New South Wales",56.3066,70,10,36,13,3,2
-52,11602,"Blacktown - North",116,"Sydney - Blacktown","1GSYD","Greater Sydney",1,"New South Wales",103.0669,120,10,5,33,11,8
-53,11603,"Mount Druitt",116,"Sydney - Blacktown","1GSYD","Greater Sydney",1,"New South Wales",82.7116,70,10,3,24,6,10
-54,11701,"Botany",117,"Sydney - City and Inner South","1GSYD","Greater Sydney",1,"New South Wales",27.7978,70,10,26,29,3,3
-55,11702,"Marrickville - Sydenham - Petersham",117,"Sydney - City and Inner South","1GSYD","Greater Sydney",1,"New South Wales",12.6699,70,10,85,16,7,0
-56,11703,"Sydney Inner City",117,"Sydney - City and Inner South","1GSYD","Greater Sydney",1,"New South Wales",25.0641,70,10,71,24,2,0
-57,11801,"Eastern Suburbs - North",118,"Sydney - Eastern Suburbs","1GSYD","Greater Sydney",1,"New South Wales",26.1849,70,10,54,34,3,4
-58,11802,"Eastern Suburbs - South",118,"Sydney - Eastern Suburbs","1GSYD","Greater Sydney",1,"New South Wales",31.5481,70,10,0,48,1,2
-59,11901,"Bankstown",119,"Sydney - Inner South West","1GSYD","Greater Sydney",1,"New South Wales",68.6674,70,10,96,19,2,0
-60,11902,"Canterbury",119,"Sydney - Inner South West","1GSYD","Greater Sydney",1,"New South Wales",29.9646,70,10,13,30,11,9
-61,11903,"Hurstville",119,"Sydney - Inner South West","1GSYD","Greater Sydney",1,"New South Wales",33.9553,70,10,61,31,2,8
-62,11904,"Kogarah - Rockdale",119,"Sydney - Inner South West","1GSYD","Greater Sydney",1,"New South Wales",31.3479,70,10,82,15,1,8
-63,12001,"Canada Bay",120,"Sydney - Inner West","1GSYD","Greater Sydney",1,"New South Wales",19.7471,70,10,19,14,9,8
-64,12002,"Leichhardt",120,"Sydney - Inner West","1GSYD","Greater Sydney",1,"New South Wales",10.6577,70,10,77,18,0,3
-65,12003,"Strathfield - Burwood - Ashfield",120,"Sydney - Inner West","1GSYD","Greater Sydney",1,"New South Wales",34.1433,70,10,67,4,11,10
-66,12101,"Chatswood - Lane Cove",121,"Sydney - North Sydney and Hornsby","1GSYD","Greater Sydney",1,"New South Wales",33.1739,70,10,0,35,5,1
-67,12102,"Hornsby",121,"Sydney - North Sydney and Hornsby","1GSYD","Greater Sydney",1,"New South Wales",137.3989,70,10,59,47,1,7
-68,12103,"Ku-ring-gai",121,"Sydney - North Sydney and Hornsby","1GSYD","Greater Sydney",1,"New South Wales",85.5466,70,10,89,0,3,8
-69,12104,"North Sydney - Mosman",121,"Sydney - North Sydney and Hornsby","1GSYD","Greater Sydney",1,"New South Wales",18.9756,70,10,0,30,11,1
-70,12201,"Manly",122,"Sydney - Northern Beaches","1GSYD","Greater Sydney",1,"New South Wales",14.3455,70,10,79,43,9,2
-71,12202,"Pittwater",122,"Sydney - Northern Beaches","1GSYD","Greater Sydney",1,"New South Wales",90.6495,70,10,4,31,10,5
-72,12203,"Warringah",122,"Sydney - Northern Beaches","1GSYD","Greater Sydney",1,"New South Wales",149.2124,70,10,60,24,3,4
-73,12301,"Camden",123,"Sydney - Outer South West","1GSYD","Greater Sydney",1,"New South Wales",73.8688,70,10,16,9,3,3
-74,12302,"Campbelltown (NSW)",123,"Sydney - Outer South West","1GSYD","Greater Sydney",1,"New South Wales",334.2221,70,10,31,35,1,7
-75,12303,"Wollondilly",123,"Sydney - Outer South West","1GSYD","Greater Sydney",1,"New South Wales",870.3604,70,10,86,28,4,10
-76,12401,"Blue Mountains",124,"Sydney - Outer West and Blue Mountains","1GSYD","Greater Sydney",1,"New South Wales",942.4079,70,10,13,44,8,7
-77,12402,"Blue Mountains - South",124,"Sydney - Outer West and Blue Mountains","1GSYD","Greater Sydney",1,"New South Wales",2456.9093,70,10,21,22,3,2
-78,12403,"Penrith",124,"Sydney - Outer West and Blue Mountains","1GSYD","Greater Sydney",1,"New South Wales",356.8585,70,10,48,47,6,4
-79,12404,"Richmond - Windsor",124,"Sydney - Outer West and Blue Mountains","1GSYD","Greater Sydney",1,"New South Wales",178.8387,70,10,52,29,8,8
-80,12405,"St Marys",124,"Sydney - Outer West and Blue Mountains","1GSYD","Greater Sydney",1,"New South Wales",33.1146,70,10,86,4,6,8
-81,12501,"Auburn",125,"Sydney - Parramatta","1GSYD","Greater Sydney",1,"New South Wales",33.0601,70,10,4,48,11,6
-82,12502,"Carlingford",125,"Sydney - Parramatta","1GSYD","Greater Sydney",1,"New South Wales",25.6874,70,10,60,17,10,9
-83,12503,"Merrylands - Guildford",125,"Sydney - Parramatta","1GSYD","Greater Sydney",1,"New South Wales",55.7969,70,10,5,7,4,4
-84,12504,"Parramatta",125,"Sydney - Parramatta","1GSYD","Greater Sydney",1,"New South Wales",47.0914,70,10,33,24,2,10
-85,12601,"Pennant Hills - Epping",126,"Sydney - Ryde","1GSYD","Greater Sydney",1,"New South Wales",22.1743,70,10,4,15,3,4
-86,12602,"Ryde - Hunters Hill",126,"Sydney - Ryde","1GSYD","Greater Sydney",1,"New South Wales",47.1626,70,10,20,1,0,3
-87,12701,"Bringelly - Green Valley",127,"Sydney - South West","1GSYD","Greater Sydney",1,"New South Wales",291.4688,70,10,85,29,11,7
-88,12702,"Fairfield",127,"Sydney - South West","1GSYD","Greater Sydney",1,"New South Wales",123.7701,70,10,73,22,2,7
-89,12703,"Liverpool",127,"Sydney - South West","1GSYD","Greater Sydney",1,"New South Wales",123.8297,70,10,22,33,7,4
-90,12801,"Cronulla - Miranda - Caringbah",128,"Sydney - Sutherland","1GSYD","Greater Sydney",1,"New South Wales",55.6181,40,10,55,0,11,8
-91,12802,"Sutherland - Menai - Heathcote",128,"Sydney - Sutherland","1GSYD","Greater Sydney",1,"New South Wales",240.2471,34,10,2,34,8,10
-94,20101,"Ballarat",201,"Ballarat","2RVIC","Rest of Vic.",2,"Victoria",448.3487,32,10,63,25,0,0
-95,20102,"Creswick - Daylesford - Ballan",201,"Ballarat","2RVIC","Rest of Vic.",2,"Victoria",3666.673,36,10,76,26,2,9
-96,20103,"Maryborough - Pyrenees",201,"Ballarat","2RVIC","Rest of Vic.",2,"Victoria",6172.4542,39,10,95,26,1,10
-97,20201,"Bendigo",202,"Bendigo","2RVIC","Rest of Vic.",2,"Victoria",287.4438,31,10,71,36,7,10
-98,20202,"Heathcote - Castlemaine - Kyneton",202,"Bendigo","2RVIC","Rest of Vic.",2,"Victoria",3920.9382,37,10,99,14,9,5
-99,20203,"Loddon - Elmore",202,"Bendigo","2RVIC","Rest of Vic.",2,"Victoria",7633.5242,38,10,11,6,0,8
-100,20301,"Barwon - West",203,"Geelong","2RVIC","Rest of Vic.",2,"Victoria",2579.8385,39,10,19,42,3,4
-101,20302,"Geelong",203,"Geelong","2RVIC","Rest of Vic.",2,"Victoria",918.8917,33,10,65,12,9,0
-102,20303,"Surf Coast - Bellarine Peninsula",203,"Geelong","2RVIC","Rest of Vic.",2,"Victoria",929.9691,40,10,28,40,11,0
-103,20401,"Upper Goulburn Valley",204,"Hume","2RVIC","Rest of Vic.",2,"Victoria",13959.3182,36,10,28,34,3,1
-104,20402,"Wangaratta - Benalla",204,"Hume","2RVIC","Rest of Vic.",2,"Victoria",6545.0857,32,10,24,44,8,8
-105,20403,"Wodonga - Alpine",204,"Hume","2RVIC","Rest of Vic.",2,"Victoria",13501.1315,34,10,75,49,11,0
-106,20501,"Baw Baw",205,"Latrobe - Gippsland","2RVIC","Rest of Vic.",2,"Victoria",3933.8416,33,10,67,27,9,4
-107,20502,"Gippsland - East",205,"Latrobe - Gippsland","2RVIC","Rest of Vic.",2,"Victoria",21713.8498,36,10,69,7,2,5
-108,20503,"Gippsland - South West",205,"Latrobe - Gippsland","2RVIC","Rest of Vic.",2,"Victoria",4381.6191,35,10,26,46,9,1
-109,20504,"Latrobe Valley",205,"Latrobe - Gippsland","2RVIC","Rest of Vic.",2,"Victoria",1479.6674,30,10,100,8,6,8
-110,20505,"Wellington",205,"Latrobe - Gippsland","2RVIC","Rest of Vic.",2,"Victoria",10044.7738,39,10,99,39,0,10
-111,20601,"Brunswick - Coburg",206,"Melbourne - Inner","2GMEL","Greater Melbourne",2,"Victoria",20.4133,70,10,91,15,6,9
-112,20602,"Darebin - South",206,"Melbourne - Inner","2GMEL","Greater Melbourne",2,"Victoria",14.0275,70,10,91,19,1,4
-113,20603,"Essendon",206,"Melbourne - Inner","2GMEL","Greater Melbourne",2,"Victoria",18.215,70,10,85,39,0,2
-114,20604,"Melbourne City",206,"Melbourne - Inner","2GMEL","Greater Melbourne",2,"Victoria",31.4622,70,10,88,24,7,6
-115,20605,"Port Phillip",206,"Melbourne - Inner","2GMEL","Greater Melbourne",2,"Victoria",25.6958,70,10,45,7,2,3
-116,20606,"Stonnington - West",206,"Melbourne - Inner","2GMEL","Greater Melbourne",2,"Victoria",11.9294,70,10,56,26,1,9
-117,20607,"Yarra",206,"Melbourne - Inner","2GMEL","Greater Melbourne",2,"Victoria",20.6163,70,10,81,13,0,3
-118,20701,"Boroondara",207,"Melbourne - Inner East","2GMEL","Greater Melbourne",2,"Victoria",60.0157,70,10,11,37,11,2
-119,20702,"Manningham - West",207,"Melbourne - Inner East","2GMEL","Greater Melbourne",2,"Victoria",48.6724,70,10,75,9,3,0
-120,20703,"Whitehorse - West",207,"Melbourne - Inner East","2GMEL","Greater Melbourne",2,"Victoria",38.0551,70,10,13,49,5,4
-121,20801,"Bayside",208,"Melbourne - Inner South","2GMEL","Greater Melbourne",2,"Victoria",37.2111,70,10,28,7,1,0
-122,20802,"Glen Eira",208,"Melbourne - Inner South","2GMEL","Greater Melbourne",2,"Victoria",40.7002,70,10,87,21,0,3
-123,20803,"Kingston",208,"Melbourne - Inner South","2GMEL","Greater Melbourne",2,"Victoria",69.8633,70,10,6,44,10,8
-124,20804,"Stonnington - East",208,"Melbourne - Inner South","2GMEL","Greater Melbourne",2,"Victoria",13.722,70,10,66,34,3,7
-125,20901,"Banyule",209,"Melbourne - North East","2GMEL","Greater Melbourne",2,"Victoria",62.6133,70,10,3,12,3,10
-126,20902,"Darebin - North",209,"Melbourne - North East","2GMEL","Greater Melbourne",2,"Victoria",39.4436,70,10,49,19,8,5
-127,20903,"Nillumbik - Kinglake",209,"Melbourne - North East","2GMEL","Greater Melbourne",2,"Victoria",751.7682,70,10,66,13,0,3
-128,20904,"Whittlesea - Wallan",209,"Melbourne - North East","2GMEL","Greater Melbourne",2,"Victoria",997.4394,70,10,79,48,4,0
-129,21001,"Keilor",210,"Melbourne - North West","2GMEL","Greater Melbourne",2,"Victoria",42.425,70,10,49,3,8,0
-130,21002,"Macedon Ranges",210,"Melbourne - North West","2GMEL","Greater Melbourne",2,"Victoria",992.107,70,10,20,47,7,1
-131,21003,"Moreland - North",210,"Melbourne - North West","2GMEL","Greater Melbourne",2,"Victoria",30.3779,70,10,17,13,11,5
-132,21004,"Sunbury",210,"Melbourne - North West","2GMEL","Greater Melbourne",2,"Victoria",260.6847,70,10,38,27,7,5
-133,21005,"Tullamarine - Broadmeadows",210,"Melbourne - North West","2GMEL","Greater Melbourne",2,"Victoria",294.0954,70,10,19,44,8,5
-134,21101,"Knox",211,"Melbourne - Outer East","2GMEL","Greater Melbourne",2,"Victoria",118.3019,70,10,52,25,11,1
-135,21102,"Manningham - East",211,"Melbourne - Outer East","2GMEL","Greater Melbourne",2,"Victoria",66.5619,70,10,37,43,6,0
-136,21103,"Maroondah",211,"Melbourne - Outer East","2GMEL","Greater Melbourne",2,"Victoria",61.1872,70,10,51,50,5,0
-137,21104,"Whitehorse - East",211,"Melbourne - Outer East","2GMEL","Greater Melbourne",2,"Victoria",26.5696,70,10,35,3,6,3
-138,21105,"Yarra Ranges",211,"Melbourne - Outer East","2GMEL","Greater Melbourne",2,"Victoria",1605.937,70,10,20,37,11,0
-139,21201,"Cardinia",212,"Melbourne - South East","2GMEL","Greater Melbourne",2,"Victoria",1282.327,70,10,67,16,7,1
-140,21202,"Casey - North",212,"Melbourne - South East","2GMEL","Greater Melbourne",2,"Victoria",116.503,70,10,100,29,9,10
-141,21203,"Casey - South",212,"Melbourne - South East","2GMEL","Greater Melbourne",2,"Victoria",292.9259,70,10,5,19,2,10
-142,21204,"Dandenong",212,"Melbourne - South East","2GMEL","Greater Melbourne",2,"Victoria",151.0513,70,10,63,5,2,2
-143,21205,"Monash",212,"Melbourne - South East","2GMEL","Greater Melbourne",2,"Victoria",79.4733,70,10,71,8,7,8
-144,21301,"Brimbank",213,"Melbourne - West","2GMEL","Greater Melbourne",2,"Victoria",106.8497,70,10,54,40,7,7
-145,21302,"Hobsons Bay",213,"Melbourne - West","2GMEL","Greater Melbourne",2,"Victoria",62.2158,70,10,24,20,6,10
-146,21303,"Maribyrnong",213,"Melbourne - West","2GMEL","Greater Melbourne",2,"Victoria",31.2254,70,10,45,47,11,7
-147,21304,"Melton - Bacchus Marsh",213,"Melbourne - West","2GMEL","Greater Melbourne",2,"Victoria",671.9436,70,10,80,32,0,7
-148,21305,"Wyndham",213,"Melbourne - West","2GMEL","Greater Melbourne",2,"Victoria",544.1195,70,10,49,27,2,8
-149,21401,"Frankston",214,"Mornington Peninsula","2GMEL","Greater Melbourne",2,"Victoria",129.598,40,10,1,33,7,4
-150,21402,"Mornington Peninsula",214,"Mornington Peninsula","2GMEL","Greater Melbourne",2,"Victoria",724.1679,36,10,16,15,1,6
-151,21501,"Grampians",215,"North West","2RVIC","Rest of Vic.",2,"Victoria",38139.2062,34,10,87,47,10,7
-152,21502,"Mildura",215,"North West","2RVIC","Rest of Vic.",2,"Victoria",22082.4836,30,10,11,29,6,0
-153,21503,"Murray River - Swan Hill",215,"North West","2RVIC","Rest of Vic.",2,"Victoria",17851.0467,36,10,64,41,7,3
-154,21601,"Campaspe",216,"Shepparton","2RVIC","Rest of Vic.",2,"Victoria",4554.5687,39,10,37,1,8,0
-155,21602,"Moira",216,"Shepparton","2RVIC","Rest of Vic.",2,"Victoria",4046.3738,39,10,1,23,5,8
-156,21603,"Shepparton",216,"Shepparton","2RVIC","Rest of Vic.",2,"Victoria",2333.1626,36,10,12,45,3,8
-157,21701,"Glenelg - Southern Grampians",217,"Warrnambool and South West","2RVIC","Rest of Vic.",2,"Victoria",12946.1764,39,10,79,27,7,5
-158,21703,"Colac - Corangamite",217,"Warrnambool and South West","2RVIC","Rest of Vic.",2,"Victoria",7936.5548,36,10,22,50,7,2
-159,21704,"Warrnambool",217,"Warrnambool and South West","2RVIC","Rest of Vic.",2,"Victoria",5496.1773,30,10,59,18,4,8
-162,30101,"Capalaba",301,"Brisbane - East","3GBRI","Greater Brisbane",3,"Queensland",89.2959,37,10,56,8,8,2
-163,30102,"Cleveland - Stradbroke",301,"Brisbane - East","3GBRI","Greater Brisbane",3,"Queensland",480.9783,30,10,79,6,2,7
-164,30103,"Wynnum - Manly",301,"Brisbane - East","3GBRI","Greater Brisbane",3,"Queensland",82.8584,33,10,80,45,4,4
-165,30201,"Bald Hills - Everton Park",302,"Brisbane - North","3GBRI","Greater Brisbane",3,"Queensland",35.9309,70,10,53,22,10,0
-166,30202,"Chermside",302,"Brisbane - North","3GBRI","Greater Brisbane",3,"Queensland",32.2389,70,10,15,32,3,1
-167,30203,"Nundah",302,"Brisbane - North","3GBRI","Greater Brisbane",3,"Queensland",87.0319,70,10,58,39,2,4
-168,30204,"Sandgate",302,"Brisbane - North","3GBRI","Greater Brisbane",3,"Queensland",31.7473,70,10,32,1,3,0
-169,30301,"Carindale",303,"Brisbane - South","3GBRI","Greater Brisbane",3,"Queensland",26.5108,70,10,87,37,5,9
-170,30302,"Holland Park - Yeronga",303,"Brisbane - South","3GBRI","Greater Brisbane",3,"Queensland",27.565,70,10,71,48,5,0
-171,30303,"Mt Gravatt",303,"Brisbane - South","3GBRI","Greater Brisbane",3,"Queensland",79.3868,70,10,55,20,6,2
-172,30304,"Nathan",303,"Brisbane - South","3GBRI","Greater Brisbane",3,"Queensland",24.4776,70,10,0,7,8,8
-173,30305,"Rocklea - Acacia Ridge",303,"Brisbane - South","3GBRI","Greater Brisbane",3,"Queensland",85.2444,70,10,77,1,6,4
-174,30306,"Sunnybank",303,"Brisbane - South","3GBRI","Greater Brisbane",3,"Queensland",22.16,70,10,99,32,3,8
-175,30401,"Centenary",304,"Brisbane - West","3GBRI","Greater Brisbane",3,"Queensland",16.9755,70,10,12,2,10,9
-176,30402,"Kenmore - Brookfield - Moggill",304,"Brisbane - West","3GBRI","Greater Brisbane",3,"Queensland",134.6112,70,10,24,2,10,0
-177,30403,"Sherwood - Indooroopilly",304,"Brisbane - West","3GBRI","Greater Brisbane",3,"Queensland",21.2964,70,10,93,41,5,1
-178,30404,"The Gap - Enoggera",304,"Brisbane - West","3GBRI","Greater Brisbane",3,"Queensland",96.768,70,10,54,15,1,1
-179,30501,"Brisbane Inner",305,"Brisbane Inner City","3GBRI","Greater Brisbane",3,"Queensland",13.5589,70,10,86,46,9,10
-180,30502,"Brisbane Inner - East",305,"Brisbane Inner City","3GBRI","Greater Brisbane",3,"Queensland",15.5989,70,10,97,9,4,6
-181,30503,"Brisbane Inner - North",305,"Brisbane Inner City","3GBRI","Greater Brisbane",3,"Queensland",30.9461,70,10,87,32,4,0
-182,30504,"Brisbane Inner - West",305,"Brisbane Inner City","3GBRI","Greater Brisbane",3,"Queensland",21.6355,70,10,47,45,2,4
-183,30601,"Cairns - North",306,"Cairns","3RQLD","Rest of Qld",3,"Queensland",160.3157,33,10,90,31,10,10
-184,30602,"Cairns - South",306,"Cairns","3RQLD","Rest of Qld",3,"Queensland",633.4659,34,10,23,49,10,1
-185,30603,"Innisfail - Cassowary Coast",306,"Cairns","3RQLD","Rest of Qld",3,"Queensland",5995.1825,31,10,41,7,3,5
-186,30604,"Port Douglas - Daintree",306,"Cairns","3RQLD","Rest of Qld",3,"Queensland",2421.0913,30,10,68,8,6,1
-187,30605,"Tablelands (East) - Kuranda",306,"Cairns","3RQLD","Rest of Qld",3,"Queensland",12127.9129,31,10,98,14,11,6
-188,30701,"Darling Downs (West) - Maranoa",307,"Darling Downs - Maranoa","3RQLD","Rest of Qld",3,"Queensland",141252.7846,37,10,9,49,6,1
-189,30702,"Darling Downs - East",307,"Darling Downs - Maranoa","3RQLD","Rest of Qld",3,"Queensland",16653.3007,35,10,46,37,9,4
-190,30703,"Granite Belt",307,"Darling Downs - Maranoa","3RQLD","Rest of Qld",3,"Queensland",8433.9715,30,10,52,37,8,8
-191,30801,"Central Highlands (Qld)",308,"Central Queensland","3RQLD","Rest of Qld",3,"Queensland",60225.3937,30,10,62,16,1,9
-192,30803,"Rockhampton",308,"Central Queensland","3RQLD","Rest of Qld",3,"Queensland",18328.135,40,10,74,50,1,4
-193,30804,"Biloela",308,"Central Queensland","3RQLD","Rest of Qld",3,"Queensland",28550.1865,37,10,34,23,8,3
-194,30805,"Gladstone",308,"Central Queensland","3RQLD","Rest of Qld",3,"Queensland",10484.2862,37,10,5,30,1,3
-195,30901,"Broadbeach - Burleigh",309,"Gold Coast","3RQLD","Rest of Qld",3,"Queensland",33.6726,32,10,23,25,8,8
-196,30902,"Coolangatta",309,"Gold Coast","3RQLD","Rest of Qld",3,"Queensland",34.9725,37,10,68,29,3,3
-197,30903,"Gold Coast - North",309,"Gold Coast","3RQLD","Rest of Qld",3,"Queensland",40.6693,37,10,55,1,7,9
-198,30904,"Gold Coast Hinterland",309,"Gold Coast","3RQLD","Rest of Qld",3,"Queensland",827.9592,39,10,51,5,1,3
-199,30905,"Mudgeeraba - Tallebudgera",309,"Gold Coast","3RQLD","Rest of Qld",3,"Queensland",189.204,38,10,36,26,10,5
-200,30906,"Nerang",309,"Gold Coast","3RQLD","Rest of Qld",3,"Queensland",123.1533,35,10,3,38,4,4
-201,30907,"Ormeau - Oxenford",309,"Gold Coast","3RQLD","Rest of Qld",3,"Queensland",519.8616,36,10,79,38,9,5
-202,30908,"Robina",309,"Gold Coast","3RQLD","Rest of Qld",3,"Queensland",33.6325,39,10,93,27,6,4
-203,30909,"Southport",309,"Gold Coast","3RQLD","Rest of Qld",3,"Queensland",34.9594,30,10,74,45,5,2
-204,30910,"Surfers Paradise",309,"Gold Coast","3RQLD","Rest of Qld",3,"Queensland",19.801,36,10,27,21,9,4
-205,31001,"Forest Lake - Oxley",310,"Ipswich","3GBRI","Greater Brisbane",3,"Queensland",63.7142,34,10,91,22,9,0
-206,31002,"Ipswich Hinterland",310,"Ipswich","3GBRI","Greater Brisbane",3,"Queensland",6135.7833,35,10,64,48,8,7
-207,31003,"Ipswich Inner",310,"Ipswich","3GBRI","Greater Brisbane",3,"Queensland",378.0564,39,10,27,18,6,3
-208,31004,"Springfield - Redbank",310,"Ipswich","3GBRI","Greater Brisbane",3,"Queensland",103.593,37,10,9,0,6,5
-209,31101,"Beaudesert",311,"Logan - Beaudesert","3GBRI","Greater Brisbane",3,"Queensland",1628.0131,37,10,97,1,10,9
-210,31102,"Beenleigh",311,"Logan - Beaudesert","3GBRI","Greater Brisbane",3,"Queensland",60.1506,35,10,51,31,7,0
-211,31103,"Browns Plains",311,"Logan - Beaudesert","3GBRI","Greater Brisbane",3,"Queensland",169.579,37,10,60,1,0,10
-212,31104,"Jimboomba",311,"Logan - Beaudesert","3GBRI","Greater Brisbane",3,"Queensland",582.4324,38,10,55,2,6,2
-213,31105,"Loganlea - Carbrook",311,"Logan - Beaudesert","3GBRI","Greater Brisbane",3,"Queensland",88.7275,40,10,88,0,11,3
-214,31106,"Springwood - Kingston",311,"Logan - Beaudesert","3GBRI","Greater Brisbane",3,"Queensland",57.2427,38,10,87,24,1,2
-215,31201,"Bowen Basin - North",312,"Mackay - Isaac - Whitsunday","3RQLD","Rest of Qld",3,"Queensland",79852.782,32,10,98,28,10,7
-216,31202,"Mackay",312,"Mackay - Isaac - Whitsunday","3RQLD","Rest of Qld",3,"Queensland",7613.2964,33,10,40,1,4,6
-217,31203,"Whitsunday",312,"Mackay - Isaac - Whitsunday","3RQLD","Rest of Qld",3,"Queensland",2674.0276,33,10,5,35,0,4
-218,31301,"Bribie - Beachmere",313,"Moreton Bay - North","3GBRI","Greater Brisbane",3,"Queensland",255.4466,40,10,11,13,4,3
-219,31302,"Caboolture",313,"Moreton Bay - North","3GBRI","Greater Brisbane",3,"Queensland",314.7209,35,10,4,2,9,2
-220,31303,"Caboolture Hinterland",313,"Moreton Bay - North","3GBRI","Greater Brisbane",3,"Queensland",3388.2856,40,10,70,44,4,7
-221,31304,"Narangba - Burpengary",313,"Moreton Bay - North","3GBRI","Greater Brisbane",3,"Queensland",172.4136,35,10,65,33,1,8
-222,31305,"Redcliffe",313,"Moreton Bay - North","3GBRI","Greater Brisbane",3,"Queensland",213.5898,30,10,43,2,6,6
-223,31401,"The Hills District",314,"Moreton Bay - South","3GBRI","Greater Brisbane",3,"Queensland",668.6809,39,10,73,0,4,5
-224,31402,"North Lakes",314,"Moreton Bay - South","3GBRI","Greater Brisbane",3,"Queensland",66.3175,37,10,76,30,1,3
-225,31403,"Strathpine",314,"Moreton Bay - South","3GBRI","Greater Brisbane",3,"Queensland",38.3965,36,10,14,29,5,7
-226,31501,"Far North",315,"Queensland - Outback","3RQLD","Rest of Qld",3,"Queensland",250877.5904,38,10,65,37,4,0
-227,31502,"Outback - North",315,"Queensland - Outback","3RQLD","Rest of Qld",3,"Queensland",307082.1758,37,10,31,17,3,0
-228,31503,"Outback - South",315,"Queensland - Outback","3RQLD","Rest of Qld",3,"Queensland",625222.9542,30,10,58,16,9,10
-229,31601,"Buderim",316,"Sunshine Coast","3RQLD","Rest of Qld",3,"Queensland",76.3839,40,10,67,40,4,2
-230,31602,"Caloundra",316,"Sunshine Coast","3RQLD","Rest of Qld",3,"Queensland",113.1062,39,10,50,17,7,9
-231,31603,"Maroochy",316,"Sunshine Coast","3RQLD","Rest of Qld",3,"Queensland",70.3493,37,10,41,44,10,9
-232,31605,"Noosa",316,"Sunshine Coast","3RQLD","Rest of Qld",3,"Queensland",92.1032,35,10,39,11,4,3
-233,31606,"Sunshine Coast Hinterland",316,"Sunshine Coast","3RQLD","Rest of Qld",3,"Queensland",1568.0164,40,10,55,40,3,4
-234,31607,"Nambour",316,"Sunshine Coast","3RQLD","Rest of Qld",3,"Queensland",345.8864,30,10,60,42,4,2
-235,31608,"Noosa Hinterland",316,"Sunshine Coast","3RQLD","Rest of Qld",3,"Queensland",820.066,40,10,98,41,9,10
-236,31701,"Toowoomba",317,"Toowoomba","3RQLD","Rest of Qld",3,"Queensland",2258.7955,36,10,60,26,6,0
-237,31801,"Charters Towers - Ayr - Ingham",318,"Townsville","3RQLD","Rest of Qld",3,"Queensland",76209.8053,34,10,67,6,9,4
-238,31802,"Townsville",318,"Townsville","3RQLD","Rest of Qld",3,"Queensland",3826.2924,35,10,66,9,10,2
-239,31901,"Bundaberg",319,"Wide Bay","3RQLD","Rest of Qld",3,"Queensland",3786.0126,31,10,1,2,2,5
-240,31902,"Burnett",319,"Wide Bay","3RQLD","Rest of Qld",3,"Queensland",30736.8312,31,10,18,9,8,10
-241,31903,"Gympie - Cooloola",319,"Wide Bay","3RQLD","Rest of Qld",3,"Queensland",6975.2278,33,10,23,14,8,9
-242,31904,"Hervey Bay",319,"Wide Bay","3RQLD","Rest of Qld",3,"Queensland",251.5569,34,10,3,4,7,7
-243,31905,"Maryborough",319,"Wide Bay","3RQLD","Rest of Qld",3,"Queensland",6752.9516,39,10,16,23,7,1
-246,40101,"Adelaide City",401,"Adelaide - Central and Hills","4GADE","Greater Adelaide",4,"South Australia",15.5733,40,10,15,12,3,2
-247,40102,"Adelaide Hills",401,"Adelaide - Central and Hills","4GADE","Greater Adelaide",4,"South Australia",1388.1168,32,10,36,0,7,10
-248,40103,"Burnside",401,"Adelaide - Central and Hills","4GADE","Greater Adelaide",4,"South Australia",27.5183,31,10,47,25,10,4
-249,40104,"Campbelltown (SA)",401,"Adelaide - Central and Hills","4GADE","Greater Adelaide",4,"South Australia",25.368,40,10,0,14,7,4
-250,40105,"Norwood - Payneham - St Peters",401,"Adelaide - Central and Hills","4GADE","Greater Adelaide",4,"South Australia",15.1036,35,10,62,26,10,3
-251,40106,"Prospect - Walkerville",401,"Adelaide - Central and Hills","4GADE","Greater Adelaide",4,"South Australia",11.3215,33,10,74,25,10,6
-252,40107,"Unley",401,"Adelaide - Central and Hills","4GADE","Greater Adelaide",4,"South Australia",14.2703,32,10,80,26,4,6
-253,40201,"Gawler - Two Wells",402,"Adelaide - North","4GADE","Greater Adelaide",4,"South Australia",306.865,40,10,33,20,5,2
-254,40202,"Playford",402,"Adelaide - North","4GADE","Greater Adelaide",4,"South Australia",356.8029,39,10,19,16,7,6
-255,40203,"Port Adelaide - East",402,"Adelaide - North","4GADE","Greater Adelaide",4,"South Australia",34.8399,32,10,40,36,10,7
-256,40204,"Salisbury",402,"Adelaide - North","4GADE","Greater Adelaide",4,"South Australia",150.1709,35,10,24,39,8,9
-257,40205,"Tea Tree Gully",402,"Adelaide - North","4GADE","Greater Adelaide",4,"South Australia",91.314,30,10,86,2,0,10
-258,40301,"Holdfast Bay",403,"Adelaide - South","4GADE","Greater Adelaide",4,"South Australia",13.14,35,10,94,43,3,3
-259,40302,"Marion",403,"Adelaide - South","4GADE","Greater Adelaide",4,"South Australia",56.1996,35,10,21,11,1,1
-260,40303,"Mitcham",403,"Adelaide - South","4GADE","Greater Adelaide",4,"South Australia",74.3702,37,10,1,43,0,1
-261,40304,"Onkaparinga",403,"Adelaide - South","4GADE","Greater Adelaide",4,"South Australia",519.3716,31,10,6,14,7,5
-262,40401,"Charles Sturt",404,"Adelaide - West","4GADE","Greater Adelaide",4,"South Australia",53.3186,39,10,73,7,6,0
-263,40402,"Port Adelaide - West",404,"Adelaide - West","4GADE","Greater Adelaide",4,"South Australia",67.7726,40,10,48,25,10,1
-264,40403,"West Torrens",404,"Adelaide - West","4GADE","Greater Adelaide",4,"South Australia",38.3988,35,10,4,2,8,8
-265,40501,"Barossa",405,"Barossa - Yorke - Mid North","4RSAU","Rest of SA",4,"South Australia",2837.1519,34,10,45,46,10,10
-266,40502,"Lower North",405,"Barossa - Yorke - Mid North","4RSAU","Rest of SA",4,"South Australia",13728.959,37,10,43,24,2,7
-267,40503,"Mid North",405,"Barossa - Yorke - Mid North","4RSAU","Rest of SA",4,"South Australia",14409.4798,33,10,17,21,8,5
-268,40504,"Yorke Peninsula",405,"Barossa - Yorke - Mid North","4RSAU","Rest of SA",4,"South Australia",6740.7625,36,10,22,14,1,9
-269,40601,"Eyre Peninsula and South West",406,"South Australia - Outback","4RSAU","Rest of SA",4,"South Australia",235305.4796,33,10,13,12,7,2
-270,40602,"Outback - North and East",406,"South Australia - Outback","4RSAU","Rest of SA",4,"South Australia",642510.5005,35,10,100,19,0,3
-271,40701,"Fleurieu - Kangaroo Island",407,"South Australia - South East","4RSAU","Rest of SA",4,"South Australia",7363.5796,33,10,71,41,6,8
-272,40702,"Limestone Coast",407,"South Australia - South East","4RSAU","Rest of SA",4,"South Australia",21337.0782,34,10,44,25,9,1
-273,40703,"Murray and Mallee",407,"South Australia - South East","4RSAU","Rest of SA",4,"South Australia",36782.081,30,10,2,26,0,7
-276,50101,"Augusta - Margaret River - Busselton",501,"Bunbury","5RWAU","Rest of WA",5,"Western Australia",3664.3228,32,10,36,2,3,5
-277,50102,"Bunbury",501,"Bunbury","5RWAU","Rest of WA",5,"Western Australia",5449.5135,33,10,38,25,3,3
-278,50103,"Manjimup",501,"Bunbury","5RWAU","Rest of WA",5,"Western Australia",15688.5752,38,10,8,7,5,6
-279,50201,"Mandurah",502,"Mandurah","5GPER","Greater Perth",5,"Western Australia",1032.8628,35,10,7,27,7,3
-280,50301,"Cottesloe - Claremont",503,"Perth - Inner","5GPER","Greater Perth",5,"Western Australia",48.7155,31,10,45,47,10,5
-281,50302,"Perth City",503,"Perth - Inner","5GPER","Greater Perth",5,"Western Australia",43.5243,40,10,31,5,0,9
-282,50401,"Bayswater - Bassendean",504,"Perth - North East","5GPER","Greater Perth",5,"Western Australia",44.6692,70,10,79,22,4,2
-283,50402,"Mundaring",504,"Perth - North East","5GPER","Greater Perth",5,"Western Australia",685.4312,70,10,35,8,6,8
-284,50403,"Swan",504,"Perth - North East","5GPER","Greater Perth",5,"Western Australia",1032.3312,70,10,63,2,3,8
-285,50501,"Joondalup",505,"Perth - North West","5GPER","Greater Perth",5,"Western Australia",100.4725,70,10,49,46,5,6
-286,50502,"Stirling",505,"Perth - North West","5GPER","Greater Perth",5,"Western Australia",99.326,70,10,20,25,6,5
-287,50503,"Wanneroo",505,"Perth - North West","5GPER","Greater Perth",5,"Western Australia",684.2007,70,10,48,16,8,3
-288,50601,"Armadale",506,"Perth - South East","5GPER","Greater Perth",5,"Western Australia",559.5261,70,10,93,40,0,10
-289,50602,"Belmont - Victoria Park",506,"Perth - South East","5GPER","Greater Perth",5,"Western Australia",60.1099,70,10,58,43,1,1
-290,50603,"Canning",506,"Perth - South East","5GPER","Greater Perth",5,"Western Australia",68.1881,70,10,0,8,3,3
-291,50604,"Gosnells",506,"Perth - South East","5GPER","Greater Perth",5,"Western Australia",127.2975,70,10,32,22,11,7
-292,50605,"Kalamunda",506,"Perth - South East","5GPER","Greater Perth",5,"Western Australia",283.8,70,10,11,50,1,1
-293,50606,"Serpentine - Jarrahdale",506,"Perth - South East","5GPER","Greater Perth",5,"Western Australia",904.7637,70,10,26,2,9,10
-294,50607,"South Perth",506,"Perth - South East","5GPER","Greater Perth",5,"Western Australia",20.307,70,10,9,43,2,0
-295,50701,"Cockburn",507,"Perth - South West","5GPER","Greater Perth",5,"Western Australia",148.2099,70,10,47,35,9,10
-296,50702,"Fremantle",507,"Perth - South West","5GPER","Greater Perth",5,"Western Australia",41.3304,70,10,61,47,9,9
-297,50703,"Kwinana",507,"Perth - South West","5GPER","Greater Perth",5,"Western Australia",120.0121,70,10,85,45,8,9
-298,50704,"Melville",507,"Perth - South West","5GPER","Greater Perth",5,"Western Australia",53.4538,70,10,97,48,9,7
-299,50705,"Rockingham",507,"Perth - South West","5GPER","Greater Perth",5,"Western Australia",257.6898,70,10,94,50,10,8
-300,50901,"Albany",509,"Western Australia - Wheat Belt","5RWAU","Rest of WA",5,"Western Australia",37887.9925,70,10,45,48,5,3
-301,50902,"Wheat Belt - North",509,"Western Australia - Wheat Belt","5RWAU","Rest of WA",5,"Western Australia",110694.5781,70,10,82,43,1,2
-302,50903,"Wheat Belt - South",509,"Western Australia - Wheat Belt","5RWAU","Rest of WA",5,"Western Australia",48762.806,70,10,57,15,6,4
-303,51001,"Kimberley",510,"Western Australia - Outback (North)","5RWAU","Rest of WA",5,"Western Australia",419259.7904,38,10,63,30,8,8
-304,51002,"East Pilbara",510,"Western Australia - Outback (North)","5RWAU","Rest of WA",5,"Western Australia",390723.7799,34,10,29,34,3,3
-305,51003,"West Pilbara",510,"Western Australia - Outback (North)","5RWAU","Rest of WA",5,"Western Australia",116066.0891,31,10,97,18,9,8
-306,51101,"Esperance",511,"Western Australia - Outback (South)","5RWAU","Rest of WA",5,"Western Australia",55660.6598,39,10,52,16,5,10
-307,51102,"Gascoyne",511,"Western Australia - Outback (South)","5RWAU","Rest of WA",5,"Western Australia",135064.0785,34,10,63,28,4,4
-308,51103,"Goldfields",511,"Western Australia - Outback (South)","5RWAU","Rest of WA",5,"Western Australia",714513.0765,38,10,22,24,8,6
-309,51104,"Mid West",511,"Western Australia - Outback (South)","5RWAU","Rest of WA",5,"Western Australia",466794.7549,36,10,62,5,0,3
-312,60101,"Brighton",601,"Hobart","6GHOB","Greater Hobart",6,"Tasmania",176.0777,70,10,67,7,6,1
-313,60102,"Hobart - North East",601,"Hobart","6GHOB","Greater Hobart",6,"Tasmania",265.9415,70,10,1,48,7,6
-314,60103,"Hobart - North West",601,"Hobart","6GHOB","Greater Hobart",6,"Tasmania",168.2819,70,10,30,12,1,0
-315,60104,"Hobart - South and West",601,"Hobart","6GHOB","Greater Hobart",6,"Tasmania",328.5063,70,10,92,16,1,10
-316,60105,"Hobart Inner",601,"Hobart","6GHOB","Greater Hobart",6,"Tasmania",62.2246,70,10,4,11,6,2
-317,60106,"Sorell - Dodges Ferry",601,"Hobart","6GHOB","Greater Hobart",6,"Tasmania",694.3265,70,10,24,35,0,8
-318,60201,"Launceston",602,"Launceston and North East","6RTAS","Rest of Tas.",6,"Tasmania",260.7088,35,10,37,30,2,7
-319,60202,"Meander Valley - West Tamar",602,"Launceston and North East","6RTAS","Rest of Tas.",6,"Tasmania",3978.9606,35,10,70,45,1,4
-320,60203,"North East",602,"Launceston and North East","6RTAS","Rest of Tas.",6,"Tasmania",15735.6666,38,10,26,44,7,4
-321,60301,"Central Highlands (Tas.)",603,"South East","6RTAS","Rest of Tas.",6,"Tasmania",18426.733,39,10,13,46,9,6
-322,60302,"Huon - Bruny Island",603,"South East","6RTAS","Rest of Tas.",6,"Tasmania",2192.675,31,10,50,26,7,5
-323,60303,"South East Coast",603,"South East","6RTAS","Rest of Tas.",6,"Tasmania",3202.6087,34,10,96,43,4,6
-324,60401,"Burnie - Ulverstone",604,"West and North West","6RTAS","Rest of Tas.",6,"Tasmania",1604.4734,32,10,75,9,5,7
-325,60402,"Devonport",604,"West and North West","6RTAS","Rest of Tas.",6,"Tasmania",1894.3583,39,10,60,7,4,4
-326,60403,"West Coast",604,"West and North West","6RTAS","Rest of Tas.",6,"Tasmania",19026.3178,38,10,20,29,9,0
-329,70101,"Darwin City",701,"Darwin","7GDAR","Greater Darwin",7,"Northern Territory",40.6174,31,10,89,18,8,10
-330,70102,"Darwin Suburbs",701,"Darwin","7GDAR","Greater Darwin",7,"Northern Territory",132.4416,35,10,83,26,8,3
-331,70103,"Litchfield",701,"Darwin","7GDAR","Greater Darwin",7,"Northern Territory",2938.3179,30,10,24,8,10,1
-332,70104,"Palmerston",701,"Darwin","7GDAR","Greater Darwin",7,"Northern Territory",52.5288,38,10,13,39,0,3
-333,70201,"Alice Springs",702,"Northern Territory - Outback","7RNTE","Rest of NT",7,"Northern Territory",569564.7295,30,10,74,43,4,7
-334,70202,"Barkly",702,"Northern Territory - Outback","7RNTE","Rest of NT",7,"Northern Territory",303213.9847,33,10,56,9,10,0
-335,70203,"Daly - Tiwi - West Arnhem",702,"Northern Territory - Outback","7RNTE","Rest of NT",7,"Northern Territory",112294.8534,35,10,18,49,5,7
-336,70204,"East Arnhem",702,"Northern Territory - Outback","7RNTE","Rest of NT",7,"Northern Territory",33606.5893,30,10,23,49,7,3
-337,70205,"Katherine",702,"Northern Territory - Outback","7RNTE","Rest of NT",7,"Northern Territory",326250.2655,30,10,70,28,10,10
-340,80101,"Belconnen",801,"Australian Capital Territory","8ACTE","Australian Capital Territory",8,"Australian Capital Territory",112.1467,31,10,36,49,7,10
-341,80103,"Canberra East",801,"Australian Capital Territory","8ACTE","Australian Capital Territory",8,"Australian Capital Territory",211.9214,40,10,48,44,9,9
-342,80104,"Gungahlin",801,"Australian Capital Territory","8ACTE","Australian Capital Territory",8,"Australian Capital Territory",91.8565,38,10,20,16,7,6
-343,80105,"North Canberra",801,"Australian Capital Territory","8ACTE","Australian Capital Territory",8,"Australian Capital Territory",44.7227,33,10,88,24,9,8
-344,80106,"South Canberra",801,"Australian Capital Territory","8ACTE","Australian Capital Territory",8,"Australian Capital Territory",44.4112,35,10,97,14,7,6
-345,80107,"Tuggeranong",801,"Australian Capital Territory","8ACTE","Australian Capital Territory",8,"Australian Capital Territory",159.7084,33,10,49,27,1,3
-346,80108,"Weston Creek",801,"Australian Capital Territory","8ACTE","Australian Capital Territory",8,"Australian Capital Territory",18.1487,31,10,91,45,10,7
-347,80109,"Woden Valley",801,"Australian Capital Territory","8ACTE","Australian Capital Territory",8,"Australian Capital Territory",28.6004,39,10,59,46,0,5
-348,80110,"Molonglo",801,"Australian Capital Territory","8ACTE","Australian Capital Territory",8,"Australian Capital Territory",27.1506,31,10,3,20,10,2
-349,80111,"Urriarra - Namadgi",801,"Australian Capital Territory","8ACTE","Australian Capital Territory",8,"Australian Capital Territory",1619.5054,36,10,33,34,7,6
-352,90101,"Christmas Island",901,"Other Territories","9OTER","Other Territories",9,"Other Territories",136.1356,40,10,72,30,9,3
-353,90102,"Cocos (Keeling) Islands",901,"Other Territories","9OTER","Other Territories",9,"Other Territories",13.7163,39,10,100,23,6,3
-354,90103,"Jervis Bay",901,"Other Territories","9OTER","Other Territories",9,"Other Territories",67.8134,30,10,64,47,11,4
-355,90104,"Norfolk Island",901,"Other Territories","9OTER","Other Territories",9,"Other Territories",38.6509,30,10,30,40,2,5
+0,10102,"Queanbeyan",101,"Capital Region","1RNSW","Rest of NSW",1,"New South Wales",6511.1906,40,40,86,40,44,59
+1,10103,"Snowy Mountains",101,"Capital Region","1RNSW","Rest of NSW",1,"New South Wales",14283.4221,32,40,129,98,32,61
+2,10104,"South Coast",101,"Capital Region","1RNSW","Rest of NSW",1,"New South Wales",9864.868,37,40,129,54,48,42
+3,10105,"Goulburn - Mulwaree",101,"Capital Region","1RNSW","Rest of NSW",1,"New South Wales",9099.9086,34,40,34,55,63,42
+4,10106,"Young - Yass",101,"Capital Region","1RNSW","Rest of NSW",1,"New South Wales",12136.1738,32,40,59,35,55,26
+5,10201,"Gosford",102,"Central Coast","1GSYD","Greater Sydney",1,"New South Wales",988.4263,30,40,92,55,38,59
+6,10202,"Wyong",102,"Central Coast","1GSYD","Greater Sydney",1,"New South Wales",692.6461,32,40,98,84,66,51
+7,10301,"Bathurst",103,"Central West","1RNSW","Rest of NSW",1,"New South Wales",6984.183,33,40,150,19,48,49
+8,10302,"Lachlan Valley",103,"Central West","1RNSW","Rest of NSW",1,"New South Wales",41000.7206,35,40,149,40,56,65
+9,10303,"Lithgow - Mudgee",103,"Central West","1RNSW","Rest of NSW",1,"New South Wales",16044.6246,39,40,127,111,36,52
+10,10304,"Orange",103,"Central West","1RNSW","Rest of NSW",1,"New South Wales",6267.5322,30,40,123,47,65,44
+11,10401,"Clarence Valley",104,"Coffs Harbour - Grafton","1RNSW","Rest of NSW",1,"New South Wales",9263.1939,33,40,127,49,50,38
+12,10402,"Coffs Harbour",104,"Coffs Harbour - Grafton","1RNSW","Rest of NSW",1,"New South Wales",3966.5639,34,40,157,-19,43,54
+13,10501,"Bourke - Cobar - Coonamble",105,"Far West and Orana","1RNSW","Rest of NSW",1,"New South Wales",162765.126,36,40,94,63,43,54
+14,10502,"Broken Hill and Far West",105,"Far West and Orana","1RNSW","Rest of NSW",1,"New South Wales",146860.1758,30,40,87,48,48,60
+15,10503,"Dubbo",105,"Far West and Orana","1RNSW","Rest of NSW",1,"New South Wales",29738.3907,33,40,104,114,45,50
+16,10601,"Lower Hunter",106,"Hunter Valley exc Newcastle","1RNSW","Rest of NSW",1,"New South Wales",8566.7809,37,40,57,68,47,70
+17,10602,"Maitland",106,"Hunter Valley exc Newcastle","1RNSW","Rest of NSW",1,"New South Wales",380.1168,32,40,78,53,22,46
+18,10603,"Port Stephens",106,"Hunter Valley exc Newcastle","1RNSW","Rest of NSW",1,"New South Wales",1071.9768,38,40,91,49,52,61
+19,10604,"Upper Hunter",106,"Hunter Valley exc Newcastle","1RNSW","Rest of NSW",1,"New South Wales",11472.417,31,40,166,54,40,66
+20,10701,"Dapto - Port Kembla",107,"Illawarra","1RNSW","Rest of NSW",1,"New South Wales",163.6962,35,40,95,43,31,29
+21,10702,"Illawarra Catchment Reserve",107,"Illawarra","1RNSW","Rest of NSW",1,"New South Wales",744.3423,38,40,169,79,57,41
+22,10703,"Kiama - Shellharbour",107,"Illawarra","1RNSW","Rest of NSW",1,"New South Wales",390.7983,37,40,56,84,44,47
+23,10704,"Wollongong",107,"Illawarra","1RNSW","Rest of NSW",1,"New South Wales",240.0822,39,40,63,62,52,62
+24,10801,"Great Lakes",108,"Mid North Coast","1RNSW","Rest of NSW",1,"New South Wales",3133.0446,40,40,124,23,37,51
+25,10802,"Kempsey - Nambucca",108,"Mid North Coast","1RNSW","Rest of NSW",1,"New South Wales",5339.3249,32,40,116,55,32,56
+26,10803,"Lord Howe Island",108,"Mid North Coast","1RNSW","Rest of NSW",1,"New South Wales",16.2918,37,40,129,33,46,60
+27,10804,"Port Macquarie",108,"Mid North Coast","1RNSW","Rest of NSW",1,"New South Wales",3687.77,30,40,98,53,48,47
+28,10805,"Taree - Gloucester",108,"Mid North Coast","1RNSW","Rest of NSW",1,"New South Wales",6675.0682,38,40,89,25,62,37
+29,10901,"Albury",109,"Murray","1RNSW","Rest of NSW",1,"New South Wales",5597.4849,39,40,74,66,46,39
+30,10902,"Lower Murray",109,"Murray","1RNSW","Rest of NSW",1,"New South Wales",63968.2369,38,40,97,57,64,43
+31,10903,"Upper Murray exc. Albury",109,"Murray","1RNSW","Rest of NSW",1,"New South Wales",28231.9536,33,40,77,48,56,61
+32,11001,"Armidale",110,"New England and North West","1RNSW","Rest of NSW",1,"New South Wales",16395.6492,37,40,108,9,60,45
+33,11002,"Inverell - Tenterfield",110,"New England and North West","1RNSW","Rest of NSW",1,"New South Wales",30568.6383,39,40,109,39,52,36
+34,11003,"Moree - Narrabri",110,"New England and North West","1RNSW","Rest of NSW",1,"New South Wales",32026.5412,32,40,85,83,52,39
+35,11004,"Tamworth - Gunnedah",110,"New England and North West","1RNSW","Rest of NSW",1,"New South Wales",20155.0876,37,40,101,13,53,57
+36,11101,"Lake Macquarie - East",111,"Newcastle and Lake Macquarie","1RNSW","Rest of NSW",1,"New South Wales",138.0858,30,10,125,48,55,66
+37,11102,"Lake Macquarie - West",111,"Newcastle and Lake Macquarie","1RNSW","Rest of NSW",1,"New South Wales",507.6329,31,10,110,53,51,60
+38,11103,"Newcastle",111,"Newcastle and Lake Macquarie","1RNSW","Rest of NSW",1,"New South Wales",224.8933,30,10,99,90,53,48
+39,11201,"Richmond Valley - Coastal",112,"Richmond - Tweed","1RNSW","Rest of NSW",1,"New South Wales",1572.8877,32,10,125,49,51,49
+40,11202,"Richmond Valley - Hinterland",112,"Richmond - Tweed","1RNSW","Rest of NSW",1,"New South Wales",7390.5986,33,10,65,43,25,48
+41,11203,"Tweed Valley",112,"Richmond - Tweed","1RNSW","Rest of NSW",1,"New South Wales",1307.6562,36,10,74,38,41,47
+42,11301,"Griffith - Murrumbidgee (West)",113,"Riverina","1RNSW","Rest of NSW",1,"New South Wales",28859.6885,30,10,148,25,46,46
+43,11302,"Tumut - Tumbarumba",113,"Riverina","1RNSW","Rest of NSW",1,"New South Wales",9174.7645,36,10,111,67,34,67
+44,11303,"Wagga Wagga",113,"Riverina","1RNSW","Rest of NSW",1,"New South Wales",18950.5659,30,10,78,70,39,38
+45,11401,"Shoalhaven",114,"Southern Highlands and Shoalhaven","1RNSW","Rest of NSW",1,"New South Wales",4374.4257,36,10,156,33,35,49
+46,11402,"Southern Highlands",114,"Southern Highlands and Shoalhaven","1RNSW","Rest of NSW",1,"New South Wales",2330.0144,30,10,130,132,63,23
+47,11501,"Baulkham Hills",115,"Sydney - Baulkham Hills and Hawkesbury","1GSYD","Greater Sydney",1,"New South Wales",72.0257,70,10,123,69,57,48
+48,11502,"Dural - Wisemans Ferry",115,"Sydney - Baulkham Hills and Hawkesbury","1GSYD","Greater Sydney",1,"New South Wales",569.2386,70,10,112,77,71,47
+49,11503,"Hawkesbury",115,"Sydney - Baulkham Hills and Hawkesbury","1GSYD","Greater Sydney",1,"New South Wales",2492.0101,70,10,125,9,39,30
+50,11504,"Rouse Hill - McGraths Hill",115,"Sydney - Baulkham Hills and Hawkesbury","1GSYD","Greater Sydney",1,"New South Wales",118.2241,70,10,107,25,50,44
+51,11601,"Blacktown",116,"Sydney - Blacktown","1GSYD","Greater Sydney",1,"New South Wales",56.3066,70,10,136,25,40,52
+52,11602,"Blacktown - North",116,"Sydney - Blacktown","1GSYD","Greater Sydney",1,"New South Wales",103.0669,120,10,53,3,64,45
+53,11603,"Mount Druitt",116,"Sydney - Blacktown","1GSYD","Greater Sydney",1,"New South Wales",82.7116,70,10,75,43,48,54
+54,11701,"Botany",117,"Sydney - City and Inner South","1GSYD","Greater Sydney",1,"New South Wales",27.7978,70,10,89,66,29,56
+55,11702,"Marrickville - Sydenham - Petersham",117,"Sydney - City and Inner South","1GSYD","Greater Sydney",1,"New South Wales",12.6699,70,10,100,61,42,42
+56,11703,"Sydney Inner City",117,"Sydney - City and Inner South","1GSYD","Greater Sydney",1,"New South Wales",25.0641,70,10,125,107,56,39
+57,11801,"Eastern Suburbs - North",118,"Sydney - Eastern Suburbs","1GSYD","Greater Sydney",1,"New South Wales",26.1849,70,10,63,60,37,50
+58,11802,"Eastern Suburbs - South",118,"Sydney - Eastern Suburbs","1GSYD","Greater Sydney",1,"New South Wales",31.5481,70,10,105,1,56,39
+59,11901,"Bankstown",119,"Sydney - Inner South West","1GSYD","Greater Sydney",1,"New South Wales",68.6674,70,10,33,43,63,41
+60,11902,"Canterbury",119,"Sydney - Inner South West","1GSYD","Greater Sydney",1,"New South Wales",29.9646,70,10,53,-7,46,61
+61,11903,"Hurstville",119,"Sydney - Inner South West","1GSYD","Greater Sydney",1,"New South Wales",33.9553,70,10,55,47,37,53
+62,11904,"Kogarah - Rockdale",119,"Sydney - Inner South West","1GSYD","Greater Sydney",1,"New South Wales",31.3479,70,10,60,80,34,30
+63,12001,"Canada Bay",120,"Sydney - Inner West","1GSYD","Greater Sydney",1,"New South Wales",19.7471,70,10,75,79,49,40
+64,12002,"Leichhardt",120,"Sydney - Inner West","1GSYD","Greater Sydney",1,"New South Wales",10.6577,70,10,103,41,69,46
+65,12003,"Strathfield - Burwood - Ashfield",120,"Sydney - Inner West","1GSYD","Greater Sydney",1,"New South Wales",34.1433,70,10,112,53,46,46
+66,12101,"Chatswood - Lane Cove",121,"Sydney - North Sydney and Hornsby","1GSYD","Greater Sydney",1,"New South Wales",33.1739,70,10,127,14,47,58
+67,12102,"Hornsby",121,"Sydney - North Sydney and Hornsby","1GSYD","Greater Sydney",1,"New South Wales",137.3989,70,10,95,32,45,58
+68,12103,"Ku-ring-gai",121,"Sydney - North Sydney and Hornsby","1GSYD","Greater Sydney",1,"New South Wales",85.5466,70,10,82,84,54,62
+69,12104,"North Sydney - Mosman",121,"Sydney - North Sydney and Hornsby","1GSYD","Greater Sydney",1,"New South Wales",18.9756,70,10,116,99,44,36
+70,12201,"Manly",122,"Sydney - Northern Beaches","1GSYD","Greater Sydney",1,"New South Wales",14.3455,70,10,72,51,42,45
+71,12202,"Pittwater",122,"Sydney - Northern Beaches","1GSYD","Greater Sydney",1,"New South Wales",90.6495,70,10,95,95,67,42
+72,12203,"Warringah",122,"Sydney - Northern Beaches","1GSYD","Greater Sydney",1,"New South Wales",149.2124,70,10,139,32,50,28
+73,12301,"Camden",123,"Sydney - Outer South West","1GSYD","Greater Sydney",1,"New South Wales",73.8688,70,10,65,89,67,57
+74,12302,"Campbelltown (NSW)",123,"Sydney - Outer South West","1GSYD","Greater Sydney",1,"New South Wales",334.2221,70,10,90,31,70,32
+75,12303,"Wollondilly",123,"Sydney - Outer South West","1GSYD","Greater Sydney",1,"New South Wales",870.3604,70,10,142,62,39,45
+76,12401,"Blue Mountains",124,"Sydney - Outer West and Blue Mountains","1GSYD","Greater Sydney",1,"New South Wales",942.4079,70,10,123,83,65,50
+77,12402,"Blue Mountains - South",124,"Sydney - Outer West and Blue Mountains","1GSYD","Greater Sydney",1,"New South Wales",2456.9093,70,10,64,78,49,42
+78,12403,"Penrith",124,"Sydney - Outer West and Blue Mountains","1GSYD","Greater Sydney",1,"New South Wales",356.8585,70,10,90,20,57,55
+79,12404,"Richmond - Windsor",124,"Sydney - Outer West and Blue Mountains","1GSYD","Greater Sydney",1,"New South Wales",178.8387,70,10,101,9,50,37
+80,12405,"St Marys",124,"Sydney - Outer West and Blue Mountains","1GSYD","Greater Sydney",1,"New South Wales",33.1146,70,10,90,98,61,44
+81,12501,"Auburn",125,"Sydney - Parramatta","1GSYD","Greater Sydney",1,"New South Wales",33.0601,70,10,63,24,55,37
+82,12502,"Carlingford",125,"Sydney - Parramatta","1GSYD","Greater Sydney",1,"New South Wales",25.6874,70,10,91,47,32,44
+83,12503,"Merrylands - Guildford",125,"Sydney - Parramatta","1GSYD","Greater Sydney",1,"New South Wales",55.7969,70,10,65,73,42,58
+84,12504,"Parramatta",125,"Sydney - Parramatta","1GSYD","Greater Sydney",1,"New South Wales",47.0914,70,10,61,44,46,62
+85,12601,"Pennant Hills - Epping",126,"Sydney - Ryde","1GSYD","Greater Sydney",1,"New South Wales",22.1743,70,10,137,69,53,53
+86,12602,"Ryde - Hunters Hill",126,"Sydney - Ryde","1GSYD","Greater Sydney",1,"New South Wales",47.1626,70,10,62,92,40,53
+87,12701,"Bringelly - Green Valley",127,"Sydney - South West","1GSYD","Greater Sydney",1,"New South Wales",291.4688,70,10,94,107,41,56
+88,12702,"Fairfield",127,"Sydney - South West","1GSYD","Greater Sydney",1,"New South Wales",123.7701,70,10,113,16,54,47
+89,12703,"Liverpool",127,"Sydney - South West","1GSYD","Greater Sydney",1,"New South Wales",123.8297,70,10,161,-1,51,27
+90,12801,"Cronulla - Miranda - Caringbah",128,"Sydney - Sutherland","1GSYD","Greater Sydney",1,"New South Wales",55.6181,37,10,103,59,47,43
+91,12802,"Sutherland - Menai - Heathcote",128,"Sydney - Sutherland","1GSYD","Greater Sydney",1,"New South Wales",240.2471,37,10,135,35,54,57
+94,20101,"Ballarat",201,"Ballarat","2RVIC","Rest of Vic.",2,"Victoria",448.3487,40,10,87,33,63,49
+95,20102,"Creswick - Daylesford - Ballan",201,"Ballarat","2RVIC","Rest of Vic.",2,"Victoria",3666.673,37,10,131,96,37,37
+96,20103,"Maryborough - Pyrenees",201,"Ballarat","2RVIC","Rest of Vic.",2,"Victoria",6172.4542,31,10,49,66,51,54
+97,20201,"Bendigo",202,"Bendigo","2RVIC","Rest of Vic.",2,"Victoria",287.4438,34,10,94,-11,61,38
+98,20202,"Heathcote - Castlemaine - Kyneton",202,"Bendigo","2RVIC","Rest of Vic.",2,"Victoria",3920.9382,36,10,86,35,72,62
+99,20203,"Loddon - Elmore",202,"Bendigo","2RVIC","Rest of Vic.",2,"Victoria",7633.5242,34,10,114,44,61,41
+100,20301,"Barwon - West",203,"Geelong","2RVIC","Rest of Vic.",2,"Victoria",2579.8385,38,10,96,31,49,40
+101,20302,"Geelong",203,"Geelong","2RVIC","Rest of Vic.",2,"Victoria",918.8917,38,10,74,43,60,46
+102,20303,"Surf Coast - Bellarine Peninsula",203,"Geelong","2RVIC","Rest of Vic.",2,"Victoria",929.9691,31,10,103,90,63,45
+103,20401,"Upper Goulburn Valley",204,"Hume","2RVIC","Rest of Vic.",2,"Victoria",13959.3182,33,10,144,113,40,51
+104,20402,"Wangaratta - Benalla",204,"Hume","2RVIC","Rest of Vic.",2,"Victoria",6545.0857,39,10,89,43,51,53
+105,20403,"Wodonga - Alpine",204,"Hume","2RVIC","Rest of Vic.",2,"Victoria",13501.1315,33,10,121,37,60,47
+106,20501,"Baw Baw",205,"Latrobe - Gippsland","2RVIC","Rest of Vic.",2,"Victoria",3933.8416,35,10,83,71,46,45
+107,20502,"Gippsland - East",205,"Latrobe - Gippsland","2RVIC","Rest of Vic.",2,"Victoria",21713.8498,33,10,138,77,32,47
+108,20503,"Gippsland - South West",205,"Latrobe - Gippsland","2RVIC","Rest of Vic.",2,"Victoria",4381.6191,37,10,135,28,46,50
+109,20504,"Latrobe Valley",205,"Latrobe - Gippsland","2RVIC","Rest of Vic.",2,"Victoria",1479.6674,30,10,124,80,47,58
+110,20505,"Wellington",205,"Latrobe - Gippsland","2RVIC","Rest of Vic.",2,"Victoria",10044.7738,35,10,50,104,35,52
+111,20601,"Brunswick - Coburg",206,"Melbourne - Inner","2GMEL","Greater Melbourne",2,"Victoria",20.4133,70,10,90,96,52,66
+112,20602,"Darebin - South",206,"Melbourne - Inner","2GMEL","Greater Melbourne",2,"Victoria",14.0275,70,10,83,72,56,54
+113,20603,"Essendon",206,"Melbourne - Inner","2GMEL","Greater Melbourne",2,"Victoria",18.215,70,10,103,52,45,37
+114,20604,"Melbourne City",206,"Melbourne - Inner","2GMEL","Greater Melbourne",2,"Victoria",31.4622,70,10,94,28,43,48
+115,20605,"Port Phillip",206,"Melbourne - Inner","2GMEL","Greater Melbourne",2,"Victoria",25.6958,70,10,64,53,61,45
+116,20606,"Stonnington - West",206,"Melbourne - Inner","2GMEL","Greater Melbourne",2,"Victoria",11.9294,70,10,120,94,67,49
+117,20607,"Yarra",206,"Melbourne - Inner","2GMEL","Greater Melbourne",2,"Victoria",20.6163,70,10,121,63,32,35
+118,20701,"Boroondara",207,"Melbourne - Inner East","2GMEL","Greater Melbourne",2,"Victoria",60.0157,70,10,98,55,40,43
+119,20702,"Manningham - West",207,"Melbourne - Inner East","2GMEL","Greater Melbourne",2,"Victoria",48.6724,70,10,124,34,63,52
+120,20703,"Whitehorse - West",207,"Melbourne - Inner East","2GMEL","Greater Melbourne",2,"Victoria",38.0551,70,10,100,38,50,39
+121,20801,"Bayside",208,"Melbourne - Inner South","2GMEL","Greater Melbourne",2,"Victoria",37.2111,70,10,63,39,60,51
+122,20802,"Glen Eira",208,"Melbourne - Inner South","2GMEL","Greater Melbourne",2,"Victoria",40.7002,70,10,93,72,37,40
+123,20803,"Kingston",208,"Melbourne - Inner South","2GMEL","Greater Melbourne",2,"Victoria",69.8633,70,10,108,53,47,45
+124,20804,"Stonnington - East",208,"Melbourne - Inner South","2GMEL","Greater Melbourne",2,"Victoria",13.722,70,10,113,82,44,47
+125,20901,"Banyule",209,"Melbourne - North East","2GMEL","Greater Melbourne",2,"Victoria",62.6133,70,10,109,74,41,49
+126,20902,"Darebin - North",209,"Melbourne - North East","2GMEL","Greater Melbourne",2,"Victoria",39.4436,70,10,125,61,59,50
+127,20903,"Nillumbik - Kinglake",209,"Melbourne - North East","2GMEL","Greater Melbourne",2,"Victoria",751.7682,70,10,92,79,42,47
+128,20904,"Whittlesea - Wallan",209,"Melbourne - North East","2GMEL","Greater Melbourne",2,"Victoria",997.4394,70,10,92,56,50,58
+129,21001,"Keilor",210,"Melbourne - North West","2GMEL","Greater Melbourne",2,"Victoria",42.425,70,10,102,32,56,52
+130,21002,"Macedon Ranges",210,"Melbourne - North West","2GMEL","Greater Melbourne",2,"Victoria",992.107,70,10,96,-6,32,63
+131,21003,"Moreland - North",210,"Melbourne - North West","2GMEL","Greater Melbourne",2,"Victoria",30.3779,70,10,97,33,57,45
+132,21004,"Sunbury",210,"Melbourne - North West","2GMEL","Greater Melbourne",2,"Victoria",260.6847,70,10,45,4,39,67
+133,21005,"Tullamarine - Broadmeadows",210,"Melbourne - North West","2GMEL","Greater Melbourne",2,"Victoria",294.0954,70,10,27,77,55,39
+134,21101,"Knox",211,"Melbourne - Outer East","2GMEL","Greater Melbourne",2,"Victoria",118.3019,70,10,133,70,52,56
+135,21102,"Manningham - East",211,"Melbourne - Outer East","2GMEL","Greater Melbourne",2,"Victoria",66.5619,70,10,41,98,44,53
+136,21103,"Maroondah",211,"Melbourne - Outer East","2GMEL","Greater Melbourne",2,"Victoria",61.1872,70,10,165,-5,43,42
+137,21104,"Whitehorse - East",211,"Melbourne - Outer East","2GMEL","Greater Melbourne",2,"Victoria",26.5696,70,10,99,49,45,60
+138,21105,"Yarra Ranges",211,"Melbourne - Outer East","2GMEL","Greater Melbourne",2,"Victoria",1605.937,70,10,62,76,63,41
+139,21201,"Cardinia",212,"Melbourne - South East","2GMEL","Greater Melbourne",2,"Victoria",1282.327,70,10,142,58,57,40
+140,21202,"Casey - North",212,"Melbourne - South East","2GMEL","Greater Melbourne",2,"Victoria",116.503,70,10,100,-19,51,40
+141,21203,"Casey - South",212,"Melbourne - South East","2GMEL","Greater Melbourne",2,"Victoria",292.9259,70,10,79,83,51,38
+142,21204,"Dandenong",212,"Melbourne - South East","2GMEL","Greater Melbourne",2,"Victoria",151.0513,70,10,89,53,53,61
+143,21205,"Monash",212,"Melbourne - South East","2GMEL","Greater Melbourne",2,"Victoria",79.4733,70,10,99,63,40,63
+144,21301,"Brimbank",213,"Melbourne - West","2GMEL","Greater Melbourne",2,"Victoria",106.8497,70,10,106,30,30,35
+145,21302,"Hobsons Bay",213,"Melbourne - West","2GMEL","Greater Melbourne",2,"Victoria",62.2158,70,10,171,6,44,42
+146,21303,"Maribyrnong",213,"Melbourne - West","2GMEL","Greater Melbourne",2,"Victoria",31.2254,70,10,96,80,60,63
+147,21304,"Melton - Bacchus Marsh",213,"Melbourne - West","2GMEL","Greater Melbourne",2,"Victoria",671.9436,70,10,71,-4,42,53
+148,21305,"Wyndham",213,"Melbourne - West","2GMEL","Greater Melbourne",2,"Victoria",544.1195,70,10,91,8,47,56
+149,21401,"Frankston",214,"Mornington Peninsula","2GMEL","Greater Melbourne",2,"Victoria",129.598,34,10,135,59,66,51
+150,21402,"Mornington Peninsula",214,"Mornington Peninsula","2GMEL","Greater Melbourne",2,"Victoria",724.1679,39,10,159,99,64,51
+151,21501,"Grampians",215,"North West","2RVIC","Rest of Vic.",2,"Victoria",38139.2062,30,10,70,75,43,27
+152,21502,"Mildura",215,"North West","2RVIC","Rest of Vic.",2,"Victoria",22082.4836,33,10,105,47,61,64
+153,21503,"Murray River - Swan Hill",215,"North West","2RVIC","Rest of Vic.",2,"Victoria",17851.0467,38,10,116,3,45,52
+154,21601,"Campaspe",216,"Shepparton","2RVIC","Rest of Vic.",2,"Victoria",4554.5687,31,10,87,47,50,54
+155,21602,"Moira",216,"Shepparton","2RVIC","Rest of Vic.",2,"Victoria",4046.3738,37,10,110,64,43,44
+156,21603,"Shepparton",216,"Shepparton","2RVIC","Rest of Vic.",2,"Victoria",2333.1626,39,10,96,67,46,38
+157,21701,"Glenelg - Southern Grampians",217,"Warrnambool and South West","2RVIC","Rest of Vic.",2,"Victoria",12946.1764,40,10,82,21,53,56
+158,21703,"Colac - Corangamite",217,"Warrnambool and South West","2RVIC","Rest of Vic.",2,"Victoria",7936.5548,30,10,141,58,52,41
+159,21704,"Warrnambool",217,"Warrnambool and South West","2RVIC","Rest of Vic.",2,"Victoria",5496.1773,35,10,107,9,58,50
+162,30101,"Capalaba",301,"Brisbane - East","3GBRI","Greater Brisbane",3,"Queensland",89.2959,39,10,105,89,42,51
+163,30102,"Cleveland - Stradbroke",301,"Brisbane - East","3GBRI","Greater Brisbane",3,"Queensland",480.9783,31,10,77,-13,58,56
+164,30103,"Wynnum - Manly",301,"Brisbane - East","3GBRI","Greater Brisbane",3,"Queensland",82.8584,34,10,105,71,63,52
+165,30201,"Bald Hills - Everton Park",302,"Brisbane - North","3GBRI","Greater Brisbane",3,"Queensland",35.9309,70,10,37,19,57,57
+166,30202,"Chermside",302,"Brisbane - North","3GBRI","Greater Brisbane",3,"Queensland",32.2389,70,10,153,67,46,48
+167,30203,"Nundah",302,"Brisbane - North","3GBRI","Greater Brisbane",3,"Queensland",87.0319,70,10,105,93,51,46
+168,30204,"Sandgate",302,"Brisbane - North","3GBRI","Greater Brisbane",3,"Queensland",31.7473,70,10,53,39,38,45
+169,30301,"Carindale",303,"Brisbane - South","3GBRI","Greater Brisbane",3,"Queensland",26.5108,70,10,59,19,67,57
+170,30302,"Holland Park - Yeronga",303,"Brisbane - South","3GBRI","Greater Brisbane",3,"Queensland",27.565,70,10,125,55,58,71
+171,30303,"Mt Gravatt",303,"Brisbane - South","3GBRI","Greater Brisbane",3,"Queensland",79.3868,70,10,130,138,57,36
+172,30304,"Nathan",303,"Brisbane - South","3GBRI","Greater Brisbane",3,"Queensland",24.4776,70,10,146,27,53,50
+173,30305,"Rocklea - Acacia Ridge",303,"Brisbane - South","3GBRI","Greater Brisbane",3,"Queensland",85.2444,70,10,123,53,55,47
+174,30306,"Sunnybank",303,"Brisbane - South","3GBRI","Greater Brisbane",3,"Queensland",22.16,70,10,24,62,51,45
+175,30401,"Centenary",304,"Brisbane - West","3GBRI","Greater Brisbane",3,"Queensland",16.9755,70,10,103,-15,43,56
+176,30402,"Kenmore - Brookfield - Moggill",304,"Brisbane - West","3GBRI","Greater Brisbane",3,"Queensland",134.6112,70,10,65,16,46,35
+177,30403,"Sherwood - Indooroopilly",304,"Brisbane - West","3GBRI","Greater Brisbane",3,"Queensland",21.2964,70,10,91,60,59,48
+178,30404,"The Gap - Enoggera",304,"Brisbane - West","3GBRI","Greater Brisbane",3,"Queensland",96.768,70,10,89,59,43,45
+179,30501,"Brisbane Inner",305,"Brisbane Inner City","3GBRI","Greater Brisbane",3,"Queensland",13.5589,70,10,62,81,49,55
+180,30502,"Brisbane Inner - East",305,"Brisbane Inner City","3GBRI","Greater Brisbane",3,"Queensland",15.5989,70,10,82,25,51,46
+181,30503,"Brisbane Inner - North",305,"Brisbane Inner City","3GBRI","Greater Brisbane",3,"Queensland",30.9461,70,10,105,69,58,55
+182,30504,"Brisbane Inner - West",305,"Brisbane Inner City","3GBRI","Greater Brisbane",3,"Queensland",21.6355,70,10,52,65,67,47
+183,30601,"Cairns - North",306,"Cairns","3RQLD","Rest of Qld",3,"Queensland",160.3157,33,10,93,38,56,42
+184,30602,"Cairns - South",306,"Cairns","3RQLD","Rest of Qld",3,"Queensland",633.4659,31,10,86,45,36,67
+185,30603,"Innisfail - Cassowary Coast",306,"Cairns","3RQLD","Rest of Qld",3,"Queensland",5995.1825,40,10,85,59,38,45
+186,30604,"Port Douglas - Daintree",306,"Cairns","3RQLD","Rest of Qld",3,"Queensland",2421.0913,31,10,96,-23,52,33
+187,30605,"Tablelands (East) - Kuranda",306,"Cairns","3RQLD","Rest of Qld",3,"Queensland",12127.9129,37,10,121,27,50,33
+188,30701,"Darling Downs (West) - Maranoa",307,"Darling Downs - Maranoa","3RQLD","Rest of Qld",3,"Queensland",141252.7846,33,10,117,3,53,56
+189,30702,"Darling Downs - East",307,"Darling Downs - Maranoa","3RQLD","Rest of Qld",3,"Queensland",16653.3007,36,10,75,60,49,57
+190,30703,"Granite Belt",307,"Darling Downs - Maranoa","3RQLD","Rest of Qld",3,"Queensland",8433.9715,31,10,84,64,38,55
+191,30801,"Central Highlands (Qld)",308,"Central Queensland","3RQLD","Rest of Qld",3,"Queensland",60225.3937,34,10,144,18,53,60
+192,30803,"Rockhampton",308,"Central Queensland","3RQLD","Rest of Qld",3,"Queensland",18328.135,35,10,90,7,57,54
+193,30804,"Biloela",308,"Central Queensland","3RQLD","Rest of Qld",3,"Queensland",28550.1865,32,10,117,74,58,71
+194,30805,"Gladstone",308,"Central Queensland","3RQLD","Rest of Qld",3,"Queensland",10484.2862,37,10,180,101,53,56
+195,30901,"Broadbeach - Burleigh",309,"Gold Coast","3RQLD","Rest of Qld",3,"Queensland",33.6726,36,10,94,11,45,41
+196,30902,"Coolangatta",309,"Gold Coast","3RQLD","Rest of Qld",3,"Queensland",34.9725,32,10,108,30,49,51
+197,30903,"Gold Coast - North",309,"Gold Coast","3RQLD","Rest of Qld",3,"Queensland",40.6693,33,10,116,43,55,68
+198,30904,"Gold Coast Hinterland",309,"Gold Coast","3RQLD","Rest of Qld",3,"Queensland",827.9592,35,10,94,62,68,66
+199,30905,"Mudgeeraba - Tallebudgera",309,"Gold Coast","3RQLD","Rest of Qld",3,"Queensland",189.204,36,10,116,43,48,56
+200,30906,"Nerang",309,"Gold Coast","3RQLD","Rest of Qld",3,"Queensland",123.1533,33,10,84,54,57,63
+201,30907,"Ormeau - Oxenford",309,"Gold Coast","3RQLD","Rest of Qld",3,"Queensland",519.8616,35,10,84,51,38,59
+202,30908,"Robina",309,"Gold Coast","3RQLD","Rest of Qld",3,"Queensland",33.6325,36,10,75,16,73,51
+203,30909,"Southport",309,"Gold Coast","3RQLD","Rest of Qld",3,"Queensland",34.9594,37,10,90,42,51,28
+204,30910,"Surfers Paradise",309,"Gold Coast","3RQLD","Rest of Qld",3,"Queensland",19.801,38,10,99,78,58,41
+205,31001,"Forest Lake - Oxley",310,"Ipswich","3GBRI","Greater Brisbane",3,"Queensland",63.7142,32,10,68,9,56,48
+206,31002,"Ipswich Hinterland",310,"Ipswich","3GBRI","Greater Brisbane",3,"Queensland",6135.7833,35,10,99,14,55,59
+207,31003,"Ipswich Inner",310,"Ipswich","3GBRI","Greater Brisbane",3,"Queensland",378.0564,34,10,169,-24,41,47
+208,31004,"Springfield - Redbank",310,"Ipswich","3GBRI","Greater Brisbane",3,"Queensland",103.593,30,10,73,75,67,44
+209,31101,"Beaudesert",311,"Logan - Beaudesert","3GBRI","Greater Brisbane",3,"Queensland",1628.0131,34,10,88,95,49,49
+210,31102,"Beenleigh",311,"Logan - Beaudesert","3GBRI","Greater Brisbane",3,"Queensland",60.1506,39,10,122,52,50,51
+211,31103,"Browns Plains",311,"Logan - Beaudesert","3GBRI","Greater Brisbane",3,"Queensland",169.579,36,10,120,25,40,64
+212,31104,"Jimboomba",311,"Logan - Beaudesert","3GBRI","Greater Brisbane",3,"Queensland",582.4324,39,10,94,90,59,44
+213,31105,"Loganlea - Carbrook",311,"Logan - Beaudesert","3GBRI","Greater Brisbane",3,"Queensland",88.7275,31,10,86,8,49,60
+214,31106,"Springwood - Kingston",311,"Logan - Beaudesert","3GBRI","Greater Brisbane",3,"Queensland",57.2427,33,10,140,42,64,56
+215,31201,"Bowen Basin - North",312,"Mackay - Isaac - Whitsunday","3RQLD","Rest of Qld",3,"Queensland",79852.782,36,10,99,97,32,53
+216,31202,"Mackay",312,"Mackay - Isaac - Whitsunday","3RQLD","Rest of Qld",3,"Queensland",7613.2964,36,10,123,51,59,43
+217,31203,"Whitsunday",312,"Mackay - Isaac - Whitsunday","3RQLD","Rest of Qld",3,"Queensland",2674.0276,38,10,112,20,41,65
+218,31301,"Bribie - Beachmere",313,"Moreton Bay - North","3GBRI","Greater Brisbane",3,"Queensland",255.4466,37,10,127,15,45,70
+219,31302,"Caboolture",313,"Moreton Bay - North","3GBRI","Greater Brisbane",3,"Queensland",314.7209,40,10,102,78,43,60
+220,31303,"Caboolture Hinterland",313,"Moreton Bay - North","3GBRI","Greater Brisbane",3,"Queensland",3388.2856,35,10,63,41,37,43
+221,31304,"Narangba - Burpengary",313,"Moreton Bay - North","3GBRI","Greater Brisbane",3,"Queensland",172.4136,37,10,107,49,55,52
+222,31305,"Redcliffe",313,"Moreton Bay - North","3GBRI","Greater Brisbane",3,"Queensland",213.5898,39,10,103,74,43,45
+223,31401,"The Hills District",314,"Moreton Bay - South","3GBRI","Greater Brisbane",3,"Queensland",668.6809,37,10,146,50,19,60
+224,31402,"North Lakes",314,"Moreton Bay - South","3GBRI","Greater Brisbane",3,"Queensland",66.3175,39,10,88,60,49,68
+225,31403,"Strathpine",314,"Moreton Bay - South","3GBRI","Greater Brisbane",3,"Queensland",38.3965,37,10,65,53,57,57
+226,31501,"Far North",315,"Queensland - Outback","3RQLD","Rest of Qld",3,"Queensland",250877.5904,33,10,98,67,60,56
+227,31502,"Outback - North",315,"Queensland - Outback","3RQLD","Rest of Qld",3,"Queensland",307082.1758,35,10,102,-13,40,60
+228,31503,"Outback - South",315,"Queensland - Outback","3RQLD","Rest of Qld",3,"Queensland",625222.9542,31,10,103,77,54,67
+229,31601,"Buderim",316,"Sunshine Coast","3RQLD","Rest of Qld",3,"Queensland",76.3839,30,10,79,57,38,48
+230,31602,"Caloundra",316,"Sunshine Coast","3RQLD","Rest of Qld",3,"Queensland",113.1062,32,10,113,24,66,51
+231,31603,"Maroochy",316,"Sunshine Coast","3RQLD","Rest of Qld",3,"Queensland",70.3493,30,10,104,0,39,34
+232,31605,"Noosa",316,"Sunshine Coast","3RQLD","Rest of Qld",3,"Queensland",92.1032,38,10,79,32,44,56
+233,31606,"Sunshine Coast Hinterland",316,"Sunshine Coast","3RQLD","Rest of Qld",3,"Queensland",1568.0164,39,10,39,18,43,49
+234,31607,"Nambour",316,"Sunshine Coast","3RQLD","Rest of Qld",3,"Queensland",345.8864,39,10,125,20,53,41
+235,31608,"Noosa Hinterland",316,"Sunshine Coast","3RQLD","Rest of Qld",3,"Queensland",820.066,33,10,92,1,32,69
+236,31701,"Toowoomba",317,"Toowoomba","3RQLD","Rest of Qld",3,"Queensland",2258.7955,39,10,92,19,64,38
+237,31801,"Charters Towers - Ayr - Ingham",318,"Townsville","3RQLD","Rest of Qld",3,"Queensland",76209.8053,40,10,48,65,51,59
+238,31802,"Townsville",318,"Townsville","3RQLD","Rest of Qld",3,"Queensland",3826.2924,38,10,82,68,45,59
+239,31901,"Bundaberg",319,"Wide Bay","3RQLD","Rest of Qld",3,"Queensland",3786.0126,30,10,6,20,46,61
+240,31902,"Burnett",319,"Wide Bay","3RQLD","Rest of Qld",3,"Queensland",30736.8312,37,10,209,74,44,41
+241,31903,"Gympie - Cooloola",319,"Wide Bay","3RQLD","Rest of Qld",3,"Queensland",6975.2278,32,10,125,13,56,33
+242,31904,"Hervey Bay",319,"Wide Bay","3RQLD","Rest of Qld",3,"Queensland",251.5569,36,10,44,63,55,21
+243,31905,"Maryborough",319,"Wide Bay","3RQLD","Rest of Qld",3,"Queensland",6752.9516,33,10,65,72,63,52
+246,40101,"Adelaide City",401,"Adelaide - Central and Hills","4GADE","Greater Adelaide",4,"South Australia",15.5733,31,10,109,-34,61,48
+247,40102,"Adelaide Hills",401,"Adelaide - Central and Hills","4GADE","Greater Adelaide",4,"South Australia",1388.1168,30,10,47,64,56,56
+248,40103,"Burnside",401,"Adelaide - Central and Hills","4GADE","Greater Adelaide",4,"South Australia",27.5183,40,10,100,-15,53,44
+249,40104,"Campbelltown (SA)",401,"Adelaide - Central and Hills","4GADE","Greater Adelaide",4,"South Australia",25.368,31,10,105,38,56,42
+250,40105,"Norwood - Payneham - St Peters",401,"Adelaide - Central and Hills","4GADE","Greater Adelaide",4,"South Australia",15.1036,40,10,105,89,58,45
+251,40106,"Prospect - Walkerville",401,"Adelaide - Central and Hills","4GADE","Greater Adelaide",4,"South Australia",11.3215,30,10,124,53,42,54
+252,40107,"Unley",401,"Adelaide - Central and Hills","4GADE","Greater Adelaide",4,"South Australia",14.2703,30,10,100,55,63,39
+253,40201,"Gawler - Two Wells",402,"Adelaide - North","4GADE","Greater Adelaide",4,"South Australia",306.865,37,10,146,19,41,42
+254,40202,"Playford",402,"Adelaide - North","4GADE","Greater Adelaide",4,"South Australia",356.8029,35,10,105,64,48,56
+255,40203,"Port Adelaide - East",402,"Adelaide - North","4GADE","Greater Adelaide",4,"South Australia",34.8399,31,10,33,45,72,51
+256,40204,"Salisbury",402,"Adelaide - North","4GADE","Greater Adelaide",4,"South Australia",150.1709,34,10,172,55,39,39
+257,40205,"Tea Tree Gully",402,"Adelaide - North","4GADE","Greater Adelaide",4,"South Australia",91.314,36,10,39,21,57,38
+258,40301,"Holdfast Bay",403,"Adelaide - South","4GADE","Greater Adelaide",4,"South Australia",13.14,34,10,71,82,47,55
+259,40302,"Marion",403,"Adelaide - South","4GADE","Greater Adelaide",4,"South Australia",56.1996,30,10,86,84,40,48
+260,40303,"Mitcham",403,"Adelaide - South","4GADE","Greater Adelaide",4,"South Australia",74.3702,30,10,81,7,48,44
+261,40304,"Onkaparinga",403,"Adelaide - South","4GADE","Greater Adelaide",4,"South Australia",519.3716,38,10,98,72,48,56
+262,40401,"Charles Sturt",404,"Adelaide - West","4GADE","Greater Adelaide",4,"South Australia",53.3186,32,10,120,60,53,60
+263,40402,"Port Adelaide - West",404,"Adelaide - West","4GADE","Greater Adelaide",4,"South Australia",67.7726,36,10,119,63,54,59
+264,40403,"West Torrens",404,"Adelaide - West","4GADE","Greater Adelaide",4,"South Australia",38.3988,40,10,94,74,53,40
+265,40501,"Barossa",405,"Barossa - Yorke - Mid North","4RSAU","Rest of SA",4,"South Australia",2837.1519,37,10,89,96,31,42
+266,40502,"Lower North",405,"Barossa - Yorke - Mid North","4RSAU","Rest of SA",4,"South Australia",13728.959,33,10,135,62,36,49
+267,40503,"Mid North",405,"Barossa - Yorke - Mid North","4RSAU","Rest of SA",4,"South Australia",14409.4798,34,10,129,4,64,66
+268,40504,"Yorke Peninsula",405,"Barossa - Yorke - Mid North","4RSAU","Rest of SA",4,"South Australia",6740.7625,35,10,95,52,51,41
+269,40601,"Eyre Peninsula and South West",406,"South Australia - Outback","4RSAU","Rest of SA",4,"South Australia",235305.4796,39,10,100,50,63,46
+270,40602,"Outback - North and East",406,"South Australia - Outback","4RSAU","Rest of SA",4,"South Australia",642510.5005,37,10,89,23,72,61
+271,40701,"Fleurieu - Kangaroo Island",407,"South Australia - South East","4RSAU","Rest of SA",4,"South Australia",7363.5796,33,10,91,45,50,53
+272,40702,"Limestone Coast",407,"South Australia - South East","4RSAU","Rest of SA",4,"South Australia",21337.0782,37,10,127,59,44,43
+273,40703,"Murray and Mallee",407,"South Australia - South East","4RSAU","Rest of SA",4,"South Australia",36782.081,39,10,112,36,36,74
+276,50101,"Augusta - Margaret River - Busselton",501,"Bunbury","5RWAU","Rest of WA",5,"Western Australia",3664.3228,32,10,51,34,57,50
+277,50102,"Bunbury",501,"Bunbury","5RWAU","Rest of WA",5,"Western Australia",5449.5135,37,10,127,47,42,47
+278,50103,"Manjimup",501,"Bunbury","5RWAU","Rest of WA",5,"Western Australia",15688.5752,35,10,141,67,58,47
+279,50201,"Mandurah",502,"Mandurah","5GPER","Greater Perth",5,"Western Australia",1032.8628,38,10,67,58,57,48
+280,50301,"Cottesloe - Claremont",503,"Perth - Inner","5GPER","Greater Perth",5,"Western Australia",48.7155,33,10,67,38,49,40
+281,50302,"Perth City",503,"Perth - Inner","5GPER","Greater Perth",5,"Western Australia",43.5243,38,10,88,32,54,33
+282,50401,"Bayswater - Bassendean",504,"Perth - North East","5GPER","Greater Perth",5,"Western Australia",44.6692,70,10,107,54,54,34
+283,50402,"Mundaring",504,"Perth - North East","5GPER","Greater Perth",5,"Western Australia",685.4312,70,10,62,7,49,46
+284,50403,"Swan",504,"Perth - North East","5GPER","Greater Perth",5,"Western Australia",1032.3312,70,10,89,76,49,52
+285,50501,"Joondalup",505,"Perth - North West","5GPER","Greater Perth",5,"Western Australia",100.4725,70,10,97,8,39,59
+286,50502,"Stirling",505,"Perth - North West","5GPER","Greater Perth",5,"Western Australia",99.326,70,10,96,32,51,61
+287,50503,"Wanneroo",505,"Perth - North West","5GPER","Greater Perth",5,"Western Australia",684.2007,70,10,113,37,26,61
+288,50601,"Armadale",506,"Perth - South East","5GPER","Greater Perth",5,"Western Australia",559.5261,70,10,129,111,60,72
+289,50602,"Belmont - Victoria Park",506,"Perth - South East","5GPER","Greater Perth",5,"Western Australia",60.1099,70,10,61,67,49,51
+290,50603,"Canning",506,"Perth - South East","5GPER","Greater Perth",5,"Western Australia",68.1881,70,10,105,29,59,38
+291,50604,"Gosnells",506,"Perth - South East","5GPER","Greater Perth",5,"Western Australia",127.2975,70,10,63,77,44,46
+292,50605,"Kalamunda",506,"Perth - South East","5GPER","Greater Perth",5,"Western Australia",283.8,70,10,79,41,45,37
+293,50606,"Serpentine - Jarrahdale",506,"Perth - South East","5GPER","Greater Perth",5,"Western Australia",904.7637,70,10,143,73,56,35
+294,50607,"South Perth",506,"Perth - South East","5GPER","Greater Perth",5,"Western Australia",20.307,70,10,114,61,43,55
+295,50701,"Cockburn",507,"Perth - South West","5GPER","Greater Perth",5,"Western Australia",148.2099,70,10,142,41,24,53
+296,50702,"Fremantle",507,"Perth - South West","5GPER","Greater Perth",5,"Western Australia",41.3304,70,10,78,18,59,62
+297,50703,"Kwinana",507,"Perth - South West","5GPER","Greater Perth",5,"Western Australia",120.0121,70,10,127,17,54,31
+298,50704,"Melville",507,"Perth - South West","5GPER","Greater Perth",5,"Western Australia",53.4538,70,10,112,86,45,48
+299,50705,"Rockingham",507,"Perth - South West","5GPER","Greater Perth",5,"Western Australia",257.6898,70,10,136,-3,64,58
+300,50901,"Albany",509,"Western Australia - Wheat Belt","5RWAU","Rest of WA",5,"Western Australia",37887.9925,70,10,144,41,53,51
+301,50902,"Wheat Belt - North",509,"Western Australia - Wheat Belt","5RWAU","Rest of WA",5,"Western Australia",110694.5781,70,10,102,42,63,47
+302,50903,"Wheat Belt - South",509,"Western Australia - Wheat Belt","5RWAU","Rest of WA",5,"Western Australia",48762.806,70,10,80,48,65,66
+303,51001,"Kimberley",510,"Western Australia - Outback (North)","5RWAU","Rest of WA",5,"Western Australia",419259.7904,35,10,71,59,49,63
+304,51002,"East Pilbara",510,"Western Australia - Outback (North)","5RWAU","Rest of WA",5,"Western Australia",390723.7799,32,10,104,82,52,54
+305,51003,"West Pilbara",510,"Western Australia - Outback (North)","5RWAU","Rest of WA",5,"Western Australia",116066.0891,40,10,82,34,44,52
+306,51101,"Esperance",511,"Western Australia - Outback (South)","5RWAU","Rest of WA",5,"Western Australia",55660.6598,30,10,67,20,64,32
+307,51102,"Gascoyne",511,"Western Australia - Outback (South)","5RWAU","Rest of WA",5,"Western Australia",135064.0785,33,10,54,35,56,54
+308,51103,"Goldfields",511,"Western Australia - Outback (South)","5RWAU","Rest of WA",5,"Western Australia",714513.0765,40,10,48,71,25,31
+309,51104,"Mid West",511,"Western Australia - Outback (South)","5RWAU","Rest of WA",5,"Western Australia",466794.7549,38,10,113,28,37,35
+312,60101,"Brighton",601,"Hobart","6GHOB","Greater Hobart",6,"Tasmania",176.0777,70,10,73,75,49,52
+313,60102,"Hobart - North East",601,"Hobart","6GHOB","Greater Hobart",6,"Tasmania",265.9415,70,10,99,47,56,22
+314,60103,"Hobart - North West",601,"Hobart","6GHOB","Greater Hobart",6,"Tasmania",168.2819,70,10,125,12,62,57
+315,60104,"Hobart - South and West",601,"Hobart","6GHOB","Greater Hobart",6,"Tasmania",328.5063,70,10,101,71,31,43
+316,60105,"Hobart Inner",601,"Hobart","6GHOB","Greater Hobart",6,"Tasmania",62.2246,70,10,105,83,66,39
+317,60106,"Sorell - Dodges Ferry",601,"Hobart","6GHOB","Greater Hobart",6,"Tasmania",694.3265,70,10,9,57,33,53
+318,60201,"Launceston",602,"Launceston and North East","6RTAS","Rest of Tas.",6,"Tasmania",260.7088,34,10,72,29,40,51
+319,60202,"Meander Valley - West Tamar",602,"Launceston and North East","6RTAS","Rest of Tas.",6,"Tasmania",3978.9606,36,10,85,60,50,55
+320,60203,"North East",602,"Launceston and North East","6RTAS","Rest of Tas.",6,"Tasmania",15735.6666,32,10,107,68,50,39
+321,60301,"Central Highlands (Tas.)",603,"South East","6RTAS","Rest of Tas.",6,"Tasmania",18426.733,35,10,115,41,51,52
+322,60302,"Huon - Bruny Island",603,"South East","6RTAS","Rest of Tas.",6,"Tasmania",2192.675,32,10,121,63,51,55
+323,60303,"South East Coast",603,"South East","6RTAS","Rest of Tas.",6,"Tasmania",3202.6087,39,10,103,26,51,47
+324,60401,"Burnie - Ulverstone",604,"West and North West","6RTAS","Rest of Tas.",6,"Tasmania",1604.4734,32,10,84,17,52,58
+325,60402,"Devonport",604,"West and North West","6RTAS","Rest of Tas.",6,"Tasmania",1894.3583,31,10,93,99,52,53
+326,60403,"West Coast",604,"West and North West","6RTAS","Rest of Tas.",6,"Tasmania",19026.3178,33,10,74,32,41,47
+329,70101,"Darwin City",701,"Darwin","7GDAR","Greater Darwin",7,"Northern Territory",40.6174,33,10,81,39,42,46
+330,70102,"Darwin Suburbs",701,"Darwin","7GDAR","Greater Darwin",7,"Northern Territory",132.4416,35,10,76,64,34,45
+331,70103,"Litchfield",701,"Darwin","7GDAR","Greater Darwin",7,"Northern Territory",2938.3179,36,10,95,61,39,46
+332,70104,"Palmerston",701,"Darwin","7GDAR","Greater Darwin",7,"Northern Territory",52.5288,33,10,104,28,46,47
+333,70201,"Alice Springs",702,"Northern Territory - Outback","7RNTE","Rest of NT",7,"Northern Territory",569564.7295,38,10,122,78,39,44
+334,70202,"Barkly",702,"Northern Territory - Outback","7RNTE","Rest of NT",7,"Northern Territory",303213.9847,35,10,157,62,45,51
+335,70203,"Daly - Tiwi - West Arnhem",702,"Northern Territory - Outback","7RNTE","Rest of NT",7,"Northern Territory",112294.8534,35,10,103,14,53,41
+336,70204,"East Arnhem",702,"Northern Territory - Outback","7RNTE","Rest of NT",7,"Northern Territory",33606.5893,30,10,84,33,57,44
+337,70205,"Katherine",702,"Northern Territory - Outback","7RNTE","Rest of NT",7,"Northern Territory",326250.2655,34,10,109,69,49,39
+340,80101,"Belconnen",801,"Australian Capital Territory","8ACTE","Australian Capital Territory",8,"Australian Capital Territory",112.1467,37,10,128,55,68,36
+341,80103,"Canberra East",801,"Australian Capital Territory","8ACTE","Australian Capital Territory",8,"Australian Capital Territory",211.9214,30,10,101,30,42,51
+342,80104,"Gungahlin",801,"Australian Capital Territory","8ACTE","Australian Capital Territory",8,"Australian Capital Territory",91.8565,36,10,150,97,43,42
+343,80105,"North Canberra",801,"Australian Capital Territory","8ACTE","Australian Capital Territory",8,"Australian Capital Territory",44.7227,39,10,141,89,52,38
+344,80106,"South Canberra",801,"Australian Capital Territory","8ACTE","Australian Capital Territory",8,"Australian Capital Territory",44.4112,35,10,152,85,59,52
+345,80107,"Tuggeranong",801,"Australian Capital Territory","8ACTE","Australian Capital Territory",8,"Australian Capital Territory",159.7084,31,10,115,23,56,38
+346,80108,"Weston Creek",801,"Australian Capital Territory","8ACTE","Australian Capital Territory",8,"Australian Capital Territory",18.1487,32,10,124,38,49,60
+347,80109,"Woden Valley",801,"Australian Capital Territory","8ACTE","Australian Capital Territory",8,"Australian Capital Territory",28.6004,36,10,94,62,53,48
+348,80110,"Molonglo",801,"Australian Capital Territory","8ACTE","Australian Capital Territory",8,"Australian Capital Territory",27.1506,39,10,107,57,40,51
+349,80111,"Urriarra - Namadgi",801,"Australian Capital Territory","8ACTE","Australian Capital Territory",8,"Australian Capital Territory",1619.5054,32,10,106,94,52,53
+352,90101,"Christmas Island",901,"Other Territories","9OTER","Other Territories",9,"Other Territories",136.1356,39,10,91,41,49,61
+353,90102,"Cocos (Keeling) Islands",901,"Other Territories","9OTER","Other Territories",9,"Other Territories",13.7163,35,10,91,79,64,57
+354,90103,"Jervis Bay",901,"Other Territories","9OTER","Other Territories",9,"Other Territories",67.8134,39,10,104,-11,44,41
+355,90104,"Norfolk Island",901,"Other Territories","9OTER","Other Territories",9,"Other Territories",38.6509,30,10,89,29,49,45

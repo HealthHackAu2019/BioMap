@@ -75,7 +75,7 @@ locationText <- paste(
   lapply(htmltools::HTML)
 
 routeText <- paste(
-  "Route Number: ", mapData$group,"<br/>", 
+  "Route Number: ", mapData$Route,"<br/>", 
   "Speed: ", mapData$Speed, "<br/>", 
   "Heart Rate: ", mapData$HR, "<br/>", 
   sep="") %>%
@@ -100,6 +100,8 @@ shinyServer(function(input, output) {
     
     if (input$dropdown2 == "route1") {
       d = mapData[mapData$Route == 1,]
+    } else if (input$dropdown2 == "route2"){
+      d = mapData[mapData$Route == 2,]
     } else {
       d = mapData[mapData$Route == 2,]
     }
@@ -113,10 +115,13 @@ shinyServer(function(input, output) {
   output$HeartRatePlot <- renderPlot({
     
     if (input$dropdown2 == "route1") {
-    d = mapData[mapData$Route == 1,]
+      d = mapData[mapData$Route == 1,]
+    } else if (input$dropdown2 == "route2"){
+      d = mapData[mapData$Route == 2,]
     } else {
       d = mapData[mapData$Route == 2,]
     }
+    
     ggplot(data=d, aes(x=Time, y=HR)) + geom_line()
     
   })
@@ -142,6 +147,17 @@ shinyServer(function(input, output) {
   #to do: make line clickables and show relevant data in a panel
   
   output$RouteMap <- renderLeaflet({
+    if (input$dropdown2 == "route1") {
+      mapData = mapData[mapData$Route == 1,]
+      mapData2 = mapData[mapData$Route == 1,]
+    } else if (input$dropdown2 == "route2"){
+      mapData = mapData[mapData$Route == 2,]
+      mapData2 = mapData[mapData$Route == 2,]
+    } else {
+      mapData = mapData[mapData$Route == 2,]
+      mapData2 = mapData[mapData$Route == 2,]
+    }
+    
     m <- leaflet() %>%
       addTiles() %>%
       addPolylines(data = mapData, lng = ~Longitude, lat = ~Latitude, group = ~group, label = ~routeText, color = "black") %>%
@@ -151,6 +167,7 @@ shinyServer(function(input, output) {
       ) %>%
       setView(lng=153.0251, lat=-27.4698, zoom=10)
     m
+    
   })
   
   #Location Map
@@ -164,6 +181,11 @@ shinyServer(function(input, output) {
   
   
   output$LocationMap <- renderLeaflet({
+    
+    if (input$dropdown == "airQual") {
+      mapData$Color = input$dropdown
+    }
+  
     ma <- leaflet() %>%
       addTiles() %>%
       addPolygons(data=shapes,

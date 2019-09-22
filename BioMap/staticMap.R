@@ -33,17 +33,13 @@ library(RColorBrewer)
 ###############
 
 mapData <- read_csv("BioMap/ALLRoutes.csv")
-shapes <- shapefile("../SA3_2016_AUST.shp")
-ColorData <- read_csv("RandomColourData.csv")
+shapes <- shapefile("SA3_2016_AUST.shp")
+ColorData <- read_csv("BioMap/RandomColourData.csv")
 
 #line test data
-#mapData = TestData[,c("Latitude","Longitude","Speed","Route Num", "Heart Rate")]
 mapData$group = mapData$Route
-#mapData$HR = mapData$`Heart Rate`
-#mapData$Story = mapData$`Story Formula`
 
 #data with only marker points
-#to do: decide where the best places for markers - perhaps at each turn point?
 mapData2 = mapData[(mapData$Marker >= 1), ]
 
 ###############
@@ -51,14 +47,18 @@ mapData2 = mapData[(mapData$Marker >= 1), ]
 ###############
 
 #to do:
-#figure out colour for route 
+#figure out colour for route / polylines
+#fix location colours
+#https://gis.stackexchange.com/questions/292844/adding-color-to-polylines-in-leaflet-in-r 
 
 ###############
 
-locPalette = colorFactor("YlOrRd", shapes$STE_NAME16)
+locPalette = colorFactor("Spectral", ColorData$RandomOne)
 RoutePalette = colorNumeric(c("white","yellow", "navy"), mapData$group)
 #https://rstudio.github.io/leaflet/colors.html
 #https://www.r-graph-gallery.com/183-choropleth-map-with-leaflet.html
+
+
 
 ###############
 #HOVER TEXT
@@ -76,27 +76,32 @@ locationText <- paste(
   lapply(htmltools::HTML)
 
 routeText <- paste(
-  "Route Number: ", mapData$group,"<br/>", 
+  #"Route Number: ", mapData$Route,"<br/>", 
   "Speed: ", mapData$Speed, "<br/>", 
+  "Heart Rate: ", mapData$HR, "<br/>", 
   sep="") %>%
   lapply(htmltools::HTML)
+
+
+############################################################
 
 m <- leaflet() %>%
   addTiles() %>%
   addPolylines(data = mapData, lng = ~Longitude, lat = ~Latitude, group = ~group, label = ~routeText, color = "black") %>%
   addCircleMarkers(data = mapData2, lng= ~Longitude, lat= ~Latitude, popup = ~as.character(Story), 
                    label = ~routeText, radius = 5, fillColor = "red", color = "red"
-
-) %>%
+                   
+  ) %>%
   setView(lng=153.0251, lat=-27.4698, zoom=10)
 m
 
 pal <- colorFactor("YlOrRd", shapes$STE_NAME16)
 locPalette = colorFactor("YlOrRd", ColorData$RandomOne)
+
 ma <- leaflet() %>%
   addTiles() %>%
   addPolygons(data=shapes,
-              fillColor = ~locPalette(ColorData$RandomOne),
+              fillColor = ~ColorData$RandomOne,
               weight = 2,
               opacity = 1,
               color = "white",
@@ -108,7 +113,7 @@ ma <- leaflet() %>%
                 dashArray = "",
                 fillOpacity = 0.3,
                 bringToFront = TRUE),
-              label = mytext,
+              label = locationText,
               labelOptions = labelOptions(
                 style = list("font-weight" = "normal", padding = "3px 8px"),
                 textsize = "15px",

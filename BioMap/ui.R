@@ -16,6 +16,7 @@ library(mapdata)
 library(rsconnect)
 library(tidyr)
 library(shinydashboard)
+library(sf)
 
 ###############
 #USER INTERFACE
@@ -44,7 +45,8 @@ dashboardPage(
                 selectInput("dropdown2",
                             label = "Variable",
                             c("Route 1" ="route1", 
-                              "Route 2")
+                              "Route 2" ="route2", 
+                              "Route 3" ="route3")
                 ),
                 plotOutput("AltitudePlot", height = 200),
                 plotOutput("HeartRatePlot", height = 200),

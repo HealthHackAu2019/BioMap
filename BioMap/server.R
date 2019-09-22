@@ -1,7 +1,7 @@
 #
 # This is the server logic of a Shiny web application. You can run the 
 # application by clicking 'Run App' above.
-#
+#deploy
 # Find out more about building applications with Shiny here:
 # 
 #    http://shiny.rstudio.com/
@@ -20,6 +20,7 @@ library(tidyr)
 library(shinydashboard)
 library(readr)
 library(RColorBrewer)
+library(sf)
 
 ###############
 #DATA WRANGLING
@@ -35,7 +36,6 @@ shapes <- shapefile("../SA3_2016_AUST.shp")
 ColorData <- read_csv("RandomColourData.csv")
 
 #line test data
-#mapData = TestData[,c("Latitude","Longitude","Speed","Route Num", "Heart Rate")]
 mapData$group = mapData$Route
 
 #data with only marker points
@@ -52,7 +52,7 @@ mapData2 = mapData[(mapData$Marker >= 1), ]
 
 ###############
 
-locPalette = colorFactor(ColorData$RandomOne, ColorData$RandomOne)
+locPalette = colorFactor("Spectral", ColorData$RandomOne)
 RoutePalette = colorNumeric(c("white","yellow", "navy"), mapData$group)
 #https://rstudio.github.io/leaflet/colors.html
 #https://www.r-graph-gallery.com/183-choropleth-map-with-leaflet.html
@@ -69,13 +69,13 @@ RoutePalette = colorNumeric(c("white","yellow", "navy"), mapData$group)
 ###############
 
 locationText <- paste(
-  "Location: ", shapes$STE_NAME16,"<br/>", 
+  "Location: ", shapes$SA3_NAME16,"<br/>", 
   "Area: ", shapes$AREASQKM16, "<br/>", 
   sep="") %>%
   lapply(htmltools::HTML)
 
 routeText <- paste(
-  "Route Number: ", mapData$Route,"<br/>", 
+  #"Route Number: ", mapData$Route,"<br/>", 
   "Speed: ", mapData$Speed, "<br/>", 
   "Heart Rate: ", mapData$HR, "<br/>", 
   sep="") %>%
@@ -84,10 +84,6 @@ routeText <- paste(
 ###############
 #SERVER
 ###############
-
-
-i = mapData[mapData$`Route Num` == 1,]
-
 
 
 shinyServer(function(input, output) {
@@ -126,17 +122,6 @@ shinyServer(function(input, output) {
     
   })
   
-  #line represents Heart Rate
-  #output$BaseMap <- renderPlot({
-    
-   # if (input$dropdown == "airQual") {
-      #??
-   # } else {
-      #??
-   # }
-    #ggplot(data=d, aes(x=Time, y=HR)) + geom_line()
-    
-  #})
 
   
   #Route Map
@@ -149,13 +134,13 @@ shinyServer(function(input, output) {
   output$RouteMap <- renderLeaflet({
     if (input$dropdown2 == "route1") {
       mapData = mapData[mapData$Route == 1,]
-      mapData2 = mapData[mapData$Route == 1,]
+      mapData2 = mapData2[mapData2$Route == 1,]
     } else if (input$dropdown2 == "route2"){
       mapData = mapData[mapData$Route == 2,]
-      mapData2 = mapData[mapData$Route == 2,]
-    } else {
-      mapData = mapData[mapData$Route == 2,]
-      mapData2 = mapData[mapData$Route == 2,]
+      mapData2 = mapData2[mapData2$Route == 2,]
+    } else if (input$dropdown2 == "route3"){
+      mapData = mapData[mapData$Route == 3,]
+      mapData2 = mapData2[mapData2$Route == 3,]
     }
     
     m <- leaflet() %>%
@@ -182,14 +167,14 @@ shinyServer(function(input, output) {
   
   output$LocationMap <- renderLeaflet({
     
-    if (input$dropdown == "airQual") {
-      mapData$Color = input$dropdown
-    }
+    #if (input$dropdown == "airQual") {
+      #mapData$Color = input$dropdown
+    #}
   
     ma <- leaflet() %>%
       addTiles() %>%
       addPolygons(data=shapes,
-                  fillColor = ~ColorData$RandomOne,
+                  fillColor = ~locPalette(ColorData$RandomOne),
                   weight = 2,
                   opacity = 1,
                   color = "white",

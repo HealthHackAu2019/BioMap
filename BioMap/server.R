@@ -25,6 +25,11 @@ library(RColorBrewer)
 #DATA WRANGLING
 ###############
 
+#to do:
+#add markers as event
+
+###############
+
 TestData <- read_csv("ALLRoutes.csv")
 shapes <- shapefile("../SA3_2016_AUST.shp")
 
@@ -40,6 +45,11 @@ mapData2 = mapData[seq(1, nrow(mapData), 100), ]
 #CREATE PALETTES
 ###############
 
+#to do:
+#figure out colour for route / polylines
+#https://gis.stackexchange.com/questions/292844/adding-color-to-polylines-in-leaflet-in-r 
+###############
+
 locPalette = colorFactor("YlOrRd", shapes$STE_NAME16)
 RoutePalette = colorNumeric(c("white","yellow", "navy"), mapData$group)
 #https://rstudio.github.io/leaflet/colors.html
@@ -47,6 +57,11 @@ RoutePalette = colorNumeric(c("white","yellow", "navy"), mapData$group)
 
 ###############
 #HOVER TEXT
+###############
+
+#to do:
+#look into links for pop up bubbles: https://rstudio.github.io/leaflet/popups.html
+
 ###############
 
 locationText <- paste(

@@ -19,16 +19,17 @@ library('rgeos')
 library('maptools')
 library('tmap')
 
-library(jsonlite)
 library(raster)
-library(ggplot2)
-library(ggmap)
-library(mapdata)
 library(xlsx)
 library(RColorBrewer)
 
 ###############
 #DATA WRANGLING
+###############
+
+#to do:
+#add markers as event
+
 ###############
 
 TestData <- read_csv("ALLRoutes.csv")
@@ -39,11 +40,15 @@ mapData = TestData[,c("Latitude","Longitude","Speed","Route Num")]
 mapData$group = TestData$`Route Num`
 
 #data with only marker points
-#to do: decide where the best places for markers - perhaps at each turn point?
 mapData2 = mapData[seq(1, nrow(mapData), 100), ]
 
 ###############
 #CREATE PALETTES
+###############
+
+#to do:
+#figure out colour for route 
+
 ###############
 
 locPalette = colorFactor("YlOrRd", shapes$STE_NAME16)
@@ -53,6 +58,11 @@ RoutePalette = colorNumeric(c("white","yellow", "navy"), mapData$group)
 
 ###############
 #HOVER TEXT
+###############
+
+#to do:
+#look into links for pop up bubbles: https://rstudio.github.io/leaflet/popups.html
+
 ###############
 
 locationText <- paste(

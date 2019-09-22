@@ -17,7 +17,14 @@ library(rsconnect)
 library(tidyr)
 library(shinydashboard)
 
-# Define UI for application that draws a histogram
+###############
+#USER INTERFACE
+###############
+
+#UI guidance: https://rstudio.github.io/shinydashboard/structure.html#column-based-layout
+
+###############
+
 dashboardPage(
   dashboardHeader(title = "BioMap Australia"),
   dashboardSidebar(

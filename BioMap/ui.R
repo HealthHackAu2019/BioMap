@@ -16,6 +16,7 @@ library(mapdata)
 library(rsconnect)
 library(tidyr)
 library(shinydashboard)
+library(sf)
 
 ###############
 #USER INTERFACE

@@ -1,7 +1,7 @@
 #
 # This is the server logic of a Shiny web application. You can run the 
 # application by clicking 'Run App' above.
-#
+#deploy
 # Find out more about building applications with Shiny here:
 # 
 #    http://shiny.rstudio.com/
@@ -20,6 +20,7 @@ library(tidyr)
 library(shinydashboard)
 library(readr)
 library(RColorBrewer)
+library(sf)
 
 ###############
 #DATA WRANGLING

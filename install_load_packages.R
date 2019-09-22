@@ -22,5 +22,17 @@ packages<-c("ggplot2",
             "jsonlite",
             "rgdal",
             "raster",
-            "RColorBrewer")
+            "RColorBrewer",
+            "DBI",
+            "classInt",
+            "dichromat",
+            "e1071",
+            "leafsync",
+            "lwgeom",
+            "maptools",
+            "rgeos",
+            "sf",
+            "tmap",
+            "tmaptools",
+            "units")
 check.packages(packages)

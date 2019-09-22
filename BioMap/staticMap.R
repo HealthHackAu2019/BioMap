@@ -32,18 +32,19 @@ library(RColorBrewer)
 
 ###############
 
-mapData <- read_csv("ALLRoutes.csv")
+mapData <- read_csv("BioMap/ALLRoutes.csv")
 shapes <- shapefile("../SA3_2016_AUST.shp")
 ColorData <- read_csv("RandomColourData.csv")
 
 #line test data
 #mapData = TestData[,c("Latitude","Longitude","Speed","Route Num", "Heart Rate")]
-mapData$group = mapData$`Route Num`
-mapData$HR = mapData$`Heart Rate`
+mapData$group = mapData$Route
+#mapData$HR = mapData$`Heart Rate`
+#mapData$Story = mapData$`Story Formula`
 
 #data with only marker points
 #to do: decide where the best places for markers - perhaps at each turn point?
-mapData2 = mapData[seq(1, nrow(mapData), 100), ]
+mapData2 = mapData[(mapData$Marker >= 1), ]
 
 ###############
 #CREATE PALETTES
@@ -83,7 +84,7 @@ routeText <- paste(
 m <- leaflet() %>%
   addTiles() %>%
   addPolylines(data = mapData, lng = ~Longitude, lat = ~Latitude, group = ~group, label = ~routeText, color = "black") %>%
-  addCircleMarkers(data = mapData2, lng= ~Longitude, lat= ~Latitude, popup = ~as.character(Speed), 
+  addCircleMarkers(data = mapData2, lng= ~Longitude, lat= ~Latitude, popup = ~as.character(Story), 
                    label = ~routeText, radius = 5, fillColor = "red", color = "red"
 
 ) %>%

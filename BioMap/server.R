@@ -36,12 +36,10 @@ ColorData <- read_csv("RandomColourData.csv")
 
 #line test data
 #mapData = TestData[,c("Latitude","Longitude","Speed","Route Num", "Heart Rate")]
-mapData$group = mapData$`Route Num`
-mapData$HR = mapData$`Heart Rate`
+mapData$group = mapData$Route
 
 #data with only marker points
-#to do: decide where the best places for markers - perhaps at each turn point?
-mapData2 = mapData[seq(1, nrow(mapData), 100), ]
+mapData2 = mapData[(mapData$Marker >= 1), ]
 
 ###############
 #CREATE PALETTES
@@ -94,35 +92,47 @@ i = mapData[mapData$`Route Num` == 1,]
 
 shinyServer(function(input, output) {
 
-  #Pl,ot
+  #Plot Render
   ###############
 
   #line represents altitude
-  
   output$AltitudePlot <- renderPlot({
     
     if (input$dropdown2 == "route1") {
-      d = mapData[mapData$`Route Num` == 1,]
+      d = mapData[mapData$Route == 1,]
     } else {
-      d = mapData[mapData$`Route Num` == 2,]
+      d = mapData[mapData$Route == 2,]
     }
     
     ggplot(data=d, aes(x=Time, y=Altitude)) + geom_line()
     
   })
+ 
   
+  #line represents Heart Rate
   output$HeartRatePlot <- renderPlot({
     
     if (input$dropdown2 == "route1") {
-      d = mapData[mapData$`Route Num` == 1,]
+    d = mapData[mapData$Route == 1,]
     } else {
-      d = mapData[mapData$`Route Num` == 2,]
+      d = mapData[mapData$Route == 2,]
     }
     ggplot(data=d, aes(x=Time, y=HR)) + geom_line()
     
   })
-
   
+  #line represents Heart Rate
+  #output$BaseMap <- renderPlot({
+    
+   # if (input$dropdown == "airQual") {
+      #??
+   # } else {
+      #??
+   # }
+    #ggplot(data=d, aes(x=Time, y=HR)) + geom_line()
+    
+  #})
+
   
   #Route Map
   ###############
@@ -134,8 +144,8 @@ shinyServer(function(input, output) {
   output$RouteMap <- renderLeaflet({
     m <- leaflet() %>%
       addTiles() %>%
-      addPolylines(data = mapData, lng = ~Longitude, lat = ~Latitude, group = ~group, label = ~routeText) %>%
-      addCircleMarkers(data = mapData2, lng= ~Longitude, lat= ~Latitude, popup = ~as.character(Speed), 
+      addPolylines(data = mapData, lng = ~Longitude, lat = ~Latitude, group = ~group, label = ~routeText, color = "black") %>%
+      addCircleMarkers(data = mapData2, lng= ~Longitude, lat= ~Latitude, popup = ~as.character(Story), 
                        label = ~routeText, radius = 5, fillColor = "red", color = "red"
                        
       ) %>%

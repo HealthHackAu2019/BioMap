@@ -58,8 +58,8 @@ dashboardPage(
               #Dropdown Menu
               selectInput("dropdown",
                           label = "Variable",
-                          c("Air Quality2" ="airQual2", 
-                            "Temperature2")
+                          c("Air Quality2" ="airQual", 
+                            "Temperature")
                   ),
               #map
               leafletOutput("LocationMap",height = 1000),
